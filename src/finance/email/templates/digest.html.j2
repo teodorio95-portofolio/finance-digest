@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark">
+<title>{{ d.subject }}</title>
+<style>
+{{ css | safe }}
+</style>
+</head>
+<body class="body">
+<table role="presentation" class="outer" width="100%" cellpadding="0" cellspacing="0">
+<tr><td align="center" class="outer-cell">
+<table role="presentation" class="card" width="100%" cellpadding="0" cellspacing="0">
+
+{% macro grid(rows) %}
+<table role="presentation" class="grid" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <th class="g-name">&nbsp;</th><th class="g-num">Valoare</th><th class="g-num">Zi</th>
+    {% for h in d.horizons %}<th class="g-num">{{ h }}</th>{% endfor %}
+  </tr>
+  {% for r in rows %}
+  <tr>
+    <td class="g-name"><span class="g-label">{{ r.label }}</span>{% if r.note %}<br><span class="g-note">{{ r.note }} · {{ r.date }}{% if r.stale %}, fără cotație nouă{% endif %}</span>{% endif %}</td>
+    <td class="g-num g-value">{{ r.value }}</td>
+    <td class="g-num {{ r.day_tone }}">{{ r.day }}</td>
+    {% for c in r.changes %}<td class="g-num {{ c.tone }}">{{ c.text }}</td>{% endfor %}
+  </tr>
+  {% if r.extra or r.why or r.unexplained %}
+  <tr><td class="g-detail" colspan="{{ 3 + d.horizons | length }}">
+    {% for line in r.extra %}<div class="meta">{{ line }}</div>{% endfor %}
+    {% if r.why %}<div class="why">{{ r.why.text }}
+      {% for s in r.why.sources %}<a href="{{ s.url }}">[{{ loop.index }}]</a> {% endfor %}</div>
+    {% elif r.unexplained %}<div class="why why-none">Mișcare peste prag, dar fără o cauză cu sursă găsită azi.</div>{% endif %}
+  </td></tr>
+  {% endif %}
+  {% endfor %}
+</table>
+{% endmacro %}
+
+<tr><td class="header">
+  <div class="eyebrow">Bani în euro · {% if d.mode == "weekly" %}rezumatul săptămânii{% else %}curs, ETF-uri, dobânzi{% endif %}</div>
+  <div class="title">{{ d.date_human }}</div>
+  {% for chip in d.chips %}<span class="chip">{{ chip }}</span>{% endfor %}
+</td></tr>
+
+{% if d.alerts %}
+<tr><td class="alert-cell"><div class="alert">
+  <strong>Surse degradate.</strong>
+  {% for a in d.alerts %}{{ a.source }} a eșuat de {{ a.streak }} ori la rând ({{ a.error }}){% if not loop.last %}; {% endif %}{% endfor %}.
+  Valorile lor sunt cele din ultima rulare reușită.
+</div></td></tr>
+{% endif %}
+
+<tr><td class="tldr-cell"><div class="tldr">
+  <div class="tldr-title">Pe scurt</div>
+  <ul>{% for line in d.tldr %}<li>{{ line }}</li>{% endfor %}</ul>
+</div></td></tr>
+
+{% if d.fx %}
+<tr><td class="section">
+  <div class="section-title">Curs valutar</div>
+  {{ grid(d.fx) }}
+</td></tr>
+{% endif %}
+
+{% if d.etf %}
+<tr><td class="section">
+  <div class="section-title">ETF-uri</div>
+  <div class="section-hint">Toate sunt UCITS, în EUR pe Xetra, deci se pot cumpăra de la brokeri din UE. SPY și QQQ, ETF-urile americane din știri, nu se vând investitorilor de retail din UE (PRIIPs); SXR8 urmărește același S&P 500, SXRV același Nasdaq-100.</div>
+  {{ grid(d.etf) }}
+</td></tr>
+{% endif %}
+
+{% if d.rates %}
+<tr><td class="section">
+  <div class="section-title">Dobânzi de referință în EUR</div>
+  {{ grid(d.rates) }}
+</td></tr>
+{% endif %}
+
+{% if d.offers_new %}
+<tr><td class="section">
+  <div class="section-title">Oportunități noi sau schimbate</div>
+  {% for o in d.offers_new %}
+  <table role="presentation" class="item" width="100%" cellpadding="0" cellspacing="0"><tr><td class="item-cell">
+    {% if o.status %}<span class="label label-launch">{{ o.status }}</span>{% endif %}
+    <div class="item-title"><a href="{{ o.url }}">{{ o.title }}</a></div>
+    <div class="rate">{{ o.rate }}</div>
+    <div class="meta">{{ o.facts }}{% if o.seen %} · sursă din {{ o.seen }}{% endif %}</div>
+    {% if o.conditions %}<div class="body-text">{{ o.conditions }}</div>{% endif %}
+  </td></tr></table>
+  {% endfor %}
+</td></tr>
+{% elif d.offers_failed %}
+<tr><td class="section">
+  <div class="section-title">Oportunități</div>
+  <div class="section-hint">Căutarea de oferte a eșuat azi ({{ d.offers_failed }}); reîncearcă la următoarea rulare.</div>
+</td></tr>
+{% endif %}
+
+{% if d.offers_active %}
+<tr><td class="section">
+  <div class="section-title">Cele mai bune oferte active (EUR întâi)</div>
+  {% for o in d.offers_active %}
+  <div class="row"><div class="list-title"><a href="{{ o.url }}">{{ o.title }}</a> · <span class="rate-inline">{{ o.rate }}</span></div>
+    <div class="list-meta">{{ o.facts }}</div></div>
+  {% endfor %}
+</td></tr>
+{% endif %}
+
+{% if d.news %}
+<tr><td class="section">
+  <div class="section-title">Știri care au contat</div>
+  {% for n in d.news %}
+  <div class="row"><div class="list-title"><a href="{{ n.url }}">{{ n.title }}</a></div>
+    <div class="list-meta">{% if n.source %}{{ n.source }}{% endif %}{% if n.date %}{% if n.source %} · {% endif %}{{ n.date }}{% endif %}</div>
+    {% if n.note %}<div class="body-text">{{ n.note }}</div>{% endif %}</div>
+  {% endfor %}
+</td></tr>
+{% endif %}
+
+<tr><td class="footer">
+  {% if d.failed %}Surse eșuate azi: {% for f in d.failed %}{{ f.source }} ({{ f.error }}){% if not loop.last %}; {% endif %}{% endfor %}.<br>{% endif %}
+  {% if not d.explained %}Explicațiile automate au lipsit azi; cifrele sunt complete.<br>{% endif %}
+  Informativ, nu este consultanță de investiții. Cursurile vin de la BNR și BCE, prețurile ETF de la justETF sau Yahoo Finance. Explicațiile și ofertele sunt găsite automat pe web și pot fi incomplete; verifică la sursă înainte să decizi.<br>
+  Generat automat de {% if d.link %}<a href="{{ d.link }}">finance-digest</a>{% else %}finance-digest{% endif %}.
+</td></tr>
+
+</table>
+</td></tr></table>
+</body>
+</html>

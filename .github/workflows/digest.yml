@@ -1,0 +1,190 @@
+# Daily digest for a euro saver in Romania: BNR rates, global ETFs, ECB rates,
+# Fidelis / Tezaur and EUR deposit offers, with the causes of the day's moves.
+#
+# No `schedule` trigger on purpose: GitHub drops scheduled runs under load.
+# gh-workflow-scheduler (Cloudflare Worker) dispatches this Tue-Sat at 05:30 UTC for
+# the previous day (every close is final by then) and on Sunday with mode=weekly.
+#
+# Deterministic Python fetches, validates, diffs, keeps state, renders and
+# sends. Claude Code only prints JSON: the offers it found on the web (discover)
+# and the causes of the moves, with links (explain). It never writes state or files.
+name: digest
+
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Send a digest even when no source has a new value"
+        type: boolean
+        default: false
+      mode:
+        description: "daily = the latest session; weekly = the week + best active offers"
+        type: choice
+        options: [daily, weekly]
+        default: daily
+
+permissions:
+  contents: write
+
+concurrency:
+  group: digest
+  cancel-in-progress: false
+
+env:
+  CLAUDE_CODE_VERSION: "2.1.282"
+  MODE: ${{ inputs.mode || 'daily' }}
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Check out the data branch into out/ (created on the first run)
+        run: |
+          if git fetch --depth=1 origin data 2>/dev/null; then
+            git worktree add -B data out FETCH_HEAD
+          else
+            git worktree add --orphan -b data out
+            echo "::notice::created the data branch"
+          fi
+          echo "TODAY=$(date -u +%F)" >> "$GITHUB_ENV"
+          if [ "$MODE" = "weekly" ]; then
+            echo "STEM=$(date -u +%F)-saptamanal" >> "$GITHUB_ENV"
+          else
+            echo "STEM=$(date -u +%F)" >> "$GITHUB_ENV"
+          fi
+          echo "LINK=https://github.com/$GITHUB_REPOSITORY/tree/data/digests" >> "$GITHUB_ENV"
+
+      - uses: astral-sh/setup-uv@v10.2.0
+        with:
+          enable-cache: true
+
+      - name: Install
+        run: uv sync --frozen
+
+      - name: Retry pending emails
+        env:
+          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+          MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+        run: |
+          uv run finance send --root out || echo "::warning::a pending email failed again; it stays in the outbox"
+          scripts/commit-data.sh "outbox: retry $TODAY"
+
+      - name: Collect
+        run: uv run finance collect --state-dir out/state --out "$RUNNER_TEMP/report.json" --mode "$MODE"
+
+      - name: Install Claude Code
+        run: npm install --global --no-fund --no-audit "@anthropic-ai/claude-code@$CLAUDE_CODE_VERSION"
+
+      - name: Discover offers with Claude (web search)
+        continue-on-error: true
+        timeout-minutes: 7
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          # a token pasted from a wrapped terminal line carries a newline; the CLI rejects it
+          export CLAUDE_CODE_OAUTH_TOKEN="${CLAUDE_CODE_OAUTH_TOKEN//[$' \t\r\n']/}"
+          # stripping changes the value, so GitHub's mask for the stored secret no longer
+          # matches it; register the stripped form before anything can echo it
+          if [ -n "$CLAUDE_CODE_OAUTH_TOKEN" ]; then
+            printf '::add-mask::%s\n' "$CLAUDE_CODE_OAUTH_TOKEN"
+          fi
+          uv run finance prompt prompt/discover.md --state-dir out/state > "$RUNNER_TEMP/discover.md"
+          # The CLI prints its own errors (expired token, usage limit, ...) on stdout,
+          # which is captured; echo the file when the CLI returns, then keep its exit code.
+          status=0
+          claude -p "$(cat "$RUNNER_TEMP/discover.md")" \
+            --allowedTools "WebSearch,WebFetch" \
+            --disallowedTools "Bash,Edit,Write,NotebookEdit" \
+            --max-turns 18 --output-format text > "$RUNNER_TEMP/discover.txt" || status=$?
+          tail -c 3000 "$RUNNER_TEMP/discover.txt"
+          [ -s "$RUNNER_TEMP/discover.txt" ] || echo "::warning::claude wrote nothing (exit $status)"
+          exit $status
+
+      - name: Merge offers
+        run: uv run finance merge-offers --raw "$RUNNER_TEMP/discover.txt" --report "$RUNNER_TEMP/report.json" --state-dir out/state
+
+      - name: Anything to send?
+        id: decide
+        env:
+          FORCE: ${{ inputs.force }}
+        run: |
+          flag=""; [ "$FORCE" = "true" ] && flag="--force"
+          echo "send=$(uv run finance should-send "$RUNNER_TEMP/report.json" $flag)" >> "$GITHUB_OUTPUT"
+
+      - name: Explain the moves with Claude (web search)
+        if: steps.decide.outputs.send == 'true'
+        continue-on-error: true
+        timeout-minutes: 7
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          export CLAUDE_CODE_OAUTH_TOKEN="${CLAUDE_CODE_OAUTH_TOKEN//[$' \t\r\n']/}"
+          if [ -n "$CLAUDE_CODE_OAUTH_TOKEN" ]; then
+            printf '::add-mask::%s\n' "$CLAUDE_CODE_OAUTH_TOKEN"
+          fi
+          uv run finance prompt prompt/explain.md --report "$RUNNER_TEMP/report.json" > "$RUNNER_TEMP/explain.md"
+          status=0
+          claude -p "$(cat "$RUNNER_TEMP/explain.md")" \
+            --allowedTools "WebSearch,WebFetch" \
+            --disallowedTools "Bash,Edit,Write,NotebookEdit" \
+            --max-turns 15 --output-format text > "$RUNNER_TEMP/why.json" || status=$?
+          tail -c 3000 "$RUNNER_TEMP/why.json"
+          [ -s "$RUNNER_TEMP/why.json" ] || echo "::warning::claude wrote nothing (exit $status)"
+          exit $status
+
+      - name: Render and queue
+        if: steps.decide.outputs.send == 'true'
+        run: uv run finance render --report "$RUNNER_TEMP/report.json" --prose "$RUNNER_TEMP/why.json" --out-dir out --link "$LINK"
+
+      # State, digest and the pending outbox entry are committed BEFORE sending,
+      # so a failed send is retried by the next run instead of being lost.
+      - name: Commit state and digest
+        run: |
+          scripts/commit-data.sh "digest: $STEM"
+
+      - name: Send email
+        if: steps.decide.outputs.send == 'true'
+        env:
+          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+          MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+        run: uv run finance send --root out
+
+      - name: Commit delivery status
+        if: always() && steps.decide.outputs.send == 'true'
+        run: |
+          scripts/commit-data.sh "outbox: $STEM"
+
+      # ntfy.sh rate-limits per sending IP; a 429 must not fail the run.
+      - name: Phone push (ntfy)
+        if: steps.decide.outputs.send == 'true'
+        continue-on-error: true
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          [ -n "$NTFY_TOPIC" ] || { echo "no NTFY_TOPIC secret; skipping"; exit 0; }
+          uv run finance ntfy --digest "out/digests/$STEM.json" --link "$LINK" > "$RUNNER_TEMP/ntfy.json"
+          code=$(curl -s -o /dev/null -w '%{http_code}' -H 'Content-Type: application/json' \
+            --data-binary @"$RUNNER_TEMP/ntfy.json" https://ntfy.sh/)
+          echo "ntfy HTTP $code"
+          [ "$code" = "200" ]
+
+      - name: Summary
+        if: always()
+        run: |
+          [ -f "$RUNNER_TEMP/report.json" ] || exit 0
+          python3 - "$RUNNER_TEMP/report.json" >> "$GITHUB_STEP_SUMMARY" <<'EOF'
+          import json, sys
+          r = json.load(open(sys.argv[1]))
+          print(f"## Digest {r['date']} ({r['mode']})\n")
+          for row in r["rows"]:
+              flag = " **notable**" if row.get("notable") else ""
+              print(f"- {row['id']}: {row['value']} on {row['date']}{'' if row['fresh'] else ' (not new)'}{flag}")
+          print(f"- offers new/changed: {len(r.get('offers_new', []))}, active: {len(r.get('offers_active', []))}")
+          if r.get("offers_failed"):
+              print(f"- offers FAILED: {r['offers_failed']}")
+          for f in r.get("failed", []):
+              print(f"- FAILED {f['source']} ({f['streak']}x): {f['error']}")
+          EOF

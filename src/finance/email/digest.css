@@ -1,0 +1,114 @@
+/* Inlined at render time by css-inline. Palette, font stack and table skeleton
+   follow ai-trends-digest so both digests look like one family. */
+
+body, .body { margin: 0; padding: 0; background: #f4f5f7; }
+.outer { background: #f4f5f7; }
+.outer-cell { padding: 24px 12px; }
+.card {
+  max-width: 640px; background: #ffffff; border: 1px solid #d8dee4; border-radius: 10px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  color: #1f2328;
+}
+a:not(.z) { color: #0969da; text-decoration: none; font-weight: 600; }  /* .z: zone list links stay un-inlined, for size */
+
+.header { padding: 28px 32px 18px 32px; }
+.eyebrow {
+  font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: #656d76;
+}
+.title { font-size: 22px; font-weight: 700; color: #1f2328; margin: 6px 0 14px 0; }
+.chip {
+  display: inline-block; margin: 0 6px 6px 0; padding: 4px 10px; border-radius: 999px;
+  background: #f6f8fa; border: 1px solid #d8dee4; font-size: 13px; color: #1f2328;
+}
+
+.tldr-cell { padding: 0 32px 8px 32px; }
+.tldr { background: #f6f8fa; border-left: 4px solid #0969da; border-radius: 6px; padding: 16px 18px; }
+.tldr-title {
+  font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+  color: #0969da; margin: 0 0 10px 0;
+}
+.tldr ul { margin: 0; padding: 0 0 0 20px; font-size: 15px; line-height: 1.55; }
+.tldr li { margin: 0 0 6px 0; }
+
+.alert-cell { padding: 0 32px 8px 32px; }
+.alert {
+  background: #fff8c5; border-left: 4px solid #9a6700; border-radius: 6px; padding: 14px 18px;
+  font-size: 14px; line-height: 1.5; color: #1f2328;
+}
+
+.section { padding: 22px 32px 4px 32px; }
+.section-title {
+  border-top: 1px solid #d8dee4; padding-top: 18px; margin: 0 0 12px 0; font-size: 12px;
+  font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: #656d76;
+}
+.section-hint { font-size: 12px; color: #656d76; margin: -6px 0 12px 0; }
+
+.item { margin: 0 0 12px 0; border: 1px solid #d8dee4; border-radius: 8px; }
+.item-cell { padding: 14px 16px; }
+.row { padding: 0 0 12px 0; }
+.label {
+  display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 700;
+  letter-spacing: .06em;
+}
+.label-launch { background: #dafbe1; color: #1a7f37; }
+.label-signal { background: #fff8c5; color: #9a6700; }
+.zone { font-size: 12px; font-weight: 600; color: #656d76; padding-left: 6px; }
+.item-title { font-size: 16px; font-weight: 700; margin: 8px 0 4px 0; line-height: 1.35; }
+.item-title a { color: #1f2328; }
+.meta { font-size: 13px; color: #656d76; line-height: 1.5; }
+.body-text { font-size: 14px; color: #1f2328; line-height: 1.5; margin: 6px 0 0 0; }
+.note { font-size: 14px; color: #1f2328; line-height: 1.5; margin: 8px 0 0 0; font-style: italic; }
+.links { font-size: 13px; margin: 8px 0 0 0; }
+
+.list-title { font-size: 15px; font-weight: 600; line-height: 1.4; }
+/* the full list by zone: one short line per project, kept light for Gmail's 102 KB clip */
+.zone-title { font-size: 14px; font-weight: 700; margin: 16px 0 6px 0; }
+.zlist { font-size: 13px; line-height: 1.7; color: #656d76; }
+.list-meta { font-size: 12px; color: #656d76; margin: 2px 0 0 0; }
+
+/* the numbers table: one row per series, a detail row under it for splits and causes */
+.grid { border-collapse: collapse; font-size: 14px; }
+.grid th { font-size: 11px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: #656d76; padding: 0 0 6px 0; border-bottom: 1px solid #d8dee4; }
+.grid td { padding: 8px 0; border-bottom: 1px solid #eaeef2; vertical-align: top; }
+.g-name { text-align: left; padding-right: 8px !important; }
+.g-num { text-align: right; white-space: nowrap; padding-left: 10px !important; }
+.g-label { font-weight: 600; }
+.g-note { font-size: 12px; color: #656d76; }
+.g-value { font-weight: 700; }
+.g-detail { padding: 0 0 10px 0 !important; }
+.pos { color: #1a7f37; }
+.neg { color: #cf222e; }
+.why { font-size: 14px; line-height: 1.5; margin: 4px 0 0 0; }
+.why-none { color: #656d76; font-style: italic; }
+.rate { font-size: 18px; font-weight: 700; color: #1a7f37; margin: 2px 0 4px 0; }
+.rate-inline { font-weight: 700; color: #1a7f37; }
+
+.footer {
+  padding: 22px 32px 26px 32px; font-size: 12px; line-height: 1.6; color: #656d76;
+  border-top: 1px solid #d8dee4;
+}
+.footer a { color: #656d76; font-weight: 400; text-decoration: underline; }
+
+/* Apple Mail / iOS Mail honour this; Gmail keeps the light version. */
+@media (prefers-color-scheme: dark) {
+  body, .body, .outer { background: #0d1117 !important; }
+  .card { background: #161b22 !important; border-color: #30363d !important; color: #e6edf3 !important; }
+  .title, .item-title a, .body-text, .note, .list-title, .chip, .alert, .zone-title { color: #e6edf3 !important; }
+  .chip, .tldr { background: #21262d !important; border-color: #30363d !important; }
+  .item, .section-title, .footer { border-color: #30363d !important; }
+  .eyebrow, .meta, .zone, .list-meta, .zlist, .footer, .footer a, .section-title, .section-hint { color: #9198a1 !important; }
+  a { color: #4493f8 !important; }
+  .alert { background: #3a2f00 !important; }
+  .label-launch { background: #033a16 !important; color: #3fb950 !important; }
+  .label-signal { background: #3a2f00 !important; color: #d29922 !important; }
+  .grid th, .g-note { color: #9198a1 !important; border-color: #30363d !important; }
+  .grid td { border-color: #30363d !important; }
+  .why, .g-label, .g-value { color: #e6edf3 !important; }
+  .pos, .rate, .rate-inline { color: #3fb950 !important; }
+  .neg { color: #f85149 !important; }
+}
+
+@media (max-width: 480px) {
+  .header, .section, .footer { padding-left: 18px !important; padding-right: 18px !important; }
+  .tldr-cell, .alert-cell { padding-left: 18px !important; padding-right: 18px !important; }
+}
