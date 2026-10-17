@@ -1,36 +1,32 @@
 BANI ÎN EURO · curs, ETF-uri, dobânzi
 Sâmbătă, 17 octombrie 2026
-1 mișcare notabilă
 
 PE SCURT
 - EUR/RON 5,3368 lei (0,00% față de cotația precedentă).
 - ETF-uri în EUR: S&P 500 −0,61%, Nasdaq −1,44% față de cotația precedentă.
-- Azi: 1 mișcare notabilă.
 
 CURS VALUTAR
-- EUR/RON: 5,3368 (16.10) · zi 0,00% · 7 zile −0,09% · 30 zile +1,39%
-- USD/RON: 4,7430 (16.10) · zi −0,30% · 7 zile −0,38% · 30 zile +3,99%
-- EUR/USD: 1,1253 (16.10) · zi +0,40% · 7 zile +0,42% · 30 zile −2,46%
+- EUR/RON: 5,3368 (16.10, fără cotație nouă) · zi 0,00% · 7 zile −0,09% · 30 zile +1,39%
+- USD/RON: 4,7430 (16.10, fără cotație nouă) · zi −0,30% · 7 zile −0,38% · 30 zile +3,99%
+- EUR/USD: 1,1253 (16.10, fără cotație nouă) · zi +0,40% · 7 zile +0,42% · 30 zile −2,46%
 
 
 ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
-- iShares Core S&P 500 (SXR8): 740,44 € (16.10) · zi −0,61% · 7 zile −1,56% · 30 zile +4,89%
+- iShares Core S&P 500 (SXR8): 740,44 € (16.10, fără cotație nouă) · zi −0,61% · 7 zile −1,56% · 30 zile +4,89%
   7 zile: S&P 500 în USD −1,14%, efectul cursului EUR/USD −0,42% (aproximativ)
   30 zile: S&P 500 în USD +2,31%, efectul cursului EUR/USD +2,52% (aproximativ)
-- iShares Nasdaq 100 (SXRV): 1.507,50 € (16.10) · zi −1,44% · 7 zile −4,80% · 30 zile +4,58%
+- iShares Nasdaq 100 (SXRV): 1.507,50 € (16.10, fără cotație nouă) · zi −1,44% · 7 zile −4,80% · 30 zile +4,58%
   7 zile: Nasdaq-100 în USD −4,40%, efectul cursului EUR/USD −0,42% (aproximativ)
   30 zile: Nasdaq-100 în USD +2,01%, efectul cursului EUR/USD +2,52% (aproximativ)
-  Mișcare peste prag, fără o cauză cu sursă găsită azi.
-- Vanguard FTSE All-World (VWCE): 170,38 € (16.10) · zi −0,41% · 7 zile −1,47% · 30 zile +3,17%
-- Xtrackers EUR Overnight (XEON): 150,5400 € (16.10) · zi +0,03% · 7 zile +0,07% · 30 zile +0,23%
+- Vanguard FTSE All-World (VWCE): 170,38 € (16.10, fără cotație nouă) · zi −0,41% · 7 zile −1,47% · 30 zile +3,17%
+- Xtrackers EUR Overnight (XEON): 150,5400 € (16.10, fără cotație nouă) · zi +0,03% · 7 zile +0,07% · 30 zile +0,23%
   Randament anualizat pe ultimele 30 de zile: ~2,79%
 
 
 DOBÂNZI DE REFERINȚĂ ÎN EUR
-- Rata facilității de depozit BCE: 2,50% (17.10) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+- Rata facilității de depozit BCE: 2,50% (17.10) · zi – · 7 zile 0,00 pp · 30 zile 0,00 pp
   Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
-- €STR (dobânda overnight în EUR): 2,440% (15.10) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
-  Ultima schimbare: 14.10.2026, de la 2,439% la 2,440%
+- €STR (dobânda overnight în EUR): 2,440% (15.10) · zi – · 7 zile 0,00 pp · 30 zile 0,00 pp
 
 
 OPORTUNITĂȚI: căutarea a eșuat azi (no JSON object in Claude's output)

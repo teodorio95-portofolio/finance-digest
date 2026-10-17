@@ -2,8 +2,7 @@
  "subject": "Bani în euro 17.10: EUR/RON 5,3368 (0,00%) · S&P 500 −0,61% · Nasdaq −1,44%",
  "tldr": [
   "EUR/RON 5,3368 lei (0,00% față de cotația precedentă).",
-  "ETF-uri în EUR: S&P 500 −0,61%, Nasdaq −1,44% față de cotația precedentă.",
-  "Azi: 1 mișcare notabilă."
+  "ETF-uri în EUR: S&P 500 −0,61%, Nasdaq −1,44% față de cotația precedentă."
  ],
  "report": {
   "date": "2026-10-17",
@@ -19,7 +18,7 @@
     "us_index": null,
     "date": "2026-10-16",
     "value": 5.3368,
-    "fresh": true,
+    "fresh": false,
     "day": -0.003747423646238701,
     "changes": {
      "7": -0.08611974388736954,
@@ -37,7 +36,7 @@
     "us_index": null,
     "date": "2026-10-16",
     "value": 4.743,
-    "fresh": true,
+    "fresh": false,
     "day": -0.29639906665825944,
     "changes": {
      "7": -0.3822565739729389,
@@ -55,7 +54,7 @@
     "us_index": null,
     "date": "2026-10-16",
     "value": 1.1253,
-    "fresh": true,
+    "fresh": false,
     "day": 0.4014989293361859,
     "changes": {
      "7": 0.419418168838126,
@@ -73,7 +72,7 @@
     "us_index": "S&P 500",
     "date": "2026-10-16",
     "value": 740.44,
-    "fresh": true,
+    "fresh": false,
     "day": -0.6094123332169965,
     "changes": {
      "7": -1.555561464620936,
@@ -101,7 +100,7 @@
     "us_index": "Nasdaq-100",
     "date": "2026-10-16",
     "value": 1507.5,
-    "fresh": true,
+    "fresh": false,
     "day": -1.4383785550833639,
     "changes": {
      "7": -4.798292368706902,
@@ -117,7 +116,7 @@
       "fx": 2.52377143872744
      }
     },
-    "notable": true
+    "notable": false
    },
    {
     "id": "VWCE",
@@ -129,7 +128,7 @@
     "us_index": null,
     "date": "2026-10-16",
     "value": 170.38,
-    "fresh": true,
+    "fresh": false,
     "day": -0.4149862645391411,
     "changes": {
      "7": -1.4688873467499364,
@@ -147,7 +146,7 @@
     "us_index": null,
     "date": "2026-10-16",
     "value": 150.54,
-    "fresh": true,
+    "fresh": false,
     "day": 0.026578073089700283,
     "changes": {
      "7": 0.07312371202552459,
@@ -166,8 +165,8 @@
     "us_index": null,
     "date": "2026-10-17",
     "value": 2.5,
-    "fresh": true,
-    "day": 0.0,
+    "fresh": false,
+    "day": null,
     "changes": {
      "7": 0.0,
      "30": 0.0
@@ -189,16 +188,11 @@
     "us_index": null,
     "date": "2026-10-15",
     "value": 2.44,
-    "fresh": true,
-    "day": 0.0,
+    "fresh": false,
+    "day": null,
     "changes": {
      "7": 0.0030000000000001137,
      "30": 0.0
-    },
-    "last_change": {
-     "date": "2026-10-14",
-     "old": 2.439,
-     "new": 2.44
     },
     "notable": false
    }
