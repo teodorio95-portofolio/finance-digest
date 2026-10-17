@@ -142,7 +142,8 @@ jobs:
       # State, digest and the pending outbox entry are committed BEFORE sending,
       # so a failed send is retried by the next run instead of being lost.
       - name: Commit state and digest
-        run: scripts/commit-data.sh "digest: $STEM"
+        run: |
+          scripts/commit-data.sh "digest: $STEM"
 
       - name: Send email
         if: steps.decide.outputs.send == 'true'
@@ -153,7 +154,8 @@ jobs:
 
       - name: Commit delivery status
         if: always() && steps.decide.outputs.send == 'true'
-        run: scripts/commit-data.sh "outbox: $STEM"
+        run: |
+          scripts/commit-data.sh "outbox: $STEM"
 
       # ntfy.sh rate-limits per sending IP; a 429 must not fail the run.
       - name: Phone push (ntfy)
