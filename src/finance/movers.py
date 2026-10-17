@@ -121,7 +121,7 @@ def row(state: SeriesState, series: Series, mode: str, today: date | None = None
             out["changes"][str(days)] = moved[0]
             if days in (7, 30) and (split := decomposition(state, series, moved[1], latest_day)):
                 out.setdefault("split", {})[str(days)] = split
-    if is_rate:
+    if series.policy:
         out["last_change"] = last_change(points)
     if series.id == "XEON":
         out["yield_30d"] = annual_yield(points)

@@ -39,6 +39,8 @@ class Series:
     yahoo: str | None = None  # fallback ticker
     # a US index held through a EUR-quoted ETF: its move splits into "index in USD" and "EUR/USD"
     us_index: str | None = None
+    # a policy rate moves only on decision days, so "last change" is worth printing; €STR moves daily
+    policy: bool = False
     note: str | None = None
 
 
@@ -77,7 +79,9 @@ SERIES: tuple[Series, ...] = (
         "XEON", "Xtrackers EUR Overnight (XEON)", "LU0290358497",
         "cash în EUR, randament aproape de €STR", decimals=4, threshold=0.2,
     ),
-    Series("DFR", "Rata facilității de depozit BCE", "rate", "ecb-dfr", threshold=0.01, decimals=2),
+    Series(
+        "DFR", "Rata facilității de depozit BCE", "rate", "ecb-dfr", threshold=0.01, decimals=2, policy=True
+    ),
     Series("ESTR", "€STR (dobânda overnight în EUR)", "rate", "ecb-estr", threshold=0.05, decimals=3),
 )  # fmt: skip
 BY_ID = {s.id: s for s in SERIES}
