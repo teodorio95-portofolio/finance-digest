@@ -1,14 +1,21 @@
 BANI ÎN EURO · curs, ETF-uri, dobânzi
 Sâmbătă, 17 octombrie 2026
+7 oferte noi
 
 PE SCURT
-- EUR/RON 5,3368 lei (0,00% față de cotația precedentă).
-- ETF-uri în EUR: S&P 500 −0,61%, Nasdaq −1,44% față de cotația precedentă.
+- Euro s-a întărit puțin față de dolar, pe fondul așteptării unei majorări BCE în decembrie și al unor noi reduceri de dobândă Fed.
+- Leul rămâne stabil față de euro; dolarul s-a depreciat ușor față de leu, în linie cu slăbirea generală a dolarului.
+- BCE se reunește pe 29 octombrie: sondaj Reuters arată dobânzi neschimbate acum, cu o majorare de 25 pb anticipată în decembrie din cauza inflației alimentate de petrol.
 
 CURS VALUTAR
 - EUR/RON: 5,3368 (16.10, fără cotație nouă) · zi 0,00% · 7 zile −0,09% · 30 zile +1,39%
 - USD/RON: 4,7430 (16.10, fără cotație nouă) · zi −0,30% · 7 zile −0,38% · 30 zile +3,99%
+  De ce: Deprecierea dolarului față de leu reflectă slăbirea generală a dolarului pe piețele valutare, pe fondul anticipării unor noi reduceri de dobândă ale Fed în 2026, în timp ce BCE este considerată aproape de finalul ciclului său de relaxare monetară.
+    https://think.ing.com/articles/eur-usd-our-latest-views
 - EUR/USD: 1,1253 (16.10, fără cotație nouă) · zi +0,40% · 7 zile +0,42% · 30 zile −2,46%
+  De ce: Euro s-a apreciat ușor în fața dolarului din cauza divergenței de politică monetară: piețele anticipează reduceri suplimentare de dobândă ale Fed, în timp ce BCE este văzută ca urmând să majoreze dobânda cu 25 pb în decembrie, pe fondul inflației alimentate de prețurile petrolului din Orientul Mijlociu, conform unui sondaj Reuters.
+    https://think.ing.com/articles/eur-usd-our-latest-views
+    https://www.tmgm.com/es/analysis/market-news/article/ecb-expected-to-pause-in-october-before-hiking-rates-in-december-reuters-poll-202610081239
 
 
 ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
@@ -29,9 +36,53 @@ DOBÂNZI DE REFERINȚĂ ÎN EUR
 - €STR (dobânda overnight în EUR): 2,440% (15.10) · zi – · 7 zile 0,00 pp · 30 zile 0,00 pp
 
 
-OPORTUNITĂȚI: căutarea a eșuat azi (no JSON object in Claude's output)
+OPORTUNITĂȚI NOI SAU SCHIMBATE
+- Intesa Sanpaolo Bank · Depozit la termen EUR 1 lună: 0,90% pe an [nou]
+  depozit la termen · 1 lună · EUR · minim 1000 EUR
+  Dobândă fixă pe toată durata depozitului, impozitată conform legislației în vigoare.
+  https://www.intesasanpaolobank.ro/document/documents/ISPROMANIA/tarife-comisioane/Dobanzi-produse-de-economisire-01.07.2026.pdf
+- Intesa Sanpaolo Bank · Depozit la termen EUR 3 luni: 1,15% pe an [nou]
+  depozit la termen · 3 luni · EUR · minim 1000 EUR
+  Dobândă fixă pe toată durata depozitului, impozitată conform legislației în vigoare.
+  https://www.intesasanpaolobank.ro/document/documents/ISPROMANIA/tarife-comisioane/Dobanzi-produse-de-economisire-01.07.2026.pdf
+- Intesa Sanpaolo Bank · Depozit la termen EUR 6 luni: 1,65% pe an [nou]
+  depozit la termen · 6 luni · EUR · minim 1000 EUR
+  Dobândă fixă pe toată durata depozitului, impozitată conform legislației în vigoare.
+  https://www.intesasanpaolobank.ro/document/documents/ISPROMANIA/tarife-comisioane/Dobanzi-produse-de-economisire-01.07.2026.pdf
+- Intesa Sanpaolo Bank · Depozit la termen EUR 12 luni: 1,90% pe an [nou]
+  depozit la termen · 1 an · EUR · minim 1000 EUR
+  Dobândă fixă pe toată durata depozitului, impozitată conform legislației în vigoare.
+  https://www.intesasanpaolobank.ro/document/documents/ISPROMANIA/tarife-comisioane/Dobanzi-produse-de-economisire-01.07.2026.pdf
+- Ministerul Finanțelor · Tezaur 1 an (emisiunea octombrie-noiembrie 2026): 6,50% pe an [nou]
+  titluri de stat · 1 an · RON · minim 1 RON · subscriere până la 06.11.2026
+  Venit neimpozabil (fără impozit pe venit și fără CASS); subscriere pentru persoane fizice rezidente și nerezidente.
+  https://www.wall-street.ro/articol/bursa-si-investitii/statul-mareste-dobanzile-la-tezaur-cat-poti-castiga-in-octombrie-2026
+- Ministerul Finanțelor · Tezaur 3 ani (emisiunea octombrie-noiembrie 2026): 7,00% pe an [nou]
+  titluri de stat · 3 ani · RON · minim 1 RON · subscriere până la 06.11.2026
+  Venit neimpozabil (fără impozit pe venit și fără CASS); dobândă plătită anual.
+  https://www.wall-street.ro/articol/bursa-si-investitii/statul-mareste-dobanzile-la-tezaur-cat-poti-castiga-in-octombrie-2026
+- Ministerul Finanțelor · Tezaur 5 ani (emisiunea octombrie-noiembrie 2026): 7,50% pe an [nou]
+  titluri de stat · 5 ani · RON · minim 1 RON · subscriere până la 06.11.2026
+  Venit neimpozabil (fără impozit pe venit și fără CASS); dobândă plătită anual.
+  https://www.wall-street.ro/articol/bursa-si-investitii/statul-mareste-dobanzile-la-tezaur-cat-poti-castiga-in-octombrie-2026
+
+ȘTIRI CARE AU CONTAT
+- Fidelis octombrie 2026. Ce dobânzi oferă statul la titlurile de stat în lei și euro (bugetul.ro, 15.10.2026)
+  Noua emisiune Fidelis a oferit dobânzi de până la 6,60% pentru titlurile în euro, o alternativă directă pentru cei care economisesc în euro.
+  https://www.bugetul.ro/fidelis-octombrie-2026-ce-dobanzi-ofera-statul-la-titlurile-de-stat-in-lei-si-euro/
+- ECB expected to pause in October before hiking rates in December – Reuters poll (Reuters (via tmgm.com), 08.10.2026)
+  O eventuală majorare de dobândă BCE în decembrie ar putea îmbunătăți randamentele depozitelor și fondurilor monetare în euro.
+  https://www.tmgm.com/es/analysis/market-news/article/ecb-expected-to-pause-in-october-before-hiking-rates-in-december-reuters-poll-202610081239
+- EUR/USD: Our latest views (ING Think)
+  Analiza arată că cursul euro-dolar va fi condus în continuare de ritmul reducerilor de dobândă ale Fed, relevant pentru valoarea în euro a investițiilor americane.
+  https://think.ing.com/articles/eur-usd-our-latest-views
+- Șefa trezoreriei pentru Reuters: necesarul de finanțare pentru 2026 va crește, dar România va gestiona costurile datoriei printr-o serie de… (economedia.ro)
+  Necesarul mai mare de finanțare al statului ține dobânzile la titlurile în lei ridicate, context util pentru compararea randamentelor cu cele în euro.
+  https://economedia.ro/seful-trezoreriei-pentru-reuters-necesarul-de-finantare-pentru-2026-va-creste-dar-romania-va-gestiona-costurile-datoriei-printr-o-serie-de-masuri.html
+- Ministrul finanțelor, după ce deficitul a scăzut la 2% în ultimele 6 luni: execuția bugetară transmite un semnal de seriozitate către agenț… (g4media.ro)
+  Evoluția deficitului bugetar influențează percepția agențiilor de rating asupra României și, indirect, stabilitatea leului.
+  https://www.g4media.ro/ministrul-finantelor-dupa-ce-deficitul-a-scazut-la-2-in-ultimele-6-luni-executia-bugetara-transmite-un-semnal-puternic-de-seriozitate-din-partea-romaniei-in-dialogul-cu-agentiile-de-rating.html
 
 --
-Explicațiile automate au lipsit azi; cifrele sunt complete.
 Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
 Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
