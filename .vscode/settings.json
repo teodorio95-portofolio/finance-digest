@@ -1,0 +1,9 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.formatOnSave": true
+  },
+  "python.defaultInterpreterPath": ".venv/bin/python",
+  "python.testing.pytestEnabled": true,
+  "files.associations": { "*.html.j2": "jinja-html", "*.txt.j2": "jinja" }
+}

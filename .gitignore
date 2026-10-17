@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.env
+preview.html
+preview.txt
+/out/
+/probe-out/
+.local/
+.claude/worktrees/
