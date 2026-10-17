@@ -3,7 +3,8 @@
  "stem": "2026-10-17",
  "subject": "Bani în euro 17.10: EUR/RON 5,3368 (0,00%) · S&P 500 −0,61% · Nasdaq −1,44%",
  "attachments": [],
- "status": "pending",
- "attempts": 1,
- "last_error": null
+ "status": "sent",
+ "attempts": 2,
+ "last_error": null,
+ "sent_at": "2026-10-17T15:23:50+00:00"
 }
