@@ -64,13 +64,13 @@ def test_daily_run_renders_queues_and_then_has_nothing_new(tmp_path, monkeypatch
 
     html = (out / "digests" / "2026-10-16.html").read_text()
     text = (out / "digests" / "2026-10-16.txt").read_text()
-    assert "5,0812" in html  # BNR EUR/RON from the fixture, Romanian decimals
+    assert "5,3368" in html  # BNR EUR/RON from the fixture, Romanian decimals
     assert "Scădere pe fondul rezultatelor slabe." in html
     assert "Fidelis EUR 2 ani" in text and "5,25% pe an" in text
     assert "nu este consultanță de investiții" in text
     entry = json.loads((out / "outbox" / "2026-10-16.json").read_text())
     assert entry["status"] == "pending"
-    assert entry["subject"].startswith("Bani în euro 16.10: EUR/RON 5,0812")
+    assert entry["subject"].startswith("Bani în euro 16.10: EUR/RON 5,3368")
 
     # same sources again: every row was reported and no offer changed, so nothing to send
     run("collect", "--state-dir", str(out / "state"), "--out", str(report))

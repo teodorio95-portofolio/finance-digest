@@ -14,10 +14,12 @@ DURING_XETRA = datetime(2026, 10, 16, 12, 0, tzinfo=UTC)
 
 
 def test_bnr_reads_eur_and_usd_and_applies_multiplier(fixture_bytes):
-    rates = sources.parse_bnr(fixture_bytes("bnr_10days_sample.xml"), ("EUR", "USD", "HUF"))
-    assert rates["EUR"] == {"2026-10-16": 5.0812, "2026-10-15": 5.0790}
-    assert rates["USD"]["2026-10-16"] == 4.5154
-    assert rates["HUF"]["2026-10-16"] == pytest.approx(0.01295)
+    # raw runner output, 17.10.2026: the https namespace of curs.bnr.ro, one line, 10 banking days
+    rates = sources.parse_bnr(fixture_bytes("bnr_10days.xml"), ("EUR", "USD", "HUF"))
+    assert len(rates["EUR"]) == 10
+    assert rates["EUR"]["2026-10-16"] == 5.3368 and rates["EUR"]["2026-10-15"] == 5.337
+    assert rates["USD"]["2026-10-16"] == 4.743
+    assert rates["HUF"]["2026-10-16"] < 0.05  # quoted per 100 HUF
 
 
 def test_bnr_ignores_the_namespace():
@@ -31,17 +33,16 @@ def test_bnr_html_page_is_an_error():
 
 
 def test_ecb_fx_reads_usd(fixture_bytes):
-    assert sources.parse_ecb_fx(fixture_bytes("ecb_90d_sample.xml")) == {
-        "2026-10-16": 1.1253,
-        "2026-10-15": 1.1212,
-    }
+    rates = sources.parse_ecb_fx(fixture_bytes("ecb_90d.xml"))
+    assert len(rates) == 65
+    assert rates["2026-10-16"] == 1.1253 and rates["2026-10-15"] == 1.1208
 
 
 def test_ecb_csv(fixture_bytes):
-    assert sources.parse_ecb_csv(fixture_bytes("ecb_dfr_sample.csv")) == {
-        "2025-04-23": 2.25,
-        "2025-06-11": 2.0,
-    }
+    # raw rows around the September 2026 hike and the last 20 days (the full answer is 400 rows)
+    rates = sources.parse_ecb_csv(fixture_bytes("ecb_dfr.csv"))
+    assert rates["2026-09-15"] == 2.25 and rates["2026-09-16"] == 2.5
+    assert max(rates) == "2026-10-17"
 
 
 def test_ecb_csv_rejects_an_error_page():
@@ -71,8 +72,9 @@ MORNING_AFTER = datetime(2026, 10, 17, 5, 30, tzinfo=UTC)
 
 
 def test_justetf_skips_weekends_and_waits_for_the_end_of_day(fixture_bytes):
-    body = fixture_bytes("justetf_sxr8_sample.json")
+    body = fixture_bytes("justetf_sxr8.json")
     points = sources.parse_justetf(body, MORNING_AFTER)
+    assert len(points) == 22
     assert "2026-10-10" not in points and "2026-10-11" not in points  # Saturday, Sunday
     assert points["2026-10-16"] == 740.44
     assert max(sources.parse_justetf(body, AFTER_XETRA)) == "2026-10-15"  # before 21:00 UTC
@@ -98,12 +100,12 @@ def test_justetf_error_page():
 
 def pages(fixture_bytes, **extra):
     base = {
-        sources.BNR_10DAYS: fixture_bytes("bnr_10days_sample.xml"),
-        "https://curs.bnr.ro/files/xml/years/": fixture_bytes("bnr_10days_sample.xml"),
-        sources.ECB_FX: fixture_bytes("ecb_90d_sample.xml"),
-        "https://data-api.ecb.europa.eu/service/data/FM/": fixture_bytes("ecb_dfr_sample.csv"),
-        "https://data-api.ecb.europa.eu/service/data/EST/": fixture_bytes("ecb_dfr_sample.csv"),
-        "https://www.justetf.com/api/": fixture_bytes("justetf_sxr8_sample.json"),
+        sources.BNR_10DAYS: fixture_bytes("bnr_10days.xml"),
+        "https://curs.bnr.ro/files/xml/years/": fixture_bytes("bnr_10days.xml"),
+        sources.ECB_FX: fixture_bytes("ecb_90d.xml"),
+        "https://data-api.ecb.europa.eu/service/data/FM/": fixture_bytes("ecb_dfr.csv"),
+        "https://data-api.ecb.europa.eu/service/data/EST/": fixture_bytes("ecb_dfr.csv"),
+        "https://www.justetf.com/api/": fixture_bytes("justetf_sxr8.json"),
         "https://query1.finance.yahoo.com/": fixture_bytes("yahoo_sxr8.json"),
     }
     return base | extra
@@ -114,9 +116,9 @@ def test_collect_fills_every_series(tmp_path, fixture_bytes):
     fetcher = FakeFetcher(pages(fixture_bytes))
     failed = sources.collect(fetcher.get, state, AFTER_XETRA)
     assert failed == []
-    assert state.points("EURRON")[-1] == ("2026-10-16", 5.0812)
+    assert state.points("EURRON")[-1] == ("2026-10-16", 5.3368)
     assert state.points("EURUSD")[-1] == ("2026-10-16", 1.1253)
-    assert state.points("DFR")[-1] == ("2025-06-11", 2.0)
+    assert state.points("DFR")[-1] == ("2026-10-17", 2.5)
     assert state.points("SXR8")[-1] == ("2026-10-15", 744.98)  # the 16th closes at 21:00 UTC
     assert state.data["sources"]["etf:SXR8"]["via"] == "justetf"
     # sparse history: the yearly BNR file and 400 days of ETF history are fetched
@@ -153,7 +155,7 @@ def test_a_failing_source_keeps_its_points_and_counts(tmp_path, fixture_bytes):
         assert not failed[0]["alert"]
     failed = sources.collect(FakeFetcher(broken).get, state, AFTER_XETRA)
     assert failed[0]["alert"] and failed[0]["streak"] == 3
-    assert state.points("EURRON")[-1] == ("2026-10-16", 5.0812)
+    assert state.points("EURRON")[-1] == ("2026-10-16", 5.3368)
     # the alert is not repeated the next day
     failed = sources.collect(FakeFetcher(broken).get, state, datetime(2026, 10, 17, 17, tzinfo=UTC))
     assert not failed[0]["alert"]
