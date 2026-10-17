@@ -1,6 +1,6 @@
 """Turn report.json (+ Claude's explanations) into the digest: data dict, HTML and plain text.
 
-Every number comes from the report (BNR, ECB, Yahoo/Stooq); Claude only supplies
+Every number comes from the report (BNR, ECB, justETF/Yahoo); Claude only supplies
 the TL;DR, the "why" next to a row and the news list, each with its links. CSS
 lives in digest.css and is inlined with css-inline (Gmail drops most of <style>).
 """
@@ -75,7 +75,8 @@ def row(r: dict[str, Any], why: dict[str, Any], mode: str, today: str) -> dict[s
     }
     for h, split in sorted((r.get("split") or {}).items(), key=lambda kv: int(kv[0])):
         out["extra"].append(
-            f"{HORIZON_LABELS[h]}: indicele în USD {ro_signed(split['usd'])}, efectul cursului EUR/USD "
+            f"{HORIZON_LABELS[h]}: {r.get('us_index') or 'indicele'} în USD {ro_signed(split['usd'])}, "
+            f"efectul cursului EUR/USD "
             f"{ro_signed(split['fx'])} (aproximativ)"
         )
     if r.get("yield_30d") is not None:

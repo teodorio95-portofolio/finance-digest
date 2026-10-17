@@ -32,24 +32,14 @@ def targets(now: datetime) -> list[tuple[str, str, object]]:
     ]
     for name, (flow, key, _) in sources.ECB_SERIES.items():
         out.append((name, sources.ECB_API.format(flow=flow, key=key), sources.parse_ecb_csv))
-    stooq_start = (now.date() - timedelta(days=30)).strftime("%Y%m%d")
+    start = (now.date() - timedelta(days=30)).isoformat()
     for s in SERIES:
         if s.kind != "etf":
             continue
-        out.append(
-            (
-                f"yahoo-{s.id}",
-                sources.YAHOO.format(symbol=s.yahoo, range="1mo"),
-                lambda b: sources.parse_yahoo(b, now),
-            )
-        )
-        out.append(
-            (
-                f"stooq-{s.id}",
-                sources.STOOQ.format(symbol=s.stooq, start=stooq_start),
-                lambda b, ex=s.exchange: sources.parse_stooq(b, now, ex),
-            )
-        )
+        url = sources.JUSTETF.format(isin=s.isin, start=start, end=now.date().isoformat())
+        out.append((f"justetf-{s.id}", url, lambda b: sources.parse_justetf(b, now)))
+        url = sources.YAHOO.format(symbol=s.yahoo, range="1mo")
+        out.append((f"yahoo-{s.id}", url, lambda b: sources.parse_yahoo(b, now)))
     return out
 
 

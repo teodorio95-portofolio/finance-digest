@@ -80,4 +80,4 @@ def test_value_at_picks_the_point_on_or_before():
 
 def test_every_series_is_configured_with_a_source():
     assert all(s.source for s in BY_ID.values())
-    assert all(s.yahoo and s.stooq and s.exchange for s in BY_ID.values() if s.kind == "etf")
+    assert all(s.isin and s.yahoo for s in BY_ID.values() if s.kind == "etf")

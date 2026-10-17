@@ -67,25 +67,43 @@ def test_yahoo_error_body():
         sources.parse_yahoo(body, AFTER_XETRA)
 
 
-def test_stooq_drops_a_us_bar_before_the_us_close(fixture_bytes):
-    body = fixture_bytes("stooq_spy_sample.csv")
-    assert max(sources.parse_stooq(body, AFTER_XETRA, "us")) == "2026-10-15"
-    late = datetime(2026, 10, 16, 21, 30, tzinfo=UTC)
-    assert sources.parse_stooq(body, late, "us")["2026-10-16"] == 658.9
+MORNING_AFTER = datetime(2026, 10, 17, 5, 30, tzinfo=UTC)
 
 
-def test_stooq_apikey_message_is_an_error():
+def test_justetf_skips_weekends_and_waits_for_the_end_of_day(fixture_bytes):
+    body = fixture_bytes("justetf_sxr8_sample.json")
+    points = sources.parse_justetf(body, MORNING_AFTER)
+    assert "2026-10-10" not in points and "2026-10-11" not in points  # Saturday, Sunday
+    assert points["2026-10-16"] == 740.44
+    assert max(sources.parse_justetf(body, AFTER_XETRA)) == "2026-10-15"  # before 21:00 UTC
+
+
+def test_justetf_drops_a_holiday_carried_forward():
+    body = json.dumps(
+        {
+            "series": [
+                {"date": "2026-12-24", "value": {"raw": 10.0}},
+                {"date": "2026-12-25", "value": {"raw": 10.0}},
+                {"date": "2026-12-28", "value": {"raw": 10.2}},
+            ]
+        }
+    ).encode()
+    assert sources.parse_justetf(body, MORNING_AFTER) == {"2026-12-24": 10.0, "2026-12-28": 10.2}
+
+
+def test_justetf_error_page():
     with pytest.raises(sources.SourceError):
-        sources.parse_stooq(b"Get your apikey", AFTER_XETRA, "us")
+        sources.parse_justetf(b"<!DOCTYPE html><html>Just a moment...</html>", MORNING_AFTER)
 
 
 def pages(fixture_bytes, **extra):
     base = {
-        "https://www.bnr.ro/nbrfxrates10days.xml": fixture_bytes("bnr_10days_sample.xml"),
-        "https://www.bnr.ro/files/xml/years/": fixture_bytes("bnr_10days_sample.xml"),
+        sources.BNR_10DAYS: fixture_bytes("bnr_10days_sample.xml"),
+        "https://curs.bnr.ro/files/xml/years/": fixture_bytes("bnr_10days_sample.xml"),
         sources.ECB_FX: fixture_bytes("ecb_90d_sample.xml"),
         "https://data-api.ecb.europa.eu/service/data/FM/": fixture_bytes("ecb_dfr_sample.csv"),
         "https://data-api.ecb.europa.eu/service/data/EST/": fixture_bytes("ecb_dfr_sample.csv"),
+        "https://www.justetf.com/api/": fixture_bytes("justetf_sxr8_sample.json"),
         "https://query1.finance.yahoo.com/": fixture_bytes("yahoo_sxr8.json"),
     }
     return base | extra
@@ -99,27 +117,36 @@ def test_collect_fills_every_series(tmp_path, fixture_bytes):
     assert state.points("EURRON")[-1] == ("2026-10-16", 5.0812)
     assert state.points("EURUSD")[-1] == ("2026-10-16", 1.1253)
     assert state.points("DFR")[-1] == ("2025-06-11", 2.0)
-    assert state.points("SXR8")[-1] == ("2026-10-16", 740.78)
-    # sparse history: the yearly BNR file and a one-year Yahoo range are fetched
+    assert state.points("SXR8")[-1] == ("2026-10-15", 744.98)  # the 16th closes at 21:00 UTC
+    assert state.data["sources"]["etf:SXR8"]["via"] == "justetf"
+    # sparse history: the yearly BNR file and 400 days of ETF history are fetched
     assert any("/years/nbrfxrates2026.xml" in url for url in fetcher.calls)
-    assert any("range=1y" in url for url in fetcher.calls)
+    assert any("dateFrom=2025-09-11" in url for url in fetcher.calls)
 
 
-def test_collect_falls_back_to_stooq_and_records_it(tmp_path, fixture_bytes):
+def test_collect_falls_back_to_yahoo_and_records_it(tmp_path, fixture_bytes):
     state = SeriesState.load(tmp_path)
     blocked = pages(fixture_bytes)
-    del blocked["https://query1.finance.yahoo.com/"]
-    blocked["https://stooq.com/"] = fixture_bytes("stooq_spy_sample.csv")
+    del blocked["https://www.justetf.com/api/"]
     assert sources.collect(FakeFetcher(blocked).get, state, AFTER_XETRA) == []
-    assert state.points("SPY")[-1] == ("2026-10-15", 661.05)
-    assert state.data["sources"]["etf:SPY"]["via"] == "stooq"
+    assert state.points("SXR8")[-1] == ("2026-10-16", 740.78)
+    assert state.data["sources"]["etf:SXR8"]["via"] == "yahoo"
+
+
+def test_both_etf_sources_failing_is_one_failure_with_both_errors(tmp_path, fixture_bytes):
+    state = SeriesState.load(tmp_path)
+    blocked = pages(fixture_bytes)
+    del blocked["https://www.justetf.com/api/"], blocked["https://query1.finance.yahoo.com/"]
+    failed = sources.collect(FakeFetcher(blocked).get, state, AFTER_XETRA)
+    assert {f["source"] for f in failed} == {"etf:SXR8", "etf:SXRV", "etf:VWCE", "etf:XEON"}
+    assert "justetf:" in failed[0]["error"] and "yahoo:" in failed[0]["error"]
 
 
 def test_a_failing_source_keeps_its_points_and_counts(tmp_path, fixture_bytes):
     state = SeriesState.load(tmp_path)
     sources.collect(FakeFetcher(pages(fixture_bytes)).get, state, AFTER_XETRA)
     broken = pages(fixture_bytes)
-    del broken["https://www.bnr.ro/nbrfxrates10days.xml"]
+    del broken[sources.BNR_10DAYS]
     for _ in range(2):
         failed = sources.collect(FakeFetcher(broken).get, state, AFTER_XETRA)
         assert [f["source"] for f in failed] == ["bnr"]

@@ -35,92 +35,51 @@ class Series:
     decimals: int = 2
     # a daily move at or above this (in %, or in percentage points for a rate) asks Claude why
     threshold: float = 1.0
-    yahoo: str | None = None
-    stooq: str | None = None
-    exchange: str | None = None  # xetra | us: when a bar dated today is complete
-    tracks: str | None = None  # the USD-listed reference this EUR-listed ETF replicates
+    isin: str | None = None  # justETF key
+    yahoo: str | None = None  # fallback ticker
+    # a US index held through a EUR-quoted ETF: its move splits into "index in USD" and "EUR/USD"
+    us_index: str | None = None
     note: str | None = None
 
 
+def _etf(series_id: str, label: str, isin: str, note: str, **kw: Any) -> Series:
+    return Series(
+        series_id,
+        label,
+        "etf",
+        f"etf:{series_id}",
+        "EUR",
+        isin=isin,
+        yahoo=f"{series_id}.DE",
+        note=note,
+        **kw,
+    )
+
+
+# SPY and QQQ themselves are US-domiciled: no PRIIPs KID, so EU brokers do not sell them to retail
+# investors. SXR8 and SXRV hold the same indices and are what can be bought from Romania.
 SERIES: tuple[Series, ...] = (
     Series("EURRON", "EUR/RON", "fx", "bnr", "RON", decimals=4, threshold=0.3, note="curs BNR"),
     Series("USDRON", "USD/RON", "fx", "bnr", "RON", decimals=4, threshold=0.5, note="curs BNR"),
     Series(
         "EURUSD", "EUR/USD", "fx", "ecb-fx", "USD", decimals=4, threshold=0.5, note="curs de referință BCE"
     ),
-    Series(
-        "SXR8",
-        "iShares Core S&P 500 (SXR8)",
-        "etf",
-        "etf:SXR8",
-        "EUR",
-        yahoo="SXR8.DE",
-        stooq="sxr8.de",
-        exchange="xetra",
-        tracks="SPY",
-        note="S&P 500, UCITS, în EUR pe Xetra",
+    _etf(
+        "SXR8", "iShares Core S&P 500 (SXR8)", "IE00B5BMR087",
+        "S&P 500 ca SPY, UCITS, în EUR pe Xetra", us_index="S&P 500",
     ),
-    Series(
-        "SXRV",
-        "iShares Nasdaq 100 (SXRV)",
-        "etf",
-        "etf:SXRV",
-        "EUR",
-        yahoo="SXRV.DE",
-        stooq="sxrv.de",
-        exchange="xetra",
-        tracks="QQQ",
-        note="Nasdaq-100, UCITS, în EUR pe Xetra",
+    _etf(
+        "SXRV", "iShares Nasdaq 100 (SXRV)", "IE00B53SZB19",
+        "Nasdaq-100 ca QQQ, UCITS, în EUR pe Xetra", us_index="Nasdaq-100",
     ),
-    Series(
-        "VWCE",
-        "Vanguard FTSE All-World (VWCE)",
-        "etf",
-        "etf:VWCE",
-        "EUR",
-        yahoo="VWCE.DE",
-        stooq="vwce.de",
-        exchange="xetra",
-        note="acțiuni globale, UCITS, în EUR pe Xetra",
-    ),
-    Series(
-        "XEON",
-        "Xtrackers EUR Overnight (XEON)",
-        "etf",
-        "etf:XEON",
-        "EUR",
-        decimals=4,
-        threshold=0.2,
-        yahoo="XEON.DE",
-        stooq="xeon.de",
-        exchange="xetra",
-        note="cash în EUR, randament aproape de €STR",
-    ),
-    Series(
-        "SPY",
-        "SPDR S&P 500 (SPY)",
-        "etf",
-        "etf:SPY",
-        "USD",
-        yahoo="SPY",
-        stooq="spy.us",
-        exchange="us",
-        note="referință SUA, nu se poate cumpăra din UE",
-    ),
-    Series(
-        "QQQ",
-        "Invesco QQQ (Nasdaq-100)",
-        "etf",
-        "etf:QQQ",
-        "USD",
-        yahoo="QQQ",
-        stooq="qqq.us",
-        exchange="us",
-        note="referință SUA, nu se poate cumpăra din UE",
+    _etf("VWCE", "Vanguard FTSE All-World (VWCE)", "IE00BK5BQT80", "acțiuni globale, UCITS, în EUR pe Xetra"),
+    _etf(
+        "XEON", "Xtrackers EUR Overnight (XEON)", "LU0290358497",
+        "cash în EUR, randament aproape de €STR", decimals=4, threshold=0.2,
     ),
     Series("DFR", "Rata facilității de depozit BCE", "rate", "ecb-dfr", threshold=0.01, decimals=2),
     Series("ESTR", "€STR (dobânda overnight în EUR)", "rate", "ecb-estr", threshold=0.05, decimals=3),
-)
+)  # fmt: skip
 BY_ID = {s.id: s for s in SERIES}
 
 

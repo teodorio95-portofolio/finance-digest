@@ -9,6 +9,7 @@
    "currency": "RON",
    "decimals": 4,
    "note": "curs BNR",
+   "us_index": null,
    "date": "2026-10-19",
    "value": 5.0438,
    "fresh": true,
@@ -26,6 +27,7 @@
    "currency": "RON",
    "decimals": 4,
    "note": "curs BNR",
+   "us_index": null,
    "date": "2026-10-16",
    "value": 4.5655,
    "fresh": true,
@@ -43,6 +45,7 @@
    "currency": "USD",
    "decimals": 4,
    "note": "curs de referință BCE",
+   "us_index": null,
    "date": "2026-10-16",
    "value": 1.1245,
    "fresh": true,
@@ -59,7 +62,8 @@
    "kind": "etf",
    "currency": "EUR",
    "decimals": 2,
-   "note": "S&P 500, UCITS, în EUR pe Xetra",
+   "note": "S&P 500 ca SPY, UCITS, în EUR pe Xetra",
+   "us_index": "S&P 500",
    "date": "2026-10-16",
    "value": 741.4,
    "fresh": true,
@@ -70,11 +74,11 @@
    },
    "split": {
     "7": {
-     "usd": 0.30048076923077094,
+     "usd": 0.6300055233360968,
      "fx": -0.22232103156958338
     },
     "30": {
-     "usd": 1.3357619914997176,
+     "usd": 2.8184720072388147,
      "fx": -0.9782125389061869
     }
    },
@@ -86,7 +90,8 @@
    "kind": "etf",
    "currency": "EUR",
    "decimals": 2,
-   "note": "Nasdaq-100, UCITS, în EUR pe Xetra",
+   "note": "Nasdaq-100 ca QQQ, UCITS, în EUR pe Xetra",
+   "us_index": "Nasdaq-100",
    "date": "2026-10-19",
    "value": 1160.8,
    "fresh": true,
@@ -97,11 +102,11 @@
    },
    "split": {
     "7": {
-     "usd": 0.3265306122449019,
+     "usd": -1.2845296659999006,
      "fx": -0.17785682525567337
     },
     "30": {
-     "usd": 1.6542597187758412,
+     "usd": 1.071404291470901,
      "fx": -0.8892841262783446
     }
    },
@@ -114,6 +119,7 @@
    "currency": "EUR",
    "decimals": 2,
    "note": "acțiuni globale, UCITS, în EUR pe Xetra",
+   "us_index": null,
    "date": "2026-10-16",
    "value": 145.52,
    "fresh": true,
@@ -131,6 +137,7 @@
    "currency": "EUR",
    "decimals": 4,
    "note": "cash în EUR, randament aproape de €STR",
+   "us_index": null,
    "date": "2026-10-16",
    "value": 148.552,
    "fresh": true,
@@ -143,46 +150,13 @@
    "notable": false
   },
   {
-   "id": "SPY",
-   "label": "SPDR S&P 500 (SPY)",
-   "kind": "etf",
-   "currency": "USD",
-   "decimals": 2,
-   "note": "referință SUA, nu se poate cumpăra din UE",
-   "date": "2026-10-16",
-   "value": 667.6,
-   "fresh": true,
-   "day": 0.059952038369304184,
-   "changes": {
-    "7": 0.30048076923077094,
-    "30": 1.3357619914997176
-   },
-   "notable": false
-  },
-  {
-   "id": "QQQ",
-   "label": "Invesco QQQ (Nasdaq-100)",
-   "kind": "etf",
-   "currency": "USD",
-   "decimals": 2,
-   "note": "referință SUA, nu se poate cumpăra din UE",
-   "date": "2026-10-16",
-   "value": 614.5,
-   "fresh": true,
-   "day": 0.08143322475568926,
-   "changes": {
-    "7": 0.40849673202614234,
-    "30": 1.822700911350461
-   },
-   "notable": false
-  },
-  {
    "id": "DFR",
    "label": "Rata facilității de depozit BCE",
    "kind": "rate",
    "currency": null,
    "decimals": 2,
    "note": null,
+   "us_index": null,
    "date": "2025-06-11",
    "value": 2.0,
    "fresh": true,
@@ -205,6 +179,7 @@
    "currency": null,
    "decimals": 3,
    "note": null,
+   "us_index": null,
    "date": "2026-10-16",
    "value": 1.92,
    "fresh": true,

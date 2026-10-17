@@ -69,7 +69,7 @@
 {% if d.etf %}
 <tr><td class="section">
   <div class="section-title">ETF-uri</div>
-  <div class="section-hint">SXR8, SXRV, VWCE și XEON sunt UCITS, în EUR pe Xetra: se pot cumpăra de la brokeri din UE. SPY și QQQ sunt referințele americane din știri; din cauza PRIIPs nu se vând investitorilor de retail din UE.</div>
+  <div class="section-hint">Toate sunt UCITS, în EUR pe Xetra, deci se pot cumpăra de la brokeri din UE. SPY și QQQ, ETF-urile americane din știri, nu se vând investitorilor de retail din UE (PRIIPs); SXR8 urmărește același S&P 500, SXRV același Nasdaq-100.</div>
   {{ grid(d.etf) }}
 </td></tr>
 {% endif %}
@@ -125,7 +125,7 @@
 <tr><td class="footer">
   {% if d.failed %}Surse eșuate azi: {% for f in d.failed %}{{ f.source }} ({{ f.error }}){% if not loop.last %}; {% endif %}{% endfor %}.<br>{% endif %}
   {% if not d.explained %}Explicațiile automate au lipsit azi; cifrele sunt complete.<br>{% endif %}
-  Informativ, nu este consultanță de investiții. Cursurile vin de la BNR și BCE, prețurile ETF de la Yahoo Finance sau Stooq. Explicațiile și ofertele sunt găsite automat pe web și pot fi incomplete; verifică la sursă înainte să decizi.<br>
+  Informativ, nu este consultanță de investiții. Cursurile vin de la BNR și BCE, prețurile ETF de la justETF sau Yahoo Finance. Explicațiile și ofertele sunt găsite automat pe web și pot fi incomplete; verifică la sursă înainte să decizi.<br>
   Generat automat de {% if d.link %}<a href="{{ d.link }}">finance-digest</a>{% else %}finance-digest{% endif %}.
 </td></tr>
 

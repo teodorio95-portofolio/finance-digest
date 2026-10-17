@@ -1,9 +1,13 @@
 """Fetch and parse every numeric source. Pure parsers + one `collect` that feeds SeriesState.
 
-BNR and ECB are official and keyless. ETF closes come from Yahoo's chart API
-(unofficial, no key), with Stooq's CSV as the fallback per ticker. A bar for a
-session that has not closed yet is dropped, so a run in the middle of the US
-session never reports an intraday price as the day's close.
+BNR and ECB are official and keyless. ETF closes come from justETF's chart API
+(unofficial, no key, by ISIN), with Yahoo's chart API as the fallback per ticker.
+A point for a day that has not closed yet is dropped, so a run during the session
+never reports an intraday price as the day's close.
+
+Probed from a GitHub runner on 17.10.2026: www.bnr.ro/*.xml now serves the home
+page (the feeds moved to curs.bnr.ro), Yahoo answers 429 to runner IPs, and
+Stooq sits behind a JavaScript proof-of-work wall, so it is not used.
 """
 
 from __future__ import annotations
@@ -18,8 +22,8 @@ from typing import Any
 
 from finance.series import SERIES, SeriesState
 
-BNR_10DAYS = "https://www.bnr.ro/nbrfxrates10days.xml"
-BNR_YEAR = "https://www.bnr.ro/files/xml/years/nbrfxrates{year}.xml"
+BNR_10DAYS = "https://curs.bnr.ro/nbrfxrates10days.xml"
+BNR_YEAR = "https://curs.bnr.ro/files/xml/years/nbrfxrates{year}.xml"
 ECB_FX = "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml"
 ECB_API = "https://data-api.ecb.europa.eu/service/data/{flow}/{key}?lastNObservations=400&format=csvdata"
 # lastN, not a start date: the policy rate only has observations on the days it changed
@@ -28,10 +32,10 @@ ECB_SERIES = {
     "ecb-estr": ("EST", "B.EU000A2X2A25.WT", "ESTR"),
 }
 YAHOO = "https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?range={range}&interval=1d"
-STOOQ = "https://stooq.com/q/d/l/?s={symbol}&i=d&d1={start}"
-# Stooq has no session metadata: a bar dated today counts once this UTC time has passed
-# (Xetra closes 17:30 CET/CEST = 15:30 or 16:30 UTC; NYSE 16:00 ET = 20:00 or 21:00 UTC).
-CLOSED_AFTER_UTC = {"xetra": (16, 45), "us": (21, 15)}
+JUSTETF = (
+    "https://www.justetf.com/api/etfs/{isin}/performance-chart?locale=en&currency=EUR"
+    "&valuesType=MARKET_VALUE&reduceData=false&includeDividends=false&dateFrom={start}&dateTo={end}"
+)
 BACKFILL_BELOW = 60  # fewer points than this: fetch a year, so the 30/90-day columns fill at once
 
 
@@ -126,23 +130,33 @@ def parse_yahoo(body: bytes, now: datetime) -> dict[str, float]:
     return out
 
 
-def parse_stooq(body: bytes, now: datetime, exchange: str) -> dict[str, float]:
-    """Stooq daily CSV (Date,Open,High,Low,Close,Volume) -> {date: close}, closed sessions only."""
-    text = body.decode("utf-8-sig", errors="replace").strip()
-    rows = csv.DictReader(io.StringIO(text))
-    if not rows.fieldnames or "Close" not in rows.fieldnames:
-        raise SourceError(f"Stooq: unexpected body {text[:80]!r}")
-    hour, minute = CLOSED_AFTER_UTC[exchange]
-    today = now.date().isoformat()
-    closed_today = (now.hour, now.minute) >= (hour, minute)
-    out = {}
-    for row in rows:
-        day, close = row.get("Date") or "", (row.get("Close") or "").strip()
-        if not close or (day == today and not closed_today):
+def parse_justetf(body: bytes, now: datetime) -> dict[str, float]:
+    """justETF performance-chart JSON -> {date: EUR value}, weekdays of closed sessions only.
+
+    The series carries weekends (and holidays) forward with the last value; those are not sessions.
+    """
+    try:
+        data = json.loads(body)
+        series = data["series"]
+    except (json.JSONDecodeError, KeyError, TypeError) as exc:
+        raise SourceError(f"justETF: unexpected body ({exc})") from exc
+    end_of_day = data.get("endOfDay")
+    closed = not end_of_day or now >= datetime.fromisoformat(end_of_day.replace("Z", "+00:00"))
+    latest = data.get("latestDate")
+    out: dict[str, float] = {}
+    previous = None
+    for point in series:
+        day, value = point.get("date"), (point.get("value") or {}).get("raw")
+        if not isinstance(day, str) or isinstance(value, bool) or not isinstance(value, int | float):
             continue
-        out[day] = float(close)
+        if date.fromisoformat(day).weekday() >= 5 or (day == latest and not closed):
+            continue
+        if value == previous:  # a holiday carried forward; a real unchanged close is rare and harmless
+            continue
+        out[day] = float(value)
+        previous = value
     if not out:
-        raise SourceError("Stooq: no rows")
+        raise SourceError("justETF: no closed sessions")
     return out
 
 
@@ -161,19 +175,18 @@ def _bnr(get: Fetch, state: SeriesState, today: date) -> dict[str, dict[str, flo
 
 def _etf(get: Fetch, series, state: SeriesState, now: datetime) -> tuple[dict[str, float], str]:
     sparse = len(state.points(series.id)) < BACKFILL_BELOW
+    start = (now.date() - timedelta(days=400 if sparse else 120)).isoformat()
     errors = []
+    try:
+        url = JUSTETF.format(isin=series.isin, start=start, end=now.date().isoformat())
+        return parse_justetf(get(url).content, now), "justetf"
+    except Exception as exc:  # any failure falls back to Yahoo
+        errors.append(f"justetf: {type(exc).__name__}: {exc}")
     try:
         url = YAHOO.format(symbol=series.yahoo, range="1y" if sparse else "3mo")
         return parse_yahoo(get(url).content, now), "yahoo"
-    except Exception as exc:  # any failure falls back to Stooq
-        errors.append(f"yahoo: {type(exc).__name__}: {exc}")
-    start = (now.date() - timedelta(days=400 if sparse else 120)).strftime("%Y%m%d")
-    try:
-        return parse_stooq(
-            get(STOOQ.format(symbol=series.stooq, start=start)).content, now, series.exchange
-        ), "stooq"
     except Exception as exc:
-        errors.append(f"stooq: {type(exc).__name__}: {exc}")
+        errors.append(f"yahoo: {type(exc).__name__}: {exc}")
     raise SourceError("; ".join(errors))
 
 

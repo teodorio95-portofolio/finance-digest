@@ -2,8 +2,8 @@
 # Fidelis / Tezaur and EUR deposit offers, with the causes of the day's moves.
 #
 # No `schedule` trigger on purpose: GitHub drops scheduled runs under load.
-# gh-workflow-scheduler (Cloudflare Worker) dispatches this Mon-Fri at 17:00 UTC
-# (after the Xetra close) and on Saturday morning with mode=weekly.
+# gh-workflow-scheduler (Cloudflare Worker) dispatches this Tue-Sat at 05:30 UTC for
+# the previous day (every close is final by then) and on Sunday with mode=weekly.
 #
 # Deterministic Python fetches, validates, diffs, keeps state, renders and
 # sends. Claude Code only prints JSON: the offers it found on the web (discover)

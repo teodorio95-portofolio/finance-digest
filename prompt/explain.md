@@ -10,7 +10,7 @@ You run headless inside GitHub Actions. Use only WebSearch and WebFetch (at most
    - for EUR/USD: Fed and ECB decisions, US data;
    - for US indices: Fed decisions, CPI and jobs reports, big tech earnings, tariffs.
    Good sources: economica.net, zf.ro, profit.ro, bursa.ro, news.ro, Reuters, CNBC, Bloomberg, Financial Times, MarketWatch.
-2. SXR8 and SXRV are the euro-listed versions of SPY and QQQ. When a `split` is present, say whether the euro move came from the index itself or from the EUR/USD rate.
+2. SXR8 and SXRV hold the same indices as SPY (S&P 500) and QQQ (Nasdaq-100), quoted in EUR. News talks about SPY, QQQ and the indices; that is the right search. When a `split` is present (`usd` = the index in USD, `fx` = the EUR/USD effect), say whether the euro move came from the index itself or from the exchange rate.
 3. Pick up to 6 news items from those searches that matter for a euro saver in Romania: ECB rate expectations, new Fidelis issues, deposit rate changes, RON stability.
 
 A cause without a source is not allowed. If you find no source for a row, leave that row out of `why`. The email then says the cause is unclear. Do not guess.

@@ -52,8 +52,6 @@ def seeded_state(tmp_path: Path, end: date = date(2026, 10, 16), days: int = 70)
         "SXRV": (1100.0, 1.2),
         "VWCE": (140.0, 0.08),
         "XEON": (148.0, 0.008),
-        "SPY": (640.0, 0.4),
-        "QQQ": (580.0, 0.5),
         "ESTR": (1.92, 0.0),
     }
     for series_id, (start, step) in shapes.items():

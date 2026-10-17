@@ -58,23 +58,23 @@ def last_change(points: list[tuple[str, float]]) -> dict[str, Any] | None:
 def decomposition(
     state: SeriesState, series: Series, start_day: str, latest_day: str
 ) -> dict[str, float] | None:
-    """Split an EUR-listed US-index ETF's move into the index in USD and the EUR/USD effect.
+    """Split a EUR-quoted US-index ETF's move into the index in USD and the EUR/USD effect.
 
-    Approximate: Xetra, NYSE and the ECB fixing close at different hours.
+    The ETF's value in USD is its EUR price times EUR/USD (ECB fixing), so the split needs no
+    US-listed quote. Approximate: Xetra closes at 17:30 CET, the ECB fixing is at 14:15.
     """
-    if not series.tracks:
+    if not series.us_index:
         return None
-    ref, fx = state.points(series.tracks), state.points("EURUSD")
-    points = [
-        value_at(p, date.fromisoformat(d)) if p else None for p in (ref, fx) for d in (start_day, latest_day)
-    ]
-    if any(p is None for p in points):
+    own, fx = state.points(series.id), state.points("EURUSD")
+    picks = [value_at(p, date.fromisoformat(d)) for p in (own, fx) for d in (start_day, latest_day)]
+    if any(p is None for p in picks) or not fx:
         return None
-    ref_start, ref_end, fx_start, fx_end = (p[1] for p in points)  # type: ignore[index]
-    if fx_start == fx_end and ref_start == ref_end:
-        return None
+    eur_start, eur_end, fx_start, fx_end = (p[1] for p in picks)  # type: ignore[index]
     # a stronger euro (EUR/USD up) lowers what a US index is worth in euro
-    return {"usd": (ref_end / ref_start - 1) * 100, "fx": (fx_start / fx_end - 1) * 100}
+    return {
+        "usd": (eur_end * fx_end / (eur_start * fx_start) - 1) * 100,
+        "fx": (fx_start / fx_end - 1) * 100,
+    }
 
 
 def annual_yield(points: list[tuple[str, float]], days: int = YIELD_WINDOW) -> float | None:
@@ -109,6 +109,7 @@ def row(state: SeriesState, series: Series, mode: str, today: date | None = None
         "currency": series.currency,
         "decimals": series.decimals,
         "note": series.note,
+        "us_index": series.us_index,
         "date": latest_day,
         "value": latest,
         "fresh": fresh,

@@ -4,12 +4,12 @@
 
 | Sources | Schedule | Delivery | State | Auth |
 |---|---|---|---|---|
-| BNR XML, ECB eurofxref + Data API, Yahoo chart API (Stooq fallback), Claude web search | Mon–Fri 17:00 UTC; Saturday 07:00 UTC (`mode=weekly`), dispatched by [gh-workflow-scheduler](../gh-workflow-scheduler) | Gmail SMTP + ntfy push | `data` branch: `state/`, `digests/`, `outbox/` | `CLAUDE_CODE_OAUTH_TOKEN` (subscription), Gmail app password |
+| BNR XML (curs.bnr.ro), ECB eurofxref + Data API, justETF chart API (Yahoo fallback), Claude web search | Tue–Sat 05:30 UTC for the previous day; Sunday 07:00 UTC (`mode=weekly`), dispatched by [gh-workflow-scheduler](../gh-workflow-scheduler) | Gmail SMTP + ntfy push | `data` branch: `state/`, `digests/`, `outbox/` | `CLAUDE_CODE_OAUTH_TOKEN` (subscription), Gmail app password |
 
 ```mermaid
 flowchart LR
   W[Cloudflare Worker cron] -->|workflow_dispatch| A[digest.yml]
-  A --> C[finance collect<br>BNR · ECB · Yahoo/Stooq]
+  A --> C[finance collect<br>BNR · ECB · justETF]
   C --> S[(state/series.json)]
   A --> D[claude -p discover.md<br>WebSearch: Fidelis, deposits]
   D -->|JSON| M[finance merge-offers]
@@ -26,8 +26,8 @@ flowchart LR
 ## What it shows
 
 - **FX**: the official BNR EUR/RON and USD/RON rates and the ECB EUR/USD rate. Each has its change over the day, 7 days and 30 days, plus the cause and a link for anything that moved more than its threshold.
-- **ETFs**: SXR8 (S&P 500), SXRV (Nasdaq-100), VWCE (All-World) and XEON (EUR overnight cash) are UCITS ETFs quoted in EUR on Xetra. SPY and QQQ are listed as the US references the news talks about. Under the PRIIPs rules they cannot be sold to EU retail investors.
-  - For SXR8 and SXRV the 7- and 30-day move is split into "index in USD" and "EUR/USD effect", because a stronger euro shrinks a US index measured in euro.
+- **ETFs**: SXR8 (S&P 500), SXRV (Nasdaq-100), VWCE (All-World) and XEON (EUR overnight cash) are UCITS ETFs quoted in EUR on Xetra. SPY and QQQ themselves cannot be sold to EU retail investors (no PRIIPs KID), so SXR8 and SXRV stand in for them.
+  - For SXR8 and SXRV the 7- and 30-day move is split into "index in USD" and "EUR/USD effect" (EUR price × ECB EUR/USD), because a stronger euro shrinks a US index measured in euro.
   - For XEON the digest gives the annualised 30-day yield, the benchmark to compare deposits against.
 - **ECB rates**: the deposit facility rate and €STR.
 - **Offers**: Fidelis/Tezaur issues, EUR deposits and savings accounts. Claude finds them, Python validates them, and only new offers or changed rates are reported. The Saturday edition also lists the best offers still active.
@@ -66,7 +66,7 @@ make run MODE=weekly FORCE=true
 ```text
 src/finance/
   series.py     what is tracked (ids, tickers, thresholds) + state/series.json
-  sources.py    BNR / ECB / Yahoo / Stooq parsers and collect()
+  sources.py    BNR / ECB / justETF / Yahoo parsers and collect()
   movers.py     changes per horizon, EUR/USD split, XEON yield, "notable"
   offers.py     validate Claude's offers, track new / changed rates
   prose.py      validate Claude's explanations (no link, no cause)
@@ -79,7 +79,7 @@ scripts/        probe.py, commit-data.sh
 ## ⚠️ Notes
 
 - **Not investment advice.** The digest reports and attributes; it never recommends.
-- Yahoo's chart API is unofficial. When it fails, Stooq is tried for each ticker. If both fail, the row keeps its last good value and the source counts a failure. Three failures in a row put a "surse degradate" banner in the email, at most once a week.
+- justETF's and Yahoo's chart APIs are unofficial and keyless; Yahoo answers 429 to GitHub runner IPs, so it is only a fallback (Stooq is not used: it sits behind a JavaScript bot wall). If both fail, the row keeps its last good value and the source counts a failure. Three failures in a row put a "surse degradate" banner in the email, at most once a week.
 - Offers come from web search and are neither exhaustive nor guaranteed current. Always confirm the rate on the bank's or the Ministry's page before subscribing.
 - The EUR/USD split is approximate: Xetra, NYSE and the ECB fixing close at different hours.
-- A bar for a session still trading is dropped, so a US close shows up in the next day's digest.
+- The digest runs in the morning and reports the previous day: by then BNR, Xetra, the ECB and justETF's end-of-day value are all final. A point for a day not yet closed is dropped.
