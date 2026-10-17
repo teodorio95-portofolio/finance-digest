@@ -146,11 +146,11 @@ def cmd_merge_offers(args: argparse.Namespace) -> int:
 
 
 def has_news(report: dict) -> bool:
-    return (
-        report["mode"] == "weekly"
-        or bool(report.get("offers_new"))
-        or any(r["fresh"] for r in report["rows"])
-    )
+    """A new close or fixing, a notable move, or an offer. ECB rates get a point every calendar day,
+    so a fresh rate alone (a Monday morning, a holiday) is not a reason to send."""
+    if report["mode"] == "weekly" or report.get("offers_new"):
+        return True
+    return any(r["fresh"] and (r["kind"] != "rate" or r.get("notable")) for r in report["rows"])
 
 
 def cmd_should_send(args: argparse.Namespace) -> int:

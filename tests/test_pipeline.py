@@ -132,6 +132,15 @@ def test_failed_discover_is_reported_not_fatal(tmp_path, monkeypatch, fixture_by
     assert json.loads(report.read_text())["offers_failed"] == "no JSON object in Claude's output"
 
 
+def test_a_fresh_ecb_point_alone_is_not_news():
+    rate = {"id": "DFR", "kind": "rate", "fresh": True, "notable": False}
+    stale_fx = {"id": "EURRON", "kind": "fx", "fresh": False, "notable": False}
+    report = {"mode": "daily", "rows": [rate, stale_fx], "offers_new": []}
+    assert not cli.has_news(report)
+    assert cli.has_news(report | {"rows": [rate | {"notable": True}, stale_fx]})
+    assert cli.has_news(report | {"rows": [rate, stale_fx | {"fresh": True}]})
+
+
 def test_ntfy_payload(tmp_path, monkeypatch, capsys):
     digest = tmp_path / "d.json"
     digest.write_text(json.dumps({"subject": "Bani în euro 16.10: EUR/RON 5,0812", "tldr": ["unu", "doi"]}))

@@ -56,6 +56,10 @@ def test_an_old_rate_change_is_not_todays_move(tmp_path):
     assert dfr["last_change"]["date"] == "2025-06-11"
 
 
+def test_estr_has_no_last_change_line(tmp_path):
+    assert "last_change" not in rows_by_id(seeded_state(tmp_path))["ESTR"]
+
+
 def test_xeon_yield_is_annualised(tmp_path):
     xeon = rows_by_id(seeded_state(tmp_path))["XEON"]
     assert 0 < xeon["yield_30d"] < 10
