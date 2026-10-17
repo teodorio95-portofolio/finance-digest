@@ -1,0 +1,36 @@
+{
+ "tldr": [
+  "Exemplu: leul s-a depreciat cu 0,6% față de euro după revizuirea perspectivei de rating.",
+  "Exemplu: Nasdaq-100 în EUR (SXRV) a scăzut cu 1,9%, pe fondul rezultatelor din tehnologie.",
+  "Fidelis în EUR: 5,25% pe 2 ani și 6,10% pe 5 ani, subscriere până pe 30.10."
+ ],
+ "why": {
+  "EURRON": {
+   "text": "Exemplu: piața a reacționat la revizuirea perspectivei de rating a României.",
+   "sources": [
+    {
+     "title": "Exemplu sursă",
+     "url": "https://www.economica.net/"
+    }
+   ]
+  },
+  "SXRV": {
+   "text": "Exemplu: rezultate trimestriale sub așteptări la câteva companii mari de tehnologie.",
+   "sources": [
+    {
+     "title": "Exemplu",
+     "url": "https://www.cnbc.com/"
+    }
+   ]
+  }
+ },
+ "news": [
+  {
+   "title": "Exemplu: BCE lasă dobânzile neschimbate",
+   "url": "https://www.ecb.europa.eu/press/",
+   "source": "BCE",
+   "date": "2026-10-16",
+   "note": "Dobânzile la depozitele în euro rămân la nivelul actual pe termen scurt."
+  }
+ ]
+}

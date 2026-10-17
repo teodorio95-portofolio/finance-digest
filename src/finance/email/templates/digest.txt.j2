@@ -1,0 +1,85 @@
+{% macro grid(rows) %}
+{% for r in rows %}
+- {{ r.label }}: {{ r.value }} ({{ r.date }}{% if r.stale %}, fără cotație nouă{% endif %}) · zi {{ r.day }}{% for c in r.changes %} · {{ c.label }} {{ c.text }}{% endfor %}
+
+{% for line in r.extra %}  {{ line }}
+{% endfor %}
+{% if r.why %}  De ce: {{ r.why.text }}
+{% for s in r.why.sources %}    {{ s.url }}
+{% endfor %}
+{% elif r.unexplained %}  Mișcare peste prag, fără o cauză cu sursă găsită azi.
+{% endif %}
+{% endfor %}
+{% endmacro %}
+BANI ÎN EURO · {% if d.mode == "weekly" %}rezumatul săptămânii{% else %}curs, ETF-uri, dobânzi{% endif %}
+
+{{ d.date_human }}
+{% if d.chips %}{{ d.chips | join(" · ") }}
+{% endif %}
+{% if d.alerts %}
+
+SURSE DEGRADATE
+{% for a in d.alerts %}- {{ a.source }}: {{ a.streak }} eșecuri la rând ({{ a.error }})
+{% endfor %}
+{% endif %}
+
+PE SCURT
+{% for line in d.tldr %}- {{ line }}
+{% endfor %}
+{% if d.fx %}
+
+CURS VALUTAR
+{{ grid(d.fx) }}
+{% endif %}
+{% if d.etf %}
+
+ETF-URI (SXR8, SXRV, VWCE, XEON: UCITS în EUR; SPY, QQQ: referințe SUA, nu se vând retailului din UE)
+{{ grid(d.etf) }}
+{% endif %}
+{% if d.rates %}
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+{{ grid(d.rates) }}
+{% endif %}
+{% if d.offers_new %}
+
+OPORTUNITĂȚI NOI SAU SCHIMBATE
+{% for o in d.offers_new %}
+- {{ o.title }}: {{ o.rate }}{% if o.status %} [{{ o.status }}]{% endif %}
+
+  {{ o.facts }}
+{% if o.conditions %}  {{ o.conditions }}
+{% endif %}
+  {{ o.url }}
+{% endfor %}
+{% elif d.offers_failed %}
+
+OPORTUNITĂȚI: căutarea a eșuat azi ({{ d.offers_failed }})
+{% endif %}
+{% if d.offers_active %}
+
+CELE MAI BUNE OFERTE ACTIVE (EUR ÎNTÂI)
+{% for o in d.offers_active %}
+- {{ o.title }}: {{ o.rate }} · {{ o.facts }}
+  {{ o.url }}
+{% endfor %}
+{% endif %}
+{% if d.news %}
+
+ȘTIRI CARE AU CONTAT
+{% for n in d.news %}
+- {{ n.title }}{% if n.source %} ({{ n.source }}{% if n.date %}, {{ n.date }}{% endif %}){% endif %}
+
+{% if n.note %}  {{ n.note }}
+{% endif %}
+  {{ n.url }}
+{% endfor %}
+{% endif %}
+
+--
+{% if d.failed %}Surse eșuate azi: {% for f in d.failed %}{{ f.source }}{% if not loop.last %}, {% endif %}{% endfor %}.
+{% endif %}
+{% if not d.explained %}Explicațiile automate au lipsit azi; cifrele sunt complete.
+{% endif %}
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest{% if d.link %}: {{ d.link }}{% endif %}
