@@ -157,20 +157,6 @@ jobs:
         run: |
           scripts/commit-data.sh "outbox: $STEM"
 
-      # ntfy.sh rate-limits per sending IP; a 429 must not fail the run.
-      - name: Phone push (ntfy)
-        if: steps.decide.outputs.send == 'true'
-        continue-on-error: true
-        env:
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-        run: |
-          [ -n "$NTFY_TOPIC" ] || { echo "no NTFY_TOPIC secret; skipping"; exit 0; }
-          uv run finance ntfy --digest "out/digests/$STEM.json" --link "$LINK" > "$RUNNER_TEMP/ntfy.json"
-          code=$(curl -s -o /dev/null -w '%{http_code}' -H 'Content-Type: application/json' \
-            --data-binary @"$RUNNER_TEMP/ntfy.json" https://ntfy.sh/)
-          echo "ntfy HTTP $code"
-          [ "$code" = "200" ]
-
       - name: Summary
         if: always()
         run: |

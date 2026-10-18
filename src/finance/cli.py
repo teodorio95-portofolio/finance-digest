@@ -6,14 +6,12 @@ finance merge-offers --raw discover.txt --report report.json --state-dir out/sta
 finance should-send  report.json [--force]                 # prints true/false
 finance render       --report report.json [--prose why.json] --out-dir out [--link URL]
 finance send         --root out                            # every pending outbox entry
-finance ntfy         --digest out/digests/<stem>.json --link URL   # ntfy JSON on stdout
 """
 
 from __future__ import annotations
 
 import argparse
 import json
-import os
 import sys
 from datetime import UTC, date, datetime
 from pathlib import Path
@@ -24,8 +22,6 @@ from finance.http import Fetcher
 from finance.offers import OffersError, OffersState
 from finance.offers import parse as parse_offers
 from finance.series import SeriesState
-
-NTFY_MAX = 400
 
 
 def now_utc(args: argparse.Namespace) -> datetime:
@@ -192,23 +188,6 @@ def cmd_send(args: argparse.Namespace) -> int:
     return outbox.send_pending(Path(args.root), args.to)
 
 
-def cmd_ntfy(args: argparse.Namespace) -> int:
-    """TL;DR as the push text, a tap opens the archive; JSON so the title can carry diacritics."""
-    digest = read_json(args.digest)
-    message = "\n".join(f"- {line}" for line in digest["tldr"])[:NTFY_MAX] or "Digest nou."
-    payload = {
-        "topic": os.environ["NTFY_TOPIC"].strip(),
-        "title": digest["subject"][:120],
-        "message": message,
-        "tags": ["euro"],
-        "markdown": True,
-        "click": args.link,
-        "actions": [{"action": "view", "label": "Deschide arhiva", "url": args.link}],
-    }
-    print(json.dumps(payload, ensure_ascii=False))
-    return 0
-
-
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="finance", description="finance-digest: deterministic half")
     parser.add_argument("--now", help="pretend it is this ISO datetime (tests, replays)")
@@ -250,11 +229,6 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--root", default="out")
     p.add_argument("--to")
     p.set_defaults(func=cmd_send)
-
-    p = sub.add_parser("ntfy")
-    p.add_argument("--digest", required=True)
-    p.add_argument("--link", required=True)
-    p.set_defaults(func=cmd_ntfy)
 
     args = parser.parse_args(argv)
     return args.func(args)

@@ -139,14 +139,3 @@ def test_a_fresh_ecb_point_alone_is_not_news():
     assert not cli.has_news(report)
     assert cli.has_news(report | {"rows": [rate | {"notable": True}, stale_fx]})
     assert cli.has_news(report | {"rows": [rate, stale_fx | {"fresh": True}]})
-
-
-def test_ntfy_payload(tmp_path, monkeypatch, capsys):
-    digest = tmp_path / "d.json"
-    digest.write_text(json.dumps({"subject": "Bani în euro 16.10: EUR/RON 5,0812", "tldr": ["unu", "doi"]}))
-    monkeypatch.setenv("NTFY_TOPIC", " topic \n")
-    run("ntfy", "--digest", str(digest), "--link", "https://example.org")
-    payload = json.loads(capsys.readouterr().out)
-    assert payload["topic"] == "topic"
-    assert payload["message"] == "- unu\n- doi"
-    assert payload["title"].startswith("Bani în euro")
