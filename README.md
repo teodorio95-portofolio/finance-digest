@@ -4,7 +4,7 @@
 
 | Sources | Schedule | Delivery | State | Auth |
 |---|---|---|---|---|
-| BNR XML (curs.bnr.ro), ECB eurofxref + Data API, justETF chart API (Yahoo fallback), Claude web search | Tue–Sat 05:30 UTC for the previous day; Sunday 07:00 UTC (`mode=weekly`), dispatched by [gh-workflow-scheduler](../gh-workflow-scheduler) | Gmail SMTP + ntfy push | `data` branch: `state/`, `digests/`, `outbox/` | `CLAUDE_CODE_OAUTH_TOKEN` (subscription), Gmail app password |
+| BNR XML (curs.bnr.ro), ECB eurofxref + Data API, justETF chart API (Yahoo fallback), Claude web search | Tue–Sat 05:30 UTC for the previous day; Sunday 07:00 UTC (`mode=weekly`), dispatched by [gh-workflow-scheduler](../gh-workflow-scheduler) | Gmail SMTP | `data` branch: `state/`, `digests/`, `outbox/` | `CLAUDE_CODE_OAUTH_TOKEN` (subscription), Gmail app password |
 
 ```mermaid
 flowchart LR
@@ -20,7 +20,6 @@ flowchart LR
   O --> R
   R --> Q[(outbox/ + digests/)]
   Q --> G[Gmail SMTP]
-  R --> N[ntfy push]
 ```
 
 ## What it shows
@@ -44,7 +43,6 @@ Every number comes from a deterministic script. Claude only writes the causes an
 | `CLAUDE_CODE_OAUTH_TOKEN` | `claude setup-token` (subscription, not API billing) |
 | `MAIL_USERNAME` | Gmail address; sender and recipient |
 | `MAIL_PASSWORD` | Gmail app password |
-| `NTFY_TOPIC` | optional; the phone push is skipped without it |
 
 ```bash
 pbpaste | tr -d ' \n\r' | gh secret set CLAUDE_CODE_OAUTH_TOKEN
