@@ -3,7 +3,8 @@
  "stem": "2026-10-20",
  "subject": "Bani în euro 20.10: EUR/RON 5,3272 (−0,18%) · S&P 500 +1,17% · Nasdaq +2,26% · 7 oferte noi",
  "attachments": [],
- "status": "pending",
- "attempts": 0,
- "last_error": null
+ "status": "sent",
+ "attempts": 1,
+ "last_error": null,
+ "sent_at": "2026-10-20T05:35:29+00:00"
 }
