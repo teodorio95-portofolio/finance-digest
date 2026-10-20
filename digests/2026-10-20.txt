@@ -1,0 +1,94 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Marți, 20 octombrie 2026
+7 oferte noi · 2 mișcări notabile
+
+PE SCURT
+- Dolarul s-a întărit puțin pe fondul așteptărilor de majorare Fed în octombrie, iar asta a amplificat câștigul indicilor americani exprimat în euro.
+- BCE este văzută păstrând dobânda de depozit la 2,50% pe 29 octombrie, deci randamentele pe cash în euro nu se schimbă imediat.
+- A apărut o nouă emisiune Fidelis în euro, cu dobânzi de până la 6,60%, o variantă de parcat banii cât mai aștepți un moment de investiție.
+
+CURS VALUTAR
+- EUR/RON: 5,3272 (19.10) · zi −0,18% · 7 zile −0,19% · 30 zile +1,19%
+- USD/RON: 4,7520 (19.10) · zi +0,19% · 7 zile −0,41% · 30 zile +3,67%
+- EUR/USD: 1,1225 (19.10) · zi −0,25% · 7 zile +0,39% · 30 zile −2,05%
+  De ce: Euro rămâne sub presiune pe fondul diferenței de politică monetară: piețele dau o probabilitate de aproximativ 68% ca Fed să mai majoreze dobânda în octombrie, în timp ce BCE este văzută făcând pauză după cele două majorări din acest an, conform analizei Forex.com/StoneX.
+    https://www.forex.com/en-au/news-and-analysis/eur-usd-q4-2026-outlook-euro-at-a-crossroads-as-fed-ecb-tighten-9-25-2026/
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 743,07 € (19.10) · zi +1,17% · 7 zile −1,37% · 30 zile +3,21%
+  7 zile: S&P 500 în USD −0,98%, efectul cursului EUR/USD −0,39% (aproximativ)
+  30 zile: S&P 500 în USD +1,09%, efectul cursului EUR/USD +2,09% (aproximativ)
+  De ce: Bursele americane și-au continuat creșterea în jurul datei de 19 octombrie, susținute de startul sezonului rezultatelor pe trimestrul al treilea, cu creșteri de profit estimate la peste 40% în sectorul tech; Goldman Sachs estimează că marile companii tech vor genera aproape jumătate din creșterea profitului S&P 500 în 2026. Întărirea dolarului față de euro a adăugat un plus la randamentul în euro…
+    https://www.kucoin.com/news/flash/us-q3-earnings-season-begins-tech-sector-expected-to-grow-43-3
+    https://www.itiger.com/news/2590504455
+- iShares Nasdaq 100 (SXRV): 1.524,00 € (19.10) · zi +2,26% · 7 zile −3,29% · 30 zile +2,54%
+  7 zile: Nasdaq-100 în USD −2,90%, efectul cursului EUR/USD −0,39% (aproximativ)
+  30 zile: Nasdaq-100 în USD +0,44%, efectul cursului EUR/USD +2,09% (aproximativ)
+  De ce: Nasdaq-100 a avut o creștere mai mare decât S&P 500 pe fondul optimismului legat de sezonul rezultatelor din tehnologie (TSMC, Netflix, Tesla și NVIDIA raportează în octombrie-noiembrie), sector pentru care se estimează o creștere a profitului de peste 40%. Dolarul mai puternic față de euro a majorat suplimentar valoarea în euro a acestui ETF.
+    https://www.nasdaq.com/articles/zacks-earnings-trends-highlights-nvidia-apple-and-tesla
+    https://www.kucoin.com/news/flash/us-q3-earnings-season-begins-tech-sector-expected-to-grow-43-3
+- Vanguard FTSE All-World (VWCE): 170,76 € (19.10) · zi +0,72% · 7 zile −1,40% · 30 zile +1,90%
+- Xtrackers EUR Overnight (XEON): 150,5200 € (19.10) · zi +0,01% · 7 zile +0,04% · 30 zile +0,20%
+  Randament anualizat pe ultimele 30 de zile: ~2,38%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (20.10) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,441% (16.10) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+
+
+OPORTUNITĂȚI NOI SAU SCHIMBATE
+- Salt Bank · Depozit la termen EUR 12 luni: 1,40% pe an [nou]
+  depozit la termen · 1 an · EUR · minim 200 EUR
+  Fără comisioane de constituire sau administrare; dobânda nu se acordă în caz de lichidare anticipată.
+  https://salt.bank/storage/app/efsfiles/media/depozite/Dobanzi.pdf
+- Salt Bank · Depozit la termen EUR 6 luni: 1,20% pe an [nou]
+  depozit la termen · 6 luni · EUR · minim 200 EUR
+  Fără comisioane de constituire sau administrare; dobânda nu se acordă în caz de lichidare anticipată.
+  https://salt.bank/storage/app/efsfiles/media/depozite/Dobanzi.pdf
+- Salt Bank · Depozit la termen EUR 3 luni: 1,00% pe an [nou]
+  depozit la termen · 3 luni · EUR · minim 200 EUR
+  Fără comisioane de constituire sau administrare; dobânda nu se acordă în caz de lichidare anticipată.
+  https://salt.bank/storage/app/efsfiles/media/depozite/Dobanzi.pdf
+- UniCredit Bank · Depozit la termen EUR 12 luni: 2,10% pe an [nou]
+  depozit la termen · 1 an · EUR
+  Depozit standard pentru persoane fizice, impozit 10% pe venitul din dobânzi.
+  https://financer.ro/investitii/depozite-bancare/
+- UniCredit Bank · Depozit la termen EUR 6 luni: 2,00% pe an [nou]
+  depozit la termen · 6 luni · EUR
+  Depozit standard pentru persoane fizice, impozit 10% pe venitul din dobânzi.
+  https://financer.ro/investitii/depozite-bancare/
+- BCR · Depozit la termen EUR 12 luni: 1,50% pe an [nou]
+  depozit la termen · 1 an · EUR
+  Depozit standard pentru persoane fizice, impozit 10% pe venitul din dobânzi.
+  https://financer.ro/investitii/depozite-bancare/
+- BCR · Depozit la termen EUR 6 luni: 1,25% pe an [nou]
+  depozit la termen · 6 luni · EUR
+  Depozit standard pentru persoane fizice, impozit 10% pe venitul din dobânzi.
+  https://financer.ro/investitii/depozite-bancare/
+
+ȘTIRI CARE AU CONTAT
+- ECB expected to pause in October before hiking rates in December – Reuters poll (Reuters (via TMGM), 08.10.2026)
+  Dacă previziunea se confirmă, dobânda de depozit BCE rămâne la 2,50% încă o vreme, deci randamentele pe cash în euro nu se mișcă imediat.
+  https://www.tmgm.com/es/analysis/market-news/article/ecb-expected-to-pause-in-october-before-hiking-rates-in-december-reuters-poll-202610081239
+- Fidelis octombrie 2026. Ce dobânzi oferă statul la titlurile de stat în lei și euro (bugetul.ro)
+  Noua emisiune Fidelis oferă titluri în euro cu dobânzi de până la 6,60%, o alternativă la depozitele bancare pentru cei care încă nu au decis unde investesc.
+  https://www.bugetul.ro/fidelis-octombrie-2026-ce-dobanzi-ofera-statul-la-titlurile-de-stat-in-lei-si-euro/
+- EUR/USD Q4 2026 Outlook: Euro at a Crossroads as Fed, ECB Tighten (Forex.com, 25.09.2026)
+  Divergența de politică monetară dintre Fed și BCE ține euro sub presiune față de dolar, relevant pentru cine ține sume mari în euro și urmărește puterea monedei.
+  https://www.forex.com/en-au/news-and-analysis/eur-usd-q4-2026-outlook-euro-at-a-crossroads-as-fed-ecb-tighten-9-25-2026/
+- Will the ECB Cut Interest Rates in December? (Morningstar)
+  Inflația din zona euro este estimată să crească spre 3,7% în trimestrul al patrulea, factor care influențează direcția viitoare a dobânzilor BCE și, prin ele, a depozitelor în euro.
+  https://global.morningstar.com/en-gb/economy/will-ecb-cut-interest-rates-december
+- US Q3 earnings season begins, with the tech sector expected to grow 43.3% (Kucoin)
+  Sezonul rezultatelor pe trimestrul al treilea, cu o creștere estimată de peste 40% în tehnologie, susține evoluția ETF-urilor globale pe acțiuni urmărite de cei care așteaptă să investească în euro.
+  https://www.kucoin.com/news/flash/us-q3-earnings-season-begins-tech-sector-expected-to-grow-43-3
+- LIVE MARKETS-Goldman says mega-cap tech to drive nearly half of S&P 500 EPS growth in 2026 (Reuters (via iTiger))
+  Dependența tot mai mare a S&P 500 de câteva companii mari de tehnologie este relevantă pentru riscul de concentrare al unui ETF global pe acțiuni americane.
+  https://www.itiger.com/news/2590504455
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
