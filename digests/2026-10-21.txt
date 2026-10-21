@@ -1,0 +1,73 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Miercuri, 21 octombrie 2026
+7 oferte noi
+
+PE SCURT
+- Cursul euro-leu și dolar-leu au rămas practic stabile pe 20 octombrie, fără mișcări notabile de piață.
+- BCE menține dobânda de depozit la 2,5%, în timp ce piețele continuă să anticipeze noi reduceri de dobândă la Fed, ceea ce susține cursul euro pe termen mediu.
+- A început emisiunea Tezaur octombrie-noiembrie 2026, cu dobânzi neimpozabile de 6,5%-7,5% pe an în lei, o alternativă de comparat cu depozitele în euro.
+
+CURS VALUTAR
+- EUR/RON: 5,3285 (20.10) · zi +0,02% · 7 zile −0,16% · 30 zile +1,22%
+- USD/RON: 4,7516 (20.10) · zi −0,01% · 7 zile −0,49% · 30 zile +3,66%
+- EUR/USD: 1,1215 (20.10) · zi −0,09% · 7 zile +0,24% · 30 zile −2,14%
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 741,30 € (20.10) · zi +0,27% · 7 zile −1,53% · 30 zile +2,96%
+  7 zile: S&P 500 în USD −1,29%, efectul cursului EUR/USD −0,24% (aproximativ)
+  30 zile: S&P 500 în USD +0,76%, efectul cursului EUR/USD +2,18% (aproximativ)
+- iShares Nasdaq 100 (SXRV): 1.512,00 € (20.10) · zi +0,04% · 7 zile −3,69% · 30 zile +1,74%
+  7 zile: Nasdaq-100 în USD −3,45%, efectul cursului EUR/USD −0,24% (aproximativ)
+  30 zile: Nasdaq-100 în USD −0,44%, efectul cursului EUR/USD +2,18% (aproximativ)
+- Vanguard FTSE All-World (VWCE): 170,34 € (20.10) · zi +0,15% · 7 zile −1,38% · 30 zile +1,65%
+- Xtrackers EUR Overnight (XEON): 150,5400 € (20.10) · zi +0,01% · 7 zile +0,05% · 30 zile +0,21%
+  Randament anualizat pe ultimele 30 de zile: ~2,46%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (21.10) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,441% (19.10) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+
+
+OPORTUNITĂȚI NOI SAU SCHIMBATE
+- Patria Bank · Depozit la termen EUR 12 luni: 2,20% pe an [nou]
+  depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- ProCredit Bank · Depozit la termen EUR 12 luni: 2,10% pe an [nou]
+  depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- Libra Internet Bank · Depozit la termen EUR 12 luni: 2,00% pe an [nou]
+  depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- Banca Transilvania · Depozit la termen EUR 12 luni: 1,50% pe an [nou]
+  depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- Ministerul Finanțelor · Tezaur 5 ani (emisiunea octombrie-noiembrie 2026): 7,50% pe an [nou]
+  titluri de stat · 5 ani · RON
+  https://www.wall-street.ro/articol/bursa-si-investitii/statul-mareste-dobanzile-la-tezaur-cat-poti-castiga-in-octombrie-2026
+- Ministerul Finanțelor · Tezaur 3 ani (emisiunea octombrie-noiembrie 2026): 7,00% pe an [nou]
+  titluri de stat · 3 ani · RON
+  https://www.wall-street.ro/articol/bursa-si-investitii/statul-mareste-dobanzile-la-tezaur-cat-poti-castiga-in-octombrie-2026
+- Ministerul Finanțelor · Tezaur 1 an (emisiunea octombrie-noiembrie 2026): 6,50% pe an [nou]
+  titluri de stat · 1 an · RON
+  https://www.wall-street.ro/articol/bursa-si-investitii/statul-mareste-dobanzile-la-tezaur-cat-poti-castiga-in-octombrie-2026
+
+ȘTIRI CARE AU CONTAT
+- Ministerul Finanțelor scoate la vânzare o nouă emisiune de titluri de stat Tezaur, cu dobânzi foarte atractive (economica.net, 05.10.2026)
+  Noua emisiune Tezaur oferă 6,5%-7,5% pe an în lei, neimpozabil, o opțiune de comparat cu depozitele în euro pentru cine ține bani lichizi.
+  https://www.economica.net/ministerul-finantelor-scoate-la-vanzare-o-noua-emisiune-de-titluri-de-stat-tezaur-cu-dobanzi-foarte-atractive_948670.html
+- Titluri de stat Tezaur și Fidelis, octombrie 2026: dobânzi de până la 7,75% (infotva.manager.ro)
+  Emisiunea Fidelis din aceeași perioadă oferă și variante în euro, utile pentru cine vrea să rămână în moneda proprie în loc să convertească în lei.
+  https://infotva.manager.ro/articole/infotva/titluri-de-stat-tezaur-si-fidelis-octombrie-2026-dobanzi-de-pana-la-7-75procente-24681.html
+- EUR/USD climbs as Fed rate cut expectations pressure US Dollar (FXStreet)
+  Piețele anticipează tăieri suplimentare de dobândă la Fed în timp ce BCE pare să rămână pe loc, un context relevant pentru cine urmărește cursul euro-dolar.
+  https://www.fxstreet.com/news/eur-usd-climbs-as-fed-rate-cut-expectations-pressure-us-dollar-202512101848
+- S&P 500 forecast to climb as earnings growth powers stocks higher (Goldman Sachs)
+  Goldman Sachs și-a ridicat ținta pentru S&P 500 la 8000 pentru 2026, relevant pentru cei care urmăresc SXR8 înainte de a investi.
+  https://www.goldmansachs.com/insights/articles/s-and-p-500-forecast-to-climb-as-earnings-growth-powers-stocks-higher
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
