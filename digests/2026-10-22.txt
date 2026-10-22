@@ -1,0 +1,58 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Joi, 22 octombrie 2026
+1 ofertă nouă
+
+PE SCURT
+- BCE e văzută păstrând dobânda la 2,50% pe 29 octombrie și majorând-o abia în decembrie, pe fondul inflației în creștere — randamente mai mari la euro ar putea mai întârzia.
+- A apărut o nouă ediție Fidelis în octombrie, cu dobânzi de până la 6,60% la titlurile în euro, peste ce oferă depozitele bancare clasice.
+- Bursele americane, care stau la baza SXR8 și SXRV, rămân la maxime istorice pe fondul entuziasmului privind AI și al speranțelor de reduceri de dobândă Fed.
+
+CURS VALUTAR
+- EUR/RON: 5,3297 (21.10) · zi +0,02% · 7 zile −0,18% · 30 zile +1,23%
+- USD/RON: 4,7489 (21.10) · zi −0,06% · 7 zile −0,45% · 30 zile +3,54%
+- EUR/USD: 1,1234 (21.10) · zi +0,17% · 7 zile +0,35% · 30 zile −2,23%
+  De ce: Perechea euro-dolar rămâne influențată de divergența de politică monetară: potrivit unui sondaj Reuters citat de tmgm.com, majoritatea analiștilor văd BCE menținând dobânda la 2,50% pe 29 octombrie și majorând-o abia în decembrie, pe fondul inflației anticipate să crească spre 3,7% în T4, în timp ce piețele continuă să anticipeze reduceri de dobândă din partea Fed.
+    https://www.tmgm.com/analysis/market-news/article/ecb-expected-to-pause-in-october-before-hiking-rates-in-december-reuters-poll-202610081239
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 744,78 € (21.10) · zi +0,47% · 7 zile +0,11% · 30 zile +2,18%
+  7 zile: S&P 500 în USD +0,46%, efectul cursului EUR/USD −0,35% (aproximativ)
+  30 zile: S&P 500 în USD −0,09%, efectul cursului EUR/USD +2,28% (aproximativ)
+- iShares Nasdaq 100 (SXRV): 1.525,40 € (21.10) · zi +0,89% · 7 zile −0,77% · 30 zile +0,08%
+  7 zile: Nasdaq-100 în USD −0,42%, efectul cursului EUR/USD −0,35% (aproximativ)
+  30 zile: Nasdaq-100 în USD −2,15%, efectul cursului EUR/USD +2,28% (aproximativ)
+- Vanguard FTSE All-World (VWCE): 171,26 € (21.10) · zi +0,54% · 7 zile +0,08% · 30 zile +1,16%
+- Xtrackers EUR Overnight (XEON): 150,5400 € (20.10, fără cotație nouă) · zi +0,01% · 7 zile +0,05% · 30 zile +0,21%
+  Randament anualizat pe ultimele 30 de zile: ~2,46%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (22.10) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,440% (20.10) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+
+
+OPORTUNITĂȚI NOI SAU SCHIMBATE
+- Revolut · Instant Access Savings EUR (plan Plus): 2,50% pe an [nou]
+  cont de economii · la vedere · EUR
+  Necesită planul Plus; dobândă variabilă calculată zilnic, plătită zilnic; impozitare conform legislației române.
+  https://www.revolut.com/ro-RO/legal/pre-contractual-information-instant-access-savings-account/
+
+ȘTIRI CARE AU CONTAT
+- ECB expected to pause in October before hiking rates in December – Reuters poll (Reuters (via tmgm.com), 08.10.2026)
+  O eventuală majorare BCE e văzută abia în decembrie, nu acum, deci dobânzile mai bune la euro ar putea mai întârzia.
+  https://www.tmgm.com/analysis/market-news/article/ecb-expected-to-pause-in-october-before-hiking-rates-in-december-reuters-poll-202610081239
+- Fidelis octombrie 2026: statul plătește mai mult ca să se împrumute de la români (wall-street.ro, 01.10.2026)
+  Noua emisiune Fidelis oferă dobânzi de până la 6,60% la titlurile în euro, o alternativă la banii ținuți în euro în conturi.
+  https://www.wall-street.ro/articol/bursa-si-investitii/fidelis-octombrie-2026-statul-plateste-mai-mult-ca-sa-se-imprumute-de-la-romani
+- S&P 500 hits new record high (XTB, 06.10.2026)
+  Indicele pe care îl copiază SXR8 a atins un maxim istoric, susținut de randamente mai mici la obligațiuni și speranțe de reduceri de dobândă Fed.
+  https://www.xtb.com/en/market-analysis/s-p-500-hits-new-record-high
+- Big tech, chipmakers power S&P 500, Nasdaq to record highs (Oman Observer / AP, 15.10.2026)
+  Rezultatele din tehnologie și cipuri au împins mai departe indicii americani, relevant pentru partea din portofoliu expusă la SXR8 și SXRV.
+  https://www.omanobserver.om/article/1109222/business/markets/big-tech-chipmakers-power-sp-500-nasdaq-to-record-highs
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
