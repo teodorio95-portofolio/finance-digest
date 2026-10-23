@@ -1,0 +1,59 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Vineri, 23 octombrie 2026
+1 ofertă nouă · 3 mișcări notabile
+
+PE SCURT
+- Vânzarea de pe Wall Street, pe fondul îngrijorărilor privind cheltuielile pe AI (Meta, cipuri), a tras în jos Nasdaq-100 și acțiunile globale, inclusiv SXRV și VWCE în euro.
+- Leul rămâne apropiat de nivelul istoric ridicat față de euro (5,3485 lei); nu am găsit o cauză punctuală confirmată pentru mișcarea de azi.
+- Dobânda de depozit BCE rămâne neschimbată la 2,5%, fără semnal nou pentru cine așteaptă să investească euro acumulat.
+
+CURS VALUTAR
+- EUR/RON: 5,3485 (22.10) · zi +0,35% · 7 zile +0,22% · 30 zile +1,59%
+  Mișcare peste prag, fără o cauză cu sursă găsită azi.
+- USD/RON: 4,7640 (22.10) · zi +0,32% · 7 zile +0,15% · 30 zile +3,71%
+- EUR/USD: 1,1205 (22.10) · zi −0,26% · 7 zile −0,03% · 30 zile −2,25%
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 738,01 € (22.10) · zi −0,95% · 7 zile −1,02% · 30 zile +1,02%
+  7 zile: S&P 500 în USD −1,04%, efectul cursului EUR/USD +0,03% (aproximativ)
+  30 zile: S&P 500 în USD −1,26%, efectul cursului EUR/USD +2,30% (aproximativ)
+- iShares Nasdaq 100 (SXRV): 1.493,40 € (22.10) · zi −2,08% · 7 zile −2,68% · 30 zile −3,05%
+  7 zile: Nasdaq-100 în USD −2,71%, efectul cursului EUR/USD +0,03% (aproximativ)
+  30 zile: Nasdaq-100 în USD −5,23%, efectul cursului EUR/USD +2,30% (aproximativ)
+  De ce: Scăderea Nasdaq-100 (SXRV, în euro) vine din vânzarea masivă a acțiunilor tech după ce Meta a raportat prima ieșire netă de numerar din ultimul deceniu din cauza investițiilor în AI, iar sectorul semiconductoarelor (Intel, AMD, Marvell) a scăzut cu peste 8%; mișcarea provine din indicele în sine, nu din cursul EUR/USD. Nasdaq Composite a avut cea mai slabă zi de la începutul lunii iunie.
+    https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html
+    https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html
+- Vanguard FTSE All-World (VWCE): 169,24 € (22.10) · zi −1,08% · 7 zile −0,89% · 30 zile −0,37%
+  De ce: Scăderea acțiunilor globale (VWCE) a fost alimentată de același val de vânzări tech de pe Wall Street, având în vedere ponderea mare a companiilor americane mari în indice; S&P 500 a scăzut 1,21%, iar Dow a rămas aproape neschimbat, deci efectul s-a concentrat pe tehnologie.
+    https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html
+- Xtrackers EUR Overnight (XEON): 150,5800 € (22.10) · zi +0,02% · 7 zile +0,06% · 30 zile +0,21%
+  Randament anualizat pe ultimele 30 de zile: ~2,62%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (23.10) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,440% (21.10) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+
+
+OPORTUNITĂȚI NOI SAU SCHIMBATE
+- Patria Bank · Depozit la termen EUR 6 luni: 1,80% pe an [nou]
+  depozit la termen · 6 luni · EUR
+  Impozit 10% pe dobândă, depozit garantat FGDB.
+  https://financer.ro/investitii/depozite-bancare/
+
+ȘTIRI CARE AU CONTAT
+- S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff (Yahoo Finance, 22.10.2026)
+  Explică scăderea tehnologică din spatele mișcării SXRV și VWCE, relevantă pentru cine evaluează momentul de a intra pe acțiuni globale.
+  https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html
+- Stock futures trade mixed after tech sector sell-off: Live updates (CNBC, 22.10.2026)
+  Confirmă nervozitatea piețelor americane după rezultatele Meta și scăderea sectorului de cipuri, context util pentru deciziile de investiție în ETF-uri globale.
+  https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html
+- Stock Market Today: Dow, S&P Live Updates for October 22 (Bloomberg, 21.10.2026)
+  Context suplimentar despre starea piețelor americane chiar înainte de ziua analizată, util pentru a urmări dacă scăderea tech continuă.
+  https://www.bloomberg.com/news/articles/2026-10-21/stock-market-today-dow-s-p-live-updates
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
