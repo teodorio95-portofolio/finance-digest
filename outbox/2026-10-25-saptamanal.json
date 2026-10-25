@@ -3,7 +3,8 @@
  "stem": "2026-10-25-saptamanal",
  "subject": "Bani în euro: săptămâna 19.10–25.10: EUR/RON 5,3495 (+0,24%) · S&P 500 +0,44% · Nasdaq +0,17% · 4 oferte noi",
  "attachments": [],
- "status": "pending",
- "attempts": 0,
- "last_error": null
+ "status": "sent",
+ "attempts": 1,
+ "last_error": null,
+ "sent_at": "2026-10-25T07:06:00+00:00"
 }
