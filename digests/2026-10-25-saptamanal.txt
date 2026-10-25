@@ -1,0 +1,101 @@
+BANI ÎN EURO · rezumatul săptămânii
+Duminică, 25 octombrie 2026
+4 oferte noi
+
+PE SCURT
+- Leul rămâne relativ stabil, dar deficitul bugetar și perspectiva negativă de rating continuă să fie un risc pe termen mediu pentru curs.
+- Euro s-a depreciat ușor față de dolar în această săptămână, pe fondul așteptării ca BCE să lase dobânda nemodificată la 2% pe 29 octombrie.
+- Bursele americane au avut o săptămână volatilă cu rezultate mari (Tesla, Meta, Netflix); indicii UCITS în euro au urcat totuși, susținuți de cursul euro-dolar.
+
+CURS VALUTAR
+- EUR/RON: 5,3495 (23.10) · zi +0,02% · 7 zile +0,24% · 30 zile +1,34% · 90 zile +2,19%
+- USD/RON: 4,7770 (23.10) · zi +0,27% · 7 zile +0,72% · 30 zile +3,25% · 90 zile +3,91%
+- EUR/USD: 1,1193 (23.10) · zi −0,11% · 7 zile −0,53% · 30 zile −1,91% · 90 zile −1,62%
+  De ce: Euro a cedat teren în fața dolarului în această săptămână, în linie cu anticiparea pieței, confirmată de un sondaj Reuters, că BCE va lăsa dobânda de depozit nemodificată la 2% la reuniunea din 29 octombrie. Reuniunea BCE din 28-29 octombrie este cel mai important eveniment de politică monetară din perioada analizată.
+    https://www.fxstreet.com/news/ecb-sets-to-leave-deposit-rate-unchanged-at-2-on-october-30-reuters-poll-202510221122
+    https://admiralmarkets.com/analytics/traders-blog/ecb-meeting-october-2026
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 737,70 € (23.10) · zi −0,04% · 7 zile +0,44% · 30 zile +1,28% · 90 zile +5,15%
+  7 zile: S&P 500 în USD −0,10%, efectul cursului EUR/USD +0,54% (aproximativ)
+  30 zile: S&P 500 în USD −0,66%, efectul cursului EUR/USD +1,95% (aproximativ)
+  De ce: Indicele S&P 500 a fost aproape stabil în dolari în această săptămână, într-o perioadă încărcată cu rezultate ale marilor companii (Tesla, Meta, Netflix, SpaceX, IBM). Creșterea de 0,44% în euro a venit aproape integral din depreciarea euro față de dolar, nu din mișcarea indicelui în sine.
+    https://blofin.com/academy/education/tradfi/earnings-this-week-oct-19-23-2026
+    https://virginiabusiness.com/sp-500-nasdaq-record-highs-earnings-week/
+- iShares Nasdaq 100 (SXRV): 1.492,80 € (23.10) · zi −0,04% · 7 zile +0,17% · 30 zile −2,70% · 90 zile +5,14%
+  7 zile: Nasdaq-100 în USD −0,36%, efectul cursului EUR/USD +0,54% (aproximativ)
+  30 zile: Nasdaq-100 în USD −4,56%, efectul cursului EUR/USD +1,95% (aproximativ)
+  De ce: Nasdaq-100 a scăzut în dolari în această săptămână, afectat de slăbiciunea acțiunilor de cipuri și de rezultate bancare contrastante, într-o săptămână dominată de raportările Tesla, Meta și SpaceX. Creșterea mică în euro (0,17%) se explică exclusiv prin depreciarea monedei europene față de dolar, care a compensat scăderea indicelui.
+    https://virginiabusiness.com/nasdaq-falls-chip-stocks-drop-bank-earnings-vary/
+    https://blofin.com/academy/education/tradfi/earnings-this-week-oct-19-23-2026
+- Vanguard FTSE All-World (VWCE): 169,22 € (23.10) · zi −0,01% · 7 zile −0,19% · 30 zile −0,17% · 90 zile +3,41%
+- Xtrackers EUR Overnight (XEON): 150,5900 € (23.10) · zi +0,01% · 7 zile +0,06% · 30 zile +0,21% · 90 zile +0,59%
+  Randament anualizat pe ultimele 30 de zile: ~2,62%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (25.10) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp · 90 zile +0,25 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,442% (22.10) · zi – · 7 zile 0,00 pp · 30 zile 0,00 pp · 90 zile +0,26 pp
+
+
+OPORTUNITĂȚI NOI SAU SCHIMBATE
+- Intesa Sanpaolo · Depozit la termen EUR 12 luni: 1,90% pe an [nou]
+  depozit la termen · 1 an · EUR
+  https://www.intesasanpaolobank.ro/document/documents/ISPROMANIA/tarife-comisioane/Dobanzi-produse-de-economisire-01.07.2026.pdf
+- Intesa Sanpaolo · Depozit la termen EUR 6 luni: 1,65% pe an [nou]
+  depozit la termen · 6 luni · EUR
+  https://www.intesasanpaolobank.ro/document/documents/ISPROMANIA/tarife-comisioane/Dobanzi-produse-de-economisire-01.07.2026.pdf
+- Intesa Sanpaolo · Depozit la termen EUR 3 luni: 1,15% pe an [nou]
+  depozit la termen · 3 luni · EUR
+  https://www.intesasanpaolobank.ro/document/documents/ISPROMANIA/tarife-comisioane/Dobanzi-produse-de-economisire-01.07.2026.pdf
+- Intesa Sanpaolo · Depozit la termen EUR 1 lună: 0,90% pe an [nou]
+  depozit la termen · 1 lună · EUR
+  https://www.intesasanpaolobank.ro/document/documents/ISPROMANIA/tarife-comisioane/Dobanzi-produse-de-economisire-01.07.2026.pdf
+
+CELE MAI BUNE OFERTE ACTIVE (EUR ÎNTÂI)
+- Revolut · Instant Access Savings EUR (plan Plus): 2,50% pe an · cont de economii · la vedere · EUR
+  https://www.revolut.com/ro-RO/legal/pre-contractual-information-instant-access-savings-account/
+- Patria Bank · Depozit la termen EUR 12 luni: 2,20% pe an · depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- ProCredit Bank · Depozit la termen EUR 12 luni: 2,10% pe an · depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- UniCredit Bank · Depozit la termen EUR 12 luni: 2,10% pe an · depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- Libra Internet Bank · Depozit la termen EUR 12 luni: 2,00% pe an · depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- UniCredit Bank · Depozit la termen EUR 6 luni: 2,00% pe an · depozit la termen · 6 luni · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- Intesa Sanpaolo Bank · Depozit la termen EUR 12 luni: 1,90% pe an · depozit la termen · 1 an · EUR
+  https://www.intesasanpaolobank.ro/document/documents/ISPROMANIA/tarife-comisioane/Dobanzi-produse-de-economisire-01.07.2026.pdf
+- Intesa Sanpaolo · Depozit la termen EUR 12 luni: 1,90% pe an · depozit la termen · 1 an · EUR
+  https://www.intesasanpaolobank.ro/document/documents/ISPROMANIA/tarife-comisioane/Dobanzi-produse-de-economisire-01.07.2026.pdf
+- Patria Bank · Depozit la termen EUR 6 luni: 1,80% pe an · depozit la termen · 6 luni · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- Intesa Sanpaolo Bank · Depozit la termen EUR 6 luni: 1,65% pe an · depozit la termen · 6 luni · EUR
+  https://www.intesasanpaolobank.ro/document/documents/ISPROMANIA/tarife-comisioane/Dobanzi-produse-de-economisire-01.07.2026.pdf
+
+ȘTIRI CARE AU CONTAT
+- ECB sets to leave deposit rate unchanged at 2% on October 30 – Reuters poll (Reuters (via FXStreet), 22.10.2026)
+  BCE se întrunește pe 28-29 octombrie, iar piața nu anticipează o schimbare a dobânzii de depozit, ceea ce înseamnă că randamentele din euro ar putea rămâne stabile pe termen scurt.
+  https://www.fxstreet.com/news/ecb-sets-to-leave-deposit-rate-unchanged-at-2-on-october-30-reuters-poll-202510221122
+- FIDELIS de octombrie: Titluri de stat în lei și euro, cu dobânzi neimpozabile de până la 8,20% (economedia.ro)
+  Statul român a lansat o nouă emisiune Fidelis cu tranșe în euro, o alternativă la depozitele bancare pentru cei care economisesc în euro.
+  https://economedia.ro/?p=296123
+- Deficitul bugetar al României a scăzut cu aproape 27 de miliarde de lei în primele opt luni din 2026 (ziarulprofit.ro)
+  Reducerea deficitului e o veste bună pentru stabilitatea leului, dar nivelul rămâne ridicat și ținta anuală e departe de a fi atinsă.
+  https://www.ziarulprofit.ro/deficitul-bugetar-al-romaniei-a-scazut-cu-aproape-27-de-miliarde-de-lei-in-primele-opt-luni-din-2026/
+- Ce obține România prin scăderea deficitului bugetar. Specialist: Rămânem cu speranța că vom evita o catastrofă economică (digi24.ro)
+  România rămâne cu rating BBB-/A-3 și perspectivă negativă la S&P, un risc de fond pentru cursul leului chiar dacă pe termen scurt e stabil.
+  https://www.digi24.ro/digieconomic/macro/ce-obtine-romania-prin-scaderea-deficitului-bugetar-specialist-ramanem-cu-speranta-ca-vom-evita-o-catastrofa-economica-111783
+- Earnings This Week (Oct 19-23, 2026): SpaceX, Tesla, Meta (blofin.com, 19.10.2026)
+  Săptămâna de rezultate ale marilor companii americane a adus volatilitate pe bursele din care sunt compuse SXR8 și SXRV, indicii deținuți indirect de un cumpărător de ETF-uri în euro.
+  https://blofin.com/academy/education/tradfi/earnings-this-week-oct-19-23-2026
+- ECB Meeting October 2026: Real Dates and What Markets Watch (admiralmarkets.com)
+  Decizia BCE de pe 29 octombrie este următorul reper important pentru oricine urmărește dobânzile la depozitele și economiile în euro.
+  https://admiralmarkets.com/analytics/traders-blog/ecb-meeting-october-2026
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
