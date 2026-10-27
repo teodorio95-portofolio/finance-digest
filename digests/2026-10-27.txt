@@ -1,0 +1,64 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Marți, 27 octombrie 2026
+1 ofertă nouă · 1 mișcare notabilă
+
+PE SCURT
+- EUR/USD rămâne lipit de minimele ultimelor luni, piețele așteptând deciziile de dobândă ale Fed (28 octombrie) și BCE (29 octombrie), ambele anticipate fără schimbare.
+- SXRV (Nasdaq-100 în euro) a avansat azi pe fondul optimismului înaintea rapoartelor Alphabet și Microsoft, dar e încă sub nivelul de acum o lună, parțial din cauza dolarului mai slab.
+- Ministerul Finanțelor a lansat în octombrie o nouă emisiune Fidelis, cu dobânzi de până la 6,60% în euro, o opțiune pentru cei care încă țin banii în euro.
+
+CURS VALUTAR
+- EUR/RON: 5,3467 (26.10) · zi −0,05% · 7 zile +0,37% · 30 zile +1,42%
+- USD/RON: 4,7745 (26.10) · zi −0,05% · 7 zile +0,47% · 30 zile +3,15%
+- EUR/USD: 1,1188 (26.10) · zi −0,04% · 7 zile −0,33% · 30 zile −1,89%
+  De ce: Euro a rămas sub presiune față de dolar, randamentele mai mari din SUA susținând moneda americană, în timp ce piețele așteaptă deciziile de dobândă ale Fed din 28 octombrie și ale BCE din 29 octombrie, ambele anticipate să lase ratele neschimbate.
+    https://roboforex.com/beginners/analytics/forex-forecast/currencies/eur-usd-forecast-2026-10-22/
+    https://admiralmarkets.com/analytics/traders-blog/ecb-meeting-october-2026
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 741,39 € (26.10) · zi +0,87% · 7 zile +0,28% · 30 zile +1,22%
+  7 zile: S&P 500 în USD −0,05%, efectul cursului EUR/USD +0,33% (aproximativ)
+  30 zile: S&P 500 în USD −0,69%, efectul cursului EUR/USD +1,92% (aproximativ)
+- iShares Nasdaq 100 (SXRV): 1.506,40 € (26.10) · zi +1,35% · 7 zile −0,33% · 30 zile −2,32%
+  7 zile: Nasdaq-100 în USD −0,66%, efectul cursului EUR/USD +0,33% (aproximativ)
+  30 zile: Nasdaq-100 în USD −4,16%, efectul cursului EUR/USD +1,92% (aproximativ)
+  De ce: Creșterea zilnică a SXRV a venit din indexul Nasdaq-100 propriu-zis, susținut de optimismul investitorilor înaintea rapoartelor de profit ale Alphabet și Microsoft; pe 7 și pe 30 de zile însă indexul în dolari a scăzut, iar deprecierea euro față de dolar a compensat parțial pierderea în termeni euro.
+    https://amp.fxempire.com/en/key-events-this-week-can-big-tech-earnings-push-nasdaq-100-to-new-record-high-fxtm-academy/792060
+- Vanguard FTSE All-World (VWCE): 170,08 € (26.10) · zi +0,71% · 7 zile 0,00% · 30 zile +0,05%
+- Xtrackers EUR Overnight (XEON): 150,6000 € (26.10) · zi +0,02% · 7 zile +0,05% · 30 zile +0,21%
+  Randament anualizat pe ultimele 30 de zile: ~2,46%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (27.10) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,442% (23.10) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+
+
+OPORTUNITĂȚI NOI SAU SCHIMBATE
+- Trade Republic · Interest on cash EUR: 2,50% pe an [nou]
+  cont de economii · la vedere · EUR
+  Dobândă variabilă, plătită zilnic, fără plafon de sumă; disponibilă clienților Trade Republic din UE, inclusiv România.
+  https://www.traderepublic.com/en-de/interest
+
+ȘTIRI CARE AU CONTAT
+- ECB Meeting October 2026: Real Dates and What Markets Watch (Admiral Markets)
+  BCE decide pe 29 octombrie dacă menține dobânda de depozit la 2,5%, nivel care influențează direct randamentele economiilor în euro.
+  https://admiralmarkets.com/analytics/traders-blog/ecb-meeting-october-2026
+- ECB sets to leave deposit rate unchanged at 2% on October 30 — Reuters poll (FXStreet / Reuters, 22.10.2026)
+  Un sondaj Reuters arată că piețele văd foarte probabil ca BCE să lase dobânda neschimbată la ședința din 29-30 octombrie, deci fără schimbare pentru dobânzile la depozitele în euro.
+  https://www.fxstreet.com/news/ecb-sets-to-leave-deposit-rate-unchanged-at-2-on-october-30-reuters-poll-202510221122
+- EURUSD awaits the Federal Reserve's interest rate decision (RoboForex, 22.10.2026)
+  Decizia Fed din 28 octombrie este urmărită de piețe, iar rezultatul influențează puterea euro convertit în dolari pentru cine are expunere pe active americane.
+  https://roboforex.com/beginners/analytics/forex-forecast/currencies/eur-usd-forecast-2026-10-22/
+- Titlurile de stat Fidelis emise în octombrie de Ministerul Finanțelor, de aproape 2,2 miliarde lei, debutează la tranzacționare la BVB (Bursa.ro)
+  Noua emisiune Fidelis din octombrie oferă dobânzi de până la 6,60% în euro, o alternativă directă pentru cei care așteaptă să investească suma în euro.
+  https://www.bursa.ro/titlurile-de-stat-fidelis-emise-in-octombrie-de-ministerul-finantelor-de-aproape-2-2-miliarde-lei-debuteaza-la-tranzactionare-la-bvb-21463756
+- Key Events This Week: Can Big Tech Earnings Push Nasdaq 100 to New Record High? (FXEmpire)
+  Rezultatele financiare ale Alphabet și Microsoft din această săptămână sunt motorul principal al mișcării Nasdaq-100, index urmărit de SXRV în euro.
+  https://amp.fxempire.com/en/key-events-this-week-can-big-tech-earnings-push-nasdaq-100-to-new-record-high-fxtm-academy/792060
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
