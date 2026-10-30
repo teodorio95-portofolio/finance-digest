@@ -3,7 +3,8 @@
  "stem": "2026-10-30",
  "subject": "Bani în euro 30.10: EUR/RON 5,3449 (−0,09%) · S&P 500 −0,55% · Nasdaq −1,55%",
  "attachments": [],
- "status": "pending",
- "attempts": 0,
- "last_error": null
+ "status": "sent",
+ "attempts": 1,
+ "last_error": null,
+ "sent_at": "2026-10-30T05:35:41+00:00"
 }
