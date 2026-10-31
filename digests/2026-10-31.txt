@@ -1,0 +1,72 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Sâmbătă, 31 octombrie 2026
+2 oferte noi · 4 mișcări notabile
+
+PE SCURT
+- Bursele din SUA au scăzut pe 30 octombrie din cauza rezultatelor sub așteptări la Meta și Lam Research și a temerilor legate de cheltuielile uriașe cu AI, ceea ce a tras în jos SXR8, SXRV și VWCE.
+- Fed a lăsat dobânda neschimbată pe 28 octombrie; BCE se întrunește pe 17 decembrie, iar piața estimează o nouă pauză, deci randamentele pe euro rămân probabil stabile pe termen scurt.
+- Ediția FIDELIS din octombrie a oferit titluri de stat în euro pe 3 ani cu dobândă de 4,50%, o alternativă de cash concurentă cu depozitele apărute recent.
+
+CURS VALUTAR
+- EUR/RON: 5,3426 (30.10) · zi −0,04% · 7 zile −0,13% · 30 zile +1,21%
+- USD/RON: 4,7698 (30.10) · zi −0,51% · 7 zile −0,15% · 30 zile +2,63%
+  Mișcare peste prag, fără o cauză cu sursă găsită azi.
+- EUR/USD: 1,1172 (30.10) · zi +0,38% · 7 zile −0,19% · 30 zile −1,61%
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 734,56 € (30.10) · zi −1,60% · 7 zile −0,06% · 30 zile +1,06%
+  7 zile: S&P 500 în USD −0,25%, efectul cursului EUR/USD +0,19% (aproximativ)
+  30 zile: S&P 500 în USD −0,57%, efectul cursului EUR/USD +1,64% (aproximativ)
+  De ce: Scăderea zilnică a SXR8 vine din căderea S&P 500 pe bursa americană, după rezultate sub așteptări la Meta și Lam Research și îngrijorări legate de cheltuielile masive ale companiilor tech cu inteligența artificială; indicele a ajuns la un minim de cinci luni. Pe 7 și pe 30 de zile, creșterea în euro a SXR8 a venit în mare parte din deprecierea dolarului față de euro, nu din performanța S&P 500 în…
+    https://newswav.com/article/s-p-nasdaq-pulled-lower-as-tech-earnings-misses-fuel-slowdown-fears-A2210_imryEF
+    https://247wallst.com/cards/dow-tanked-nearly-1-000-points-as-the-fed-s-rate-outlook-and-gspc-market-bell-01kyqqkeaza8acmjp4axqw97av
+- iShares Nasdaq 100 (SXRV): 1.464,80 € (30.10) · zi −3,29% · 7 zile −1,45% · 30 zile −4,80%
+  7 zile: Nasdaq-100 în USD −1,64%, efectul cursului EUR/USD +0,19% (aproximativ)
+  30 zile: Nasdaq-100 în USD −6,33%, efectul cursului EUR/USD +1,64% (aproximativ)
+  De ce: Scăderea de 3,3% a SXRV vine din căderea Nasdaq Composite, cu aproape 2,8% pe 30 octombrie, din cauza rezultatelor dezamăgitoare la Meta și Lam Research și a temerilor privind cheltuielile masive ale companiilor tech cu AI. Pe 7 și pe 30 de zile, scăderea indicelui Nasdaq-100 în dolari a fost principalul motor al pierderii în euro, doar parțial compensată de deprecierea dolarului față de euro.
+    https://newswav.com/article/s-p-nasdaq-pulled-lower-as-tech-earnings-misses-fuel-slowdown-fears-A2210_imryEF
+    https://moneymasters.beehiiv.com/p/tech-selloff-drags-sp-500
+- Vanguard FTSE All-World (VWCE): 168,85 € (30.10) · zi −1,56% · 7 zile −0,02% · 30 zile 0,00%
+  De ce: Scăderea VWCE urmează aceeași vânzare masivă de acțiuni tech din SUA, cu rezultate sub așteptări la Meta și îngrijorări privind investițiile uriașe în inteligența artificială, care au tras indicii americani și, prin ponderea lor mare, și indicele global de acțiuni folosit de VWCE.
+    https://247wallst.com/cards/dow-tanked-nearly-1-000-points-as-the-fed-s-rate-outlook-and-gspc-market-bell-01kyqqkeaza8acmjp4axqw97av
+- Xtrackers EUR Overnight (XEON): 150,6700 € (30.10) · zi +0,01% · 7 zile +0,07% · 30 zile +0,22%
+  Randament anualizat pe ultimele 30 de zile: ~2,70%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (31.10) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,439% (29.10) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+
+
+OPORTUNITĂȚI NOI SAU SCHIMBATE
+- TechVentures Bank · Depozit la termen EUR 12 luni: 2,65% pe an [nou]
+  depozit la termen · 1 an · EUR
+  Dobânda este brută; se aplică impozit de 10% pe venitul din dobânzi.
+  https://financer.ro/investitii/depozite-bancare/
+- TechVentures Bank · Depozit la termen EUR 6 luni: 2,30% pe an [nou]
+  depozit la termen · 6 luni · EUR
+  Dobânda este brută; se aplică impozit de 10% pe venitul din dobânzi.
+  https://financer.ro/investitii/depozite-bancare/
+
+ȘTIRI CARE AU CONTAT
+- FIDELIS de octombrie: Titluri de stat în lei și euro, cu dobânzi neimpozabile de până la 8,20% (economedia.ro, 02.10.2026)
+  Ediția FIDELIS din octombrie a oferit euro pe 3 ani cu 4,50% dobândă, o opțiune de plasament pentru cine stă în euro și așteaptă.
+  https://economedia.ro/?p=296123
+- S&P, Nasdaq pulled lower as tech earnings misses fuel slowdown fears (newswav, 30.10.2026)
+  Explică de ce au scăzut indicii americani pe 30 octombrie, afectând direct valoarea în euro a SXR8 și SXRV.
+  https://newswav.com/article/s-p-nasdaq-pulled-lower-as-tech-earnings-misses-fuel-slowdown-fears-A2210_imryEF
+- ECB rate decision December 2026 (financecalendar.com, 17.12.2026)
+  Următoarea decizie BCE are loc pe 17 decembrie; o eventuală pauză prelungită ține dobânzile la euro aproape de nivelul actual.
+  https://www.financecalendar.com/event/ecb-rate-decision-december-2026/
+- EURUSD remains under pressure ahead of central banks' interest rate decisions (roboforex.com, 28.10.2026)
+  Economia americană mai solidă versus una europeană mai slabă este motivul invocat pentru presiunea asupra cursului euro-dolar din această perioadă.
+  https://roboforex.com/beginners/analytics/forex-forecast/currencies/eur-usd-forecast-2026-10-28/
+- Titluri de stat Tezaur și Fidelis octombrie 2026: dobânzi de până la 7,75% (infotva.manager.ro, 02.10.2026)
+  Programul TEZAUR rulează până pe 6 noiembrie, context util pentru cine compară randamentele în lei cu cele în euro.
+  https://infotva.manager.ro/articole/infotva/titluri-de-stat-tezaur-si-fidelis-octombrie-2026-dobanzi-de-pana-la-7-75procente-24681.html
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
