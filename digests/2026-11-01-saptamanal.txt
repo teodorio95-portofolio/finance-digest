@@ -1,0 +1,118 @@
+BANI ÎN EURO · rezumatul săptămânii
+Duminică, 1 noiembrie 2026
+6 oferte noi · 2 dobânzi schimbate
+
+PE SCURT
+- Leul a rămas aproape de maximul istoric din 6 octombrie (5,3527 lei/euro); BNR a cheltuit ~4,8 mld € din rezerve în septembrie ca să-l țină stabil.
+- Fed (28 oct.) și BCE (dobânda de depozit, 2,50%) au păstrat dobânzile nemodificate; euro rămâne sub presiune din cauza problemelor bugetare din Franța.
+- Apare o nouă emisiune Fidelis în noiembrie (euro 3,9–6,3%, lei 6,95–7,7%), pe fondul unui sezon de rezultate bun pe bursele americane.
+
+CURS VALUTAR
+- EUR/RON: 5,3426 (30.10) · zi −0,04% · 7 zile −0,13% · 30 zile +1,21% · 90 zile +1,82%
+  De ce: Leul a atins un minim istoric pe 6 octombrie (5,3527 lei/euro), iar BNR a intervenit susținut, cheltuind circa 4,8 miliarde euro din rezerve în luna precedentă pentru a limita deprecierea; în ultima săptămână cursul s-a stabilizat ușor sub acel maxim, conform cursdeguvernare.ro.
+    https://cursdeguvernare.ro/presiunile-pe-leu-ne-au-costat-in-septembrie-48-mld-e-din-rezervele-bnr.html
+- USD/RON: 4,7698 (30.10) · zi −0,51% · 7 zile −0,15% · 30 zile +2,63% · 90 zile +4,61%
+  De ce: Scăderea ușoară a USD/RON în această săptămână reflectă mai ales evoluția euro/dolar: dolarul s-a depreciat după ce Fed a păstrat dobânda la 3,75–4,00% pe 28 octombrie, fără semnale clare privind următoarea ședință, potrivit Mitrade.
+    https://www.mitrade.com/insights/news/live-news/article-1-2201527-20261028
+- EUR/USD: 1,1172 (30.10) · zi +0,38% · 7 zile −0,19% · 30 zile −1,61% · 90 zile −2,73%
+  De ce: Euro a rămas sub presiune în această săptămână din cauza datelor economice mai slabe din zona euro, a problemelor bugetare din Franța și a rezistenței economiei americane, în timp ce Fed și BCE au păstrat dobânzile nemodificate la întâlnirile de la final de octombrie, potrivit RoboForex.
+    https://roboforex.com/beginners/analytics/forex-forecast/currencies/eur-usd-forecast-2026-10-28/
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 734,56 € (30.10) · zi −1,60% · 7 zile −0,06% · 30 zile +1,06% · 90 zile +4,59%
+  7 zile: S&P 500 în USD −0,25%, efectul cursului EUR/USD +0,19% (aproximativ)
+  30 zile: S&P 500 în USD −0,57%, efectul cursului EUR/USD +1,64% (aproximativ)
+- iShares Nasdaq 100 (SXRV): 1.464,80 € (30.10) · zi −3,29% · 7 zile −1,45% · 30 zile −4,80% · 90 zile +3,61%
+  7 zile: Nasdaq-100 în USD −1,64%, efectul cursului EUR/USD +0,19% (aproximativ)
+  30 zile: Nasdaq-100 în USD −6,33%, efectul cursului EUR/USD +1,64% (aproximativ)
+- Vanguard FTSE All-World (VWCE): 168,85 € (30.10) · zi −1,56% · 7 zile −0,02% · 30 zile 0,00% · 90 zile +2,71%
+- Xtrackers EUR Overnight (XEON): 150,6700 € (30.10) · zi +0,01% · 7 zile +0,07% · 30 zile +0,22% · 90 zile +0,60%
+  Randament anualizat pe ultimele 30 de zile: ~2,70%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (31.10) · zi – · 7 zile 0,00 pp · 30 zile 0,00 pp · 90 zile +0,25 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,439% (29.10) · zi – · 7 zile 0,00 pp · 30 zile 0,00 pp · 90 zile +0,25 pp
+
+
+OPORTUNITĂȚI NOI SAU SCHIMBATE
+- Ministerul Finanțelor · Fidelis EUR 3 ani (emisiunea din noiembrie 2026): 3,90% pe an [nou]
+  titluri de stat · 3 ani · EUR · minim 1000 EUR · subscriere până la 14.11.2026
+  Titlu de stat pentru persoane fizice rezidente, venit și câștig de capital neimpozabile, listat la BVB.
+  https://economedia.ro/?p=302244
+- Ministerul Finanțelor · Fidelis EUR 5 ani (emisiunea din noiembrie 2026): 5,00% pe an [nou]
+  titluri de stat · 5 ani · EUR · minim 1000 EUR · subscriere până la 14.11.2026
+  Titlu de stat pentru persoane fizice rezidente, venit și câștig de capital neimpozabile, listat la BVB.
+  https://economedia.ro/?p=302244
+- Ministerul Finanțelor · Fidelis EUR 10 ani (emisiunea din noiembrie 2026): 6,30% pe an [nou]
+  titluri de stat · 10 ani · EUR · minim 1000 EUR · subscriere până la 14.11.2026
+  Titlu de stat pentru persoane fizice rezidente, venit și câștig de capital neimpozabile, listat la BVB.
+  https://economedia.ro/?p=302244
+- Intesa Sanpaolo · Depozit la termen EUR 12 luni: 2,15% pe an [dobândă schimbată: 1,90% → 2,15%]
+  depozit la termen · 1 an · EUR
+  Depozit standard, dobândă brută.
+  https://financer.ro/investitii/depozite-bancare/
+- Intesa Sanpaolo · Depozit la termen EUR 6 luni: 1,75% pe an [dobândă schimbată: 1,65% → 1,75%]
+  depozit la termen · 6 luni · EUR
+  Depozit standard, dobândă brută.
+  https://financer.ro/investitii/depozite-bancare/
+- Ministerul Finanțelor · Fidelis RON 2 ani (emisiunea din noiembrie 2026): 6,95% pe an [nou]
+  titluri de stat · 2 ani · RON · minim 5000 RON · subscriere până la 14.11.2026
+  Titlu de stat pentru persoane fizice rezidente, venit și câștig de capital neimpozabile, listat la BVB.
+  https://economedia.ro/?p=302244
+- Ministerul Finanțelor · Fidelis RON 4 ani (emisiunea din noiembrie 2026): 7,35% pe an [nou]
+  titluri de stat · 4 ani · RON · minim 5000 RON · subscriere până la 14.11.2026
+  Titlu de stat pentru persoane fizice rezidente, venit și câștig de capital neimpozabile, listat la BVB.
+  https://economedia.ro/?p=302244
+- Ministerul Finanțelor · Fidelis RON 6 ani (emisiunea din noiembrie 2026): 7,70% pe an [nou]
+  titluri de stat · 6 ani · RON · minim 5000 RON · subscriere până la 14.11.2026
+  Titlu de stat pentru persoane fizice rezidente, venit și câștig de capital neimpozabile, listat la BVB.
+  https://economedia.ro/?p=302244
+
+CELE MAI BUNE OFERTE ACTIVE (EUR ÎNTÂI)
+- Ministerul Finanțelor · Fidelis EUR 10 ani (emisiunea din noiembrie 2026): 6,30% pe an · titluri de stat · 10 ani · EUR · minim 1000 EUR · subscriere până la 14.11.2026
+  https://economedia.ro/?p=302244
+- Ministerul Finanțelor · Fidelis EUR 5 ani (emisiunea din noiembrie 2026): 5,00% pe an · titluri de stat · 5 ani · EUR · minim 1000 EUR · subscriere până la 14.11.2026
+  https://economedia.ro/?p=302244
+- Ministerul Finanțelor · Fidelis EUR 3 ani (emisiunea din noiembrie 2026): 3,90% pe an · titluri de stat · 3 ani · EUR · minim 1000 EUR · subscriere până la 14.11.2026
+  https://economedia.ro/?p=302244
+- TechVentures Bank · Depozit la termen EUR 12 luni: 2,65% pe an · depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- Revolut · Instant Access Savings EUR (plan Plus): 2,50% pe an · cont de economii · la vedere · EUR
+  https://www.revolut.com/ro-RO/legal/pre-contractual-information-instant-access-savings-account/
+- Trade Republic · Interest on cash EUR: 2,50% pe an · cont de economii · la vedere · EUR
+  https://www.traderepublic.com/en-de/interest
+- TechVentures Bank · Depozit la termen EUR 6 luni: 2,30% pe an · depozit la termen · 6 luni · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- Patria Bank · Depozit la termen EUR 12 luni: 2,20% pe an · depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- Intesa Sanpaolo · Depozit la termen EUR 12 luni: 2,15% pe an · depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- ProCredit Bank · Depozit la termen EUR 12 luni: 2,10% pe an · depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+
+ȘTIRI CARE AU CONTAT
+- Euro steadies below 1.1150 as traders brace for Fed rate decision (Mitrade, 28.10.2026)
+  Decizia Fed din 28 octombrie a influențat direct cursul euro/dolar și, indirect, dolar/leu.
+  https://www.mitrade.com/insights/news/live-news/article-1-2201527-20261028
+- European Deposit Facility Rate 2.50% vs. Exp. 2.5% (Prev. 2.25%) (Newsquawk)
+  BCE a păstrat dobânda de depozit la 2,50%, semnal relevant pentru randamentul cash-ului în euro (XEON, €STR).
+  https://www.newsquawk.com/headlines/european-deposit-facility-rate-250-vs-exp-25-prev-225
+- Ministerul Finanţelor vine cu o nouă emisiune Fidelis la BVB (Bursa.ro)
+  Confirmă apariția unei noi emisiuni Fidelis, alternativă la depozitele bancare pentru cei cu economii în euro sau lei.
+  https://www.bursa.ro/ministerul-finantelor-vine-cu-o-noua-emisiune-fidelis-la-bvb-22345341
+- Presiunile pe leu ne-au costat în septembrie 4,8 mld € din rezervele BNR (CursdeGuvernare.ro, 01.10.2026)
+  Arată costul susținerii leului de către BNR, context pentru stabilitatea recentă a cursului euro/leu.
+  https://cursdeguvernare.ro/presiunile-pe-leu-ne-au-costat-in-septembrie-48-mld-e-din-rezervele-bnr.html
+- S&P 500, Nasdaq advance as oil eases ahead of Fed decision (Kitco, 27.10.2026)
+  Sezonul de rezultate trimestriale solid din SUA susține indicii pe care SXR8 și SXRV îi urmăresc în euro.
+  https://www.kitco.com/news/off-the-wire/2026-10-27/sp-500-nasdaq-advance-oil-eases-ahead-fed-decision
+- EURUSD remains under pressure ahead of central banks' interest rate decisions (RoboForex, 28.10.2026)
+  Problemele bugetare din Franța sunt menționate ca factor de presiune asupra euro, relevant pentru cine ține economii în euro.
+  https://roboforex.com/beginners/analytics/forex-forecast/currencies/eur-usd-forecast-2026-10-28/
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests

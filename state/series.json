@@ -1,7 +1,6 @@
 {
  "points": {
   "DFR": {
-   "2025-09-24": 2.0,
    "2025-09-25": 2.0,
    "2025-09-26": 2.0,
    "2025-09-27": 2.0,
@@ -406,7 +405,6 @@
    "2026-10-31": 2.5
   },
   "ESTR": {
-   "2025-09-24": 1.928,
    "2025-09-25": 1.927,
    "2025-09-26": 1.926,
    "2025-09-29": 1.926,
@@ -977,7 +975,6 @@
    "2026-10-30": 1.1172
   },
   "SXR8": {
-   "2025-09-24": 603.36,
    "2025-09-25": 601.22,
    "2025-09-26": 608.25,
    "2025-09-29": 607.2,
@@ -1265,7 +1262,6 @@
    "2026-10-30": 734.56
   },
   "SXRV": {
-   "2025-09-24": 1194.67,
    "2025-09-25": 1191.2,
    "2025-09-26": 1203.27,
    "2025-09-30": 1204.8,
@@ -1763,7 +1759,6 @@
    "2026-10-30": 4.7698
   },
   "VWCE": {
-   "2025-09-24": 138.86,
    "2025-09-25": 138.26,
    "2025-09-26": 139.52,
    "2025-09-29": 139.5,
@@ -2052,7 +2047,6 @@
    "2026-10-30": 168.85
   },
   "XEON": {
-   "2025-09-24": 147.27,
    "2025-09-25": 147.28,
    "2025-09-26": 147.29,
    "2025-09-29": 147.31,
@@ -2326,52 +2320,52 @@
    "failures": 0,
    "last_alert": null,
    "last_error": null,
-   "last_success": "2026-10-31"
+   "last_success": "2026-11-01"
   },
   "ecb-dfr": {
    "failures": 0,
    "last_alert": null,
    "last_error": null,
-   "last_success": "2026-10-31"
+   "last_success": "2026-11-01"
   },
   "ecb-estr": {
    "failures": 0,
    "last_alert": null,
    "last_error": null,
-   "last_success": "2026-10-31"
+   "last_success": "2026-11-01"
   },
   "ecb-fx": {
    "failures": 0,
    "last_alert": null,
    "last_error": null,
-   "last_success": "2026-10-31"
+   "last_success": "2026-11-01"
   },
   "etf:SXR8": {
    "failures": 0,
    "last_alert": null,
    "last_error": null,
-   "last_success": "2026-10-31",
+   "last_success": "2026-11-01",
    "via": "justetf"
   },
   "etf:SXRV": {
    "failures": 0,
    "last_alert": null,
    "last_error": null,
-   "last_success": "2026-10-31",
+   "last_success": "2026-11-01",
    "via": "justetf"
   },
   "etf:VWCE": {
    "failures": 0,
    "last_alert": null,
    "last_error": null,
-   "last_success": "2026-10-31",
+   "last_success": "2026-11-01",
    "via": "justetf"
   },
   "etf:XEON": {
    "failures": 0,
    "last_alert": null,
    "last_error": null,
-   "last_success": "2026-10-31",
+   "last_success": "2026-11-01",
    "via": "justetf"
   }
  }
