@@ -1,0 +1,55 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Marți, 3 noiembrie 2026
+1 ofertă nouă · 1 dobândă schimbată
+
+PE SCURT
+- Ediția Fidelis din noiembrie (6-13 nov.) păstrează dobânzile din octombrie: euro la 3 ani 4,50%, la 10 ani 6,60%, potrivit wall-street.ro.
+- BCE se reunește pe 17 decembrie; piețele sunt împărțite între o nouă pauză și o posibilă majorare, nu o reducere - dobânzile la EUR ar putea rămâne stabile pe termen scurt.
+- Banca Transilvania a majorat dobânda la depozitul în euro pe 12 luni de la 1,5% la 2,65% și a lansat un depozit nou pe 6 luni la 2,3%, potrivit bursa.ro.
+
+CURS VALUTAR
+- EUR/RON: 5,3403 (02.11) · zi −0,04% · 7 zile −0,12% · 30 zile −0,08%
+- USD/RON: 4,7658 (02.11) · zi −0,08% · 7 zile −0,18% · 30 zile +0,29%
+- EUR/USD: 1,1216 (02.11) · zi +0,39% · 7 zile +0,25% · 30 zile −0,08%
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 735,00 € (02.11) · zi +0,38% · 7 zile −0,74% · 30 zile −0,97%
+  7 zile: S&P 500 în USD −0,49%, efectul cursului EUR/USD −0,25% (aproximativ)
+  30 zile: S&P 500 în USD −1,05%, efectul cursului EUR/USD +0,08% (aproximativ)
+- iShares Nasdaq 100 (SXRV): 1.464,00 € (02.11) · zi +0,29% · 7 zile −2,61% · 30 zile −7,16%
+  7 zile: Nasdaq-100 în USD −2,37%, efectul cursului EUR/USD −0,25% (aproximativ)
+  30 zile: Nasdaq-100 în USD −7,24%, efectul cursului EUR/USD +0,08% (aproximativ)
+- Vanguard FTSE All-World (VWCE): 169,32 € (02.11) · zi +0,38% · 7 zile −0,15% · 30 zile −1,28%
+- Xtrackers EUR Overnight (XEON): 150,6600 € (02.11) · zi +0,01% · 7 zile +0,04% · 30 zile +0,20%
+  Randament anualizat pe ultimele 30 de zile: ~2,37%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (03.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,440% (30.10) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+
+
+OPORTUNITĂȚI NOI SAU SCHIMBATE
+- Banca Transilvania · Depozit la termen EUR 12 luni: 2,65% pe an [dobândă schimbată: 1,50% → 2,65%]
+  depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- Banca Transilvania · Depozit la termen EUR 6 luni: 2,30% pe an [nou]
+  depozit la termen · 6 luni · EUR
+  https://financer.ro/investitii/depozite-bancare/
+
+ȘTIRI CARE AU CONTAT
+- Fidelis noiembrie 2026: statul îngheață dobânzile după majorările din octombrie (wall-street.ro)
+  O nouă tranșă de titluri de stat în euro, cu dobânzi neimpozabile, este disponibilă chiar în această perioadă pentru cei care vor să plaseze sumele în euro.
+  https://www.wall-street.ro/articol/bursa-si-investitii/fidelis-noiembrie-2026-statul-ingheata-dobanzile-dupa-majorarile-din-octombrie
+- Is the ECB Done Cutting Interest Rates? What to Expect in December 2026 (Morningstar)
+  Decizia BCE din 17 decembrie va influența direct dobânzile la depozitele și economiile în euro în lunile următoare.
+  https://global.morningstar.com/en-gb/economy/is-ecb-done-cutting-rates-what-expect-december-2026
+- Banca Transilvania plătește dobânzi mai mari cu până la 0,75 procente la depozitele în euro (bursa.ro)
+  Confirmă majorarea dobânzilor la depozitele în euro, o alternativă pentru cash-ul în euro cât timp cursurile și piețele sunt urmărite.
+  https://www.bursa.ro/banca-transilvania-plateste-dobanzi-mai-mari-cu-pana-la-0-75-procente-la-depozitele-in-euro-6494928
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests

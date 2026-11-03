@@ -1,27 +1,49 @@
 {
  "items": {
   "depozit|bancatransilvania|EUR|12": {
-   "conditions": "Depozit standard, dobândă brută.",
+   "conditions": null,
    "currency": "EUR",
    "first_seen": "2026-10-21",
+   "history": [
+    {
+     "date": "2026-11-03",
+     "new": 2.65,
+     "old": 1.5
+    }
+   ],
    "issuer": "Banca Transilvania",
    "kind": "depozit",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-03",
    "min_amount": null,
    "product": "Depozit la termen EUR 12 luni",
-   "rate_pct": 1.5,
+   "rate_pct": 2.65,
    "source_date": null,
    "term_months": 12,
    "url": "https://financer.ro/investitii/depozite-bancare/",
    "valid_until": null
   },
+  "depozit|bancatransilvania|EUR|6": {
+   "conditions": null,
+   "currency": "EUR",
+   "first_seen": "2026-11-03",
+   "issuer": "Banca Transilvania",
+   "kind": "depozit",
+   "last_seen": "2026-11-03",
+   "min_amount": null,
+   "product": "Depozit la termen EUR 6 luni",
+   "rate_pct": 2.3,
+   "source_date": null,
+   "term_months": 6,
+   "url": "https://financer.ro/investitii/depozite-bancare/",
+   "valid_until": null
+  },
   "depozit|bcr|EUR|12": {
-   "conditions": "Depozit standard, dobândă brută.",
+   "conditions": null,
    "currency": "EUR",
    "first_seen": "2026-10-20",
    "issuer": "BCR",
    "kind": "depozit",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-03",
    "min_amount": null,
    "product": "Depozit la termen EUR 12 luni",
    "rate_pct": 1.5,
@@ -31,12 +53,12 @@
    "valid_until": null
   },
   "depozit|bcr|EUR|6": {
-   "conditions": "Dobândă brută anuală; impozit 10% pe venitul din dobândă.",
+   "conditions": null,
    "currency": "EUR",
    "first_seen": "2026-10-20",
    "issuer": "BCR",
    "kind": "depozit",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-11-03",
    "min_amount": null,
    "product": "Depozit la termen EUR 6 luni",
    "rate_pct": 1.25,
@@ -61,12 +83,12 @@
    "valid_until": null
   },
   "depozit|intesasanpaolobank|EUR|12": {
-   "conditions": null,
+   "conditions": "Dobânda este impozabilă cu 10%, depozitul este garantat de FGDB până la 100.000 EUR.",
    "currency": "EUR",
    "first_seen": "2026-10-17",
    "issuer": "Intesa Sanpaolo Bank",
    "kind": "depozit",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-11-03",
    "min_amount": null,
    "product": "Depozit la termen EUR 12 luni",
    "rate_pct": 1.9,
@@ -91,12 +113,12 @@
    "valid_until": null
   },
   "depozit|intesasanpaolobank|EUR|6": {
-   "conditions": null,
+   "conditions": "Dobânda este impozabilă cu 10%, depozitul este garantat de FGDB până la 100.000 EUR.",
    "currency": "EUR",
    "first_seen": "2026-10-17",
    "issuer": "Intesa Sanpaolo Bank",
    "kind": "depozit",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-11-03",
    "min_amount": null,
    "product": "Depozit la termen EUR 6 luni",
    "rate_pct": 1.65,
@@ -121,7 +143,7 @@
    "valid_until": null
   },
   "depozit|intesasanpaolo|EUR|12": {
-   "conditions": "Depozit standard, dobândă brută.",
+   "conditions": "Dobânda este impozabilă cu 10%, depozitul este garantat de FGDB până la 100.000 EUR.",
    "currency": "EUR",
    "first_seen": "2026-10-25",
    "history": [
@@ -133,7 +155,7 @@
    ],
    "issuer": "Intesa Sanpaolo",
    "kind": "depozit",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-03",
    "min_amount": null,
    "product": "Depozit la termen EUR 12 luni",
    "rate_pct": 2.15,
@@ -158,7 +180,7 @@
    "valid_until": null
   },
   "depozit|intesasanpaolo|EUR|6": {
-   "conditions": "Depozit standard, dobândă brută.",
+   "conditions": null,
    "currency": "EUR",
    "first_seen": "2026-10-25",
    "history": [
@@ -170,7 +192,7 @@
    ],
    "issuer": "Intesa Sanpaolo",
    "kind": "depozit",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-03",
    "min_amount": null,
    "product": "Depozit la termen EUR 6 luni",
    "rate_pct": 1.75,
@@ -180,12 +202,12 @@
    "valid_until": null
   },
   "depozit|librainternetbank|EUR|12": {
-   "conditions": "Depozit standard, dobândă brută.",
+   "conditions": null,
    "currency": "EUR",
    "first_seen": "2026-10-21",
    "issuer": "Libra Internet Bank",
    "kind": "depozit",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-03",
    "min_amount": null,
    "product": "Depozit la termen EUR 12 luni",
    "rate_pct": 2.0,
@@ -195,12 +217,12 @@
    "valid_until": null
   },
   "depozit|librainternetbank|EUR|6": {
-   "conditions": "Dobânda este brută, impozitată cu 10% la sursă.",
+   "conditions": null,
    "currency": "EUR",
    "first_seen": "2026-10-28",
    "issuer": "Libra Internet Bank",
    "kind": "depozit",
-   "last_seen": "2026-10-31",
+   "last_seen": "2026-11-03",
    "min_amount": null,
    "product": "Depozit la termen EUR 6 luni",
    "rate_pct": 1.8,
@@ -210,12 +232,12 @@
    "valid_until": null
   },
   "depozit|patriabank|EUR|12": {
-   "conditions": "Depozit standard, dobândă brută.",
+   "conditions": "Dobânda este impozabilă cu 10%, depozitul este garantat de FGDB până la 100.000 EUR.",
    "currency": "EUR",
    "first_seen": "2026-10-21",
    "issuer": "Patria Bank",
    "kind": "depozit",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-03",
    "min_amount": null,
    "product": "Depozit la termen EUR 12 luni",
    "rate_pct": 2.2,
@@ -225,12 +247,12 @@
    "valid_until": null
   },
   "depozit|patriabank|EUR|6": {
-   "conditions": "Depozit standard, dobândă brută.",
+   "conditions": null,
    "currency": "EUR",
    "first_seen": "2026-10-23",
    "issuer": "Patria Bank",
    "kind": "depozit",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-03",
    "min_amount": null,
    "product": "Depozit la termen EUR 6 luni",
    "rate_pct": 1.8,
@@ -240,12 +262,12 @@
    "valid_until": null
   },
   "depozit|procreditbank|EUR|12": {
-   "conditions": "Depozit standard, dobândă brută.",
+   "conditions": null,
    "currency": "EUR",
    "first_seen": "2026-10-21",
    "issuer": "ProCredit Bank",
    "kind": "depozit",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-03",
    "min_amount": null,
    "product": "Depozit la termen EUR 12 luni",
    "rate_pct": 2.1,
@@ -255,12 +277,12 @@
    "valid_until": null
   },
   "depozit|procreditbank|EUR|6": {
-   "conditions": "Dobânda este brută, impozitată cu 10% la sursă.",
+   "conditions": null,
    "currency": "EUR",
    "first_seen": "2026-10-28",
    "issuer": "ProCredit Bank",
    "kind": "depozit",
-   "last_seen": "2026-10-31",
+   "last_seen": "2026-11-03",
    "min_amount": null,
    "product": "Depozit la termen EUR 6 luni",
    "rate_pct": 1.8,
@@ -270,12 +292,12 @@
    "valid_until": null
   },
   "depozit|saltbank|EUR|12": {
-   "conditions": "Dobândă brută anuală; impozit 10% pe venitul din dobândă.",
+   "conditions": null,
    "currency": "EUR",
    "first_seen": "2026-10-20",
    "issuer": "Salt Bank",
    "kind": "depozit",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-11-03",
    "min_amount": null,
    "product": "Depozit la termen EUR 12 luni",
    "rate_pct": 1.4,
@@ -345,12 +367,12 @@
    "valid_until": null
   },
   "depozit|unicreditbank|EUR|12": {
-   "conditions": "Depozit standard, dobândă brută.",
+   "conditions": null,
    "currency": "EUR",
    "first_seen": "2026-10-20",
    "issuer": "UniCredit Bank",
    "kind": "depozit",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-03",
    "min_amount": null,
    "product": "Depozit la termen EUR 12 luni",
    "rate_pct": 2.1,
@@ -360,12 +382,12 @@
    "valid_until": null
   },
   "depozit|unicreditbank|EUR|6": {
-   "conditions": "Depozit standard, dobândă brută.",
+   "conditions": null,
    "currency": "EUR",
    "first_seen": "2026-10-20",
    "issuer": "UniCredit Bank",
    "kind": "depozit",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-03",
    "min_amount": null,
    "product": "Depozit la termen EUR 6 luni",
    "rate_pct": 2.0,
@@ -375,12 +397,12 @@
    "valid_until": null
   },
   "economii|revolut|EUR|0": {
-   "conditions": "Necesită planul Plus sau superior; rată variabilă, poate exista plafon pe sumă.",
+   "conditions": "Necesită un plan Revolut cu dobândă (ex. Plus), dobânda se calculează zilnic și se plătește lunar.",
    "currency": "EUR",
    "first_seen": "2026-10-22",
    "issuer": "Revolut",
    "kind": "economii",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-03",
    "min_amount": null,
    "product": "Instant Access Savings EUR (plan Plus)",
    "rate_pct": 2.5,
@@ -390,12 +412,12 @@
    "valid_until": null
   },
   "economii|traderepublic|EUR|0": {
-   "conditions": "Dobândă variabilă pe numerarul EUR necontractat, legată de rata BCE.",
+   "conditions": "Dobândă variabilă pe lichidități neinvestite, plătită lunar, fără sumă minimă.",
    "currency": "EUR",
    "first_seen": "2026-10-27",
    "issuer": "Trade Republic",
    "kind": "economii",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-03",
    "min_amount": null,
    "product": "Interest on cash EUR",
    "rate_pct": 2.5,
