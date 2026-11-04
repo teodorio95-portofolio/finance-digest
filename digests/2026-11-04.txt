@@ -1,0 +1,51 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Miercuri, 4 noiembrie 2026
+1 dobândă schimbată
+
+PE SCURT
+- Euro a scăzut la minim din ultimele trei luni în fața dolarului, după ședința BCE și declarațiile prudente ale lui Powell despre decembrie.
+- Dolarul s-a întărit și față de leu, dar mișcarea vine din dolarul global, nu dintr-o schimbare pe piața locală.
+- Dobânda de depozit a BCE rămâne la 2,5%, fără schimbări pentru randamentul cash-ului în euro (XEON, €STR).
+
+CURS VALUTAR
+- EUR/RON: 5,3416 (03.11) · zi +0,02% · 7 zile −0,13% · 30 zile −0,06%
+- USD/RON: 4,7761 (03.11) · zi +0,22% · 7 zile −0,45% · 30 zile +0,51%
+  De ce: Avansul cursului dolar/leu vine mai ales din întărirea dolarului la nivel global, pe fondul aceleiași combinații — BCE care a păstrat dobânda neschimbată și semnalele Fed că reducerea din decembrie nu este sigură — și nu dintr-o mișcare specifică pieței locale, potrivit Trading Economics.
+    https://tradingeconomics.com/euro-area/currency/news/498610
+- EUR/USD: 1,1179 (03.11) · zi −0,33% · 7 zile +0,26% · 30 zile −0,41%
+  De ce: Euro a scăzut la un minim din ultimele trei luni, în jur de 1,15 dolari, după ce BCE a lăsat dobânzile neschimbate și a păstrat un ton optimist privind creșterea economică, iar președintele Fed, Jerome Powell, a declarat că o nouă reducere de dobândă în decembrie „nu este o concluzie automată”, scrie Trading Economics.
+    https://tradingeconomics.com/euro-area/currency/news/498610
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 730,75 € (03.11) · zi +0,70% · 7 zile −2,23% · 30 zile −1,54%
+  7 zile: S&P 500 în USD −1,98%, efectul cursului EUR/USD −0,26% (aproximativ)
+  30 zile: S&P 500 în USD −1,94%, efectul cursului EUR/USD +0,41% (aproximativ)
+- iShares Nasdaq 100 (SXRV): 1.447,40 € (03.11) · zi +0,95% · 7 zile −5,26% · 30 zile −8,22%
+  7 zile: Nasdaq-100 în USD −5,02%, efectul cursului EUR/USD −0,26% (aproximativ)
+  30 zile: Nasdaq-100 în USD −8,59%, efectul cursului EUR/USD +0,41% (aproximativ)
+- Vanguard FTSE All-World (VWCE): 168,20 € (03.11) · zi +0,36% · 7 zile −1,72% · 30 zile −1,94%
+- Xtrackers EUR Overnight (XEON): 150,6800 € (03.11) · zi +0,01% · 7 zile +0,05% · 30 zile +0,21%
+  Randament anualizat pe ultimele 30 de zile: ~2,45%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (04.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,441% (02.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+
+
+OPORTUNITĂȚI NOI SAU SCHIMBATE
+- Banca Transilvania · Depozit la termen EUR 12 luni: 1,50% pe an [dobândă schimbată: 2,65% → 1,50%]
+  depozit la termen · 1 an · EUR
+  Dobândă impozabilă 10% pentru persoane fizice; depozit garantat FGDB până la 100.000 EUR.
+  https://financer.ro/investitii/depozite-bancare/
+
+ȘTIRI CARE AU CONTAT
+- Euro Falls to Fresh Three-Month Low (Trading Economics, 03.11.2026)
+  Arată de ce s-a întărit dolarul și ce poate însemna pentru cineva care cântărește momentul în care convertește euro.
+  https://tradingeconomics.com/euro-area/currency/news/498610
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
