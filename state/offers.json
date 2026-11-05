@@ -88,12 +88,12 @@
    "valid_until": null
   },
   "depozit|intesasanpaolobank|EUR|12": {
-   "conditions": "Dobânda este impozabilă cu 10%, depozitul este garantat de FGDB până la 100.000 EUR.",
+   "conditions": "Dobândă brută; impozit 10% pe venitul din dobândă.",
    "currency": "EUR",
    "first_seen": "2026-10-17",
    "issuer": "Intesa Sanpaolo Bank",
    "kind": "depozit",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-05",
    "min_amount": null,
    "product": "Depozit la termen EUR 12 luni",
    "rate_pct": 1.9,
@@ -118,12 +118,12 @@
    "valid_until": null
   },
   "depozit|intesasanpaolobank|EUR|6": {
-   "conditions": "Dobânda este impozabilă cu 10%, depozitul este garantat de FGDB până la 100.000 EUR.",
+   "conditions": "Dobândă brută; impozit 10% pe venitul din dobândă.",
    "currency": "EUR",
    "first_seen": "2026-10-17",
    "issuer": "Intesa Sanpaolo Bank",
    "kind": "depozit",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-05",
    "min_amount": null,
    "product": "Depozit la termen EUR 6 luni",
    "rate_pct": 1.65,
@@ -207,12 +207,12 @@
    "valid_until": null
   },
   "depozit|librainternetbank|EUR|12": {
-   "conditions": "Dobândă impozabilă 10% pentru persoane fizice; depozit garantat FGDB până la 100.000 EUR.",
+   "conditions": "Dobândă brută; impozit 10% pe venitul din dobândă.",
    "currency": "EUR",
    "first_seen": "2026-10-21",
    "issuer": "Libra Internet Bank",
    "kind": "depozit",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "min_amount": null,
    "product": "Depozit la termen EUR 12 luni",
    "rate_pct": 2.0,
@@ -222,12 +222,12 @@
    "valid_until": null
   },
   "depozit|librainternetbank|EUR|6": {
-   "conditions": null,
+   "conditions": "Dobândă brută; impozit 10% pe venitul din dobândă.",
    "currency": "EUR",
    "first_seen": "2026-10-28",
    "issuer": "Libra Internet Bank",
    "kind": "depozit",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-05",
    "min_amount": null,
    "product": "Depozit la termen EUR 6 luni",
    "rate_pct": 1.8,
@@ -237,12 +237,12 @@
    "valid_until": null
   },
   "depozit|patriabank|EUR|12": {
-   "conditions": "Dobândă impozabilă 10% pentru persoane fizice; depozit garantat FGDB până la 100.000 EUR.",
+   "conditions": "Dobândă brută; impozit 10% pe venitul din dobândă.",
    "currency": "EUR",
    "first_seen": "2026-10-21",
    "issuer": "Patria Bank",
    "kind": "depozit",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "min_amount": null,
    "product": "Depozit la termen EUR 12 luni",
    "rate_pct": 2.2,
@@ -252,12 +252,12 @@
    "valid_until": null
   },
   "depozit|patriabank|EUR|6": {
-   "conditions": "Dobândă impozabilă 10% pentru persoane fizice; depozit garantat FGDB până la 100.000 EUR.",
+   "conditions": "Dobândă brută; impozit 10% pe venitul din dobândă.",
    "currency": "EUR",
    "first_seen": "2026-10-23",
    "issuer": "Patria Bank",
    "kind": "depozit",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "min_amount": null,
    "product": "Depozit la termen EUR 6 luni",
    "rate_pct": 1.8,
@@ -267,12 +267,12 @@
    "valid_until": null
   },
   "depozit|procreditbank|EUR|12": {
-   "conditions": "Dobândă impozabilă 10% pentru persoane fizice; depozit garantat FGDB până la 100.000 EUR.",
+   "conditions": "Dobândă brută; impozit 10% pe venitul din dobândă.",
    "currency": "EUR",
    "first_seen": "2026-10-21",
    "issuer": "ProCredit Bank",
    "kind": "depozit",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "min_amount": null,
    "product": "Depozit la termen EUR 12 luni",
    "rate_pct": 2.1,
@@ -282,12 +282,12 @@
    "valid_until": null
   },
   "depozit|procreditbank|EUR|6": {
-   "conditions": "Dobândă impozabilă 10% pentru persoane fizice; depozit garantat FGDB până la 100.000 EUR.",
+   "conditions": "Dobândă brută; impozit 10% pe venitul din dobândă.",
    "currency": "EUR",
    "first_seen": "2026-10-28",
    "issuer": "ProCredit Bank",
    "kind": "depozit",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "min_amount": null,
    "product": "Depozit la termen EUR 6 luni",
    "rate_pct": 1.8,
@@ -342,12 +342,12 @@
    "valid_until": null
   },
   "depozit|techventuresbank|EUR|12": {
-   "conditions": "Depozit standard, dobândă brută.",
+   "conditions": "Dobândă brută; impozit 10% pe venitul din dobândă.",
    "currency": "EUR",
    "first_seen": "2026-10-31",
    "issuer": "TechVentures Bank",
    "kind": "depozit",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-05",
    "min_amount": null,
    "product": "Depozit la termen EUR 12 luni",
    "rate_pct": 2.65,
@@ -357,12 +357,12 @@
    "valid_until": null
   },
   "depozit|techventuresbank|EUR|6": {
-   "conditions": "Depozit standard, dobândă brută.",
+   "conditions": "Dobândă brută; impozit 10% pe venitul din dobândă.",
    "currency": "EUR",
    "first_seen": "2026-10-31",
    "issuer": "TechVentures Bank",
    "kind": "depozit",
-   "last_seen": "2026-11-01",
+   "last_seen": "2026-11-05",
    "min_amount": null,
    "product": "Depozit la termen EUR 6 luni",
    "rate_pct": 2.3,
@@ -372,12 +372,12 @@
    "valid_until": null
   },
   "depozit|unicreditbank|EUR|12": {
-   "conditions": "Dobândă impozabilă 10% pentru persoane fizice; depozit garantat FGDB până la 100.000 EUR.",
+   "conditions": "Dobândă brută; impozit 10% pe venitul din dobândă.",
    "currency": "EUR",
    "first_seen": "2026-10-20",
    "issuer": "UniCredit Bank",
    "kind": "depozit",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "min_amount": null,
    "product": "Depozit la termen EUR 12 luni",
    "rate_pct": 2.1,
@@ -387,12 +387,12 @@
    "valid_until": null
   },
   "depozit|unicreditbank|EUR|6": {
-   "conditions": "Dobândă impozabilă 10% pentru persoane fizice; depozit garantat FGDB până la 100.000 EUR.",
+   "conditions": "Dobândă brută; impozit 10% pe venitul din dobândă.",
    "currency": "EUR",
    "first_seen": "2026-10-20",
    "issuer": "UniCredit Bank",
    "kind": "depozit",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "min_amount": null,
    "product": "Depozit la termen EUR 6 luni",
    "rate_pct": 2.0,
@@ -402,12 +402,12 @@
    "valid_until": null
   },
   "economii|revolut|EUR|0": {
-   "conditions": "Necesită abonament Plus sau superior; rată variabilă, fără termen fix.",
+   "conditions": "Necesită plan Plus/Premium/Metal; dobândă variabilă, calculată zilnic.",
    "currency": "EUR",
    "first_seen": "2026-10-22",
    "issuer": "Revolut",
    "kind": "economii",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "min_amount": null,
    "product": "Instant Access Savings EUR (plan Plus)",
    "rate_pct": 2.5,
@@ -417,12 +417,12 @@
    "valid_until": null
   },
   "economii|traderepublic|EUR|0": {
-   "conditions": "Dobândă variabilă, aliniată cu rata BCE; fără plafon de sold, plătită lunar.",
+   "conditions": "Dobândă variabilă la numerarul EUR disponibil în cont.",
    "currency": "EUR",
    "first_seen": "2026-10-27",
    "issuer": "Trade Republic",
    "kind": "economii",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "min_amount": null,
    "product": "Interest on cash EUR",
    "rate_pct": 2.5,
@@ -432,33 +432,47 @@
    "valid_until": null
   },
   "fidelis|EUR|120|2026-11": {
-   "conditions": "Dobândă neimpozabilă; subscriere minimă 1.000 EUR; deschisă persoanelor fizice rezidente și nerezidente.",
+   "conditions": "Dobândă neimpozabilă; emisiune Fidelis listată la BVB, subscriere 6-13 noiembrie 2026.",
    "currency": "EUR",
    "first_seen": "2026-11-01",
+   "history": [
+    {
+     "date": "2026-11-05",
+     "new": 6.6,
+     "old": 6.3
+    }
+   ],
    "issuer": "Ministerul Finanțelor",
    "kind": "titluri_stat",
-   "last_seen": "2026-11-04",
-   "min_amount": "1000 EUR",
+   "last_seen": "2026-11-05",
+   "min_amount": null,
    "product": "Fidelis EUR 10 ani (emisiunea din noiembrie 2026)",
-   "rate_pct": 6.3,
-   "source_date": null,
+   "rate_pct": 6.6,
+   "source_date": "2026-10-30",
    "term_months": 120,
-   "url": "https://economedia.ro/?p=302244",
+   "url": "https://www.wall-street.ro/articol/bursa-si-investitii/fidelis-noiembrie-2026-statul-ingheata-dobanzile-dupa-majorarile-din-octombrie",
    "valid_until": "2026-11-13"
   },
   "fidelis|EUR|36|2026-11": {
-   "conditions": "Dobândă neimpozabilă; subscriere minimă 1.000 EUR; deschisă persoanelor fizice rezidente și nerezidente.",
+   "conditions": "Tranșă dedicată donatorilor de sânge; dobândă neimpozabilă; subscriere 6-13 noiembrie 2026.",
    "currency": "EUR",
    "first_seen": "2026-11-01",
+   "history": [
+    {
+     "date": "2026-11-05",
+     "new": 5.5,
+     "old": 3.9
+    }
+   ],
    "issuer": "Ministerul Finanțelor",
    "kind": "titluri_stat",
-   "last_seen": "2026-11-04",
-   "min_amount": "1000 EUR",
-   "product": "Fidelis EUR 3 ani (emisiunea din noiembrie 2026)",
-   "rate_pct": 3.9,
-   "source_date": null,
+   "last_seen": "2026-11-05",
+   "min_amount": null,
+   "product": "Fidelis EUR 3 ani, tranșă donatori de sânge (emisiunea din noiembrie 2026)",
+   "rate_pct": 5.5,
+   "source_date": "2026-10-30",
    "term_months": 36,
-   "url": "https://economedia.ro/?p=302244",
+   "url": "https://www.wall-street.ro/articol/bursa-si-investitii/fidelis-noiembrie-2026-statul-ingheata-dobanzile-dupa-majorarile-din-octombrie",
    "valid_until": "2026-11-13"
   },
   "fidelis|EUR|60|2026-11": {
@@ -522,14 +536,14 @@
    "valid_until": "2026-11-14"
   },
   "tezaur|RON|12|2026-11": {
-   "conditions": "Venituri neimpozabile; subscriere prin Ghișeul.ro, SPV, unități de Trezorerie sau Poșta Română.",
+   "conditions": "Dobândă neimpozabilă; ultima zi de subscriere este 6 noiembrie la unitățile Trezoreriei (alte canale se închid mai devreme).",
    "currency": "RON",
    "first_seen": "2026-10-17",
    "issuer": "Ministerul Finanțelor",
    "kind": "titluri_stat",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "min_amount": null,
-   "product": "Tezaur RON 1 an (emisiunea din octombrie 2026)",
+   "product": "Tezaur RON 1 an (emisiunea octombrie-noiembrie 2026)",
    "rate_pct": 6.5,
    "source_date": "2026-10-01",
    "term_months": 12,
@@ -552,14 +566,14 @@
    "valid_until": null
   },
   "tezaur|RON|36|2026-11": {
-   "conditions": "Venituri neimpozabile; subscriere prin Ghișeul.ro, SPV, unități de Trezorerie sau Poșta Română.",
+   "conditions": "Dobândă neimpozabilă; ultima zi de subscriere este 6 noiembrie la unitățile Trezoreriei (alte canale se închid mai devreme).",
    "currency": "RON",
    "first_seen": "2026-10-17",
    "issuer": "Ministerul Finanțelor",
    "kind": "titluri_stat",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "min_amount": null,
-   "product": "Tezaur RON 3 ani (emisiunea din octombrie 2026)",
+   "product": "Tezaur RON 3 ani (emisiunea octombrie-noiembrie 2026)",
    "rate_pct": 7.0,
    "source_date": "2026-10-01",
    "term_months": 36,
@@ -582,14 +596,14 @@
    "valid_until": null
   },
   "tezaur|RON|60|2026-11": {
-   "conditions": "Venituri neimpozabile; subscriere prin Ghișeul.ro, SPV, unități de Trezorerie sau Poșta Română.",
+   "conditions": "Dobândă neimpozabilă; ultima zi de subscriere este 6 noiembrie la unitățile Trezoreriei (alte canale se închid mai devreme).",
    "currency": "RON",
    "first_seen": "2026-10-17",
    "issuer": "Ministerul Finanțelor",
    "kind": "titluri_stat",
-   "last_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
    "min_amount": null,
-   "product": "Tezaur RON 5 ani (emisiunea din octombrie 2026)",
+   "product": "Tezaur RON 5 ani (emisiunea octombrie-noiembrie 2026)",
    "rate_pct": 7.5,
    "source_date": "2026-10-01",
    "term_months": 60,

@@ -1,0 +1,70 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Joi, 5 noiembrie 2026
+2 dobânzi schimbate · 3 mișcări notabile
+
+PE SCURT
+- Dolarul s-a depreciat global pe 4 noiembrie, pe fondul unor date mai slabe de pe piața muncii din SUA care alimentează speranțe de reducere a dobânzii Fed; leul s-a întărit ușor față de dolar.
+- Euro/leu a rămas practic stabil, fără un motiv punctual semnalat de surse pentru ziua curentă.
+- A început o nouă emisiune Fidelis în euro, cu dobânzi mai mari decât ediția anterioară, și BCE este văzută păstrând dobânda de depozit la 2,5% în decembrie.
+
+CURS VALUTAR
+- EUR/RON: 5,3443 (04.11) · zi +0,05% · 7 zile −0,10% · 30 zile +0,26%
+- USD/RON: 4,7518 (04.11) · zi −0,51% · 7 zile −1,19% · 30 zile −0,11%
+  De ce: Dolarul american s-a depreciat la nivel global în jurul datei de 4 noiembrie, pe fondul unor date mai slabe de pe piața muncii din SUA, care au crescut șansele unor noi reduceri de dobândă ale Fed; acest lucru a dus la o întărire a leului față de dolar.
+    https://www.rttnews.com/3593371/dollar-declines-amidst-uncertain-fed-policy-outlook.aspx
+    https://www.barchart.com/story/news/36192186/dollar-slips-on-weak-us-labor-market-news
+- EUR/USD: 1,1267 (04.11) · zi +0,79% · 7 zile +1,20% · 30 zile +0,56%
+  De ce: Euro s-a apreciat față de dolar din același motiv: date mai slabe privind piața muncii americane au crescut probabilitatea unor reduceri de dobândă ale Fed, slăbind moneda americană.
+    https://www.rttnews.com/3593371/dollar-declines-amidst-uncertain-fed-policy-outlook.aspx
+    https://www.barchart.com/story/news/36186780/dollar-slides-on-signs-of-us-labor-market-weakness
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 737,62 € (04.11) · zi +0,94% · 7 zile −1,74% · 30 zile −1,46%
+  7 zile: S&P 500 în USD −0,55%, efectul cursului EUR/USD −1,19% (aproximativ)
+  30 zile: S&P 500 în USD −0,90%, efectul cursului EUR/USD −0,56% (aproximativ)
+- iShares Nasdaq 100 (SXRV): 1.454,20 € (04.11) · zi +0,41% · 7 zile −5,48% · 30 zile −8,75%
+  7 zile: Nasdaq-100 în USD −4,34%, efectul cursului EUR/USD −1,19% (aproximativ)
+  30 zile: Nasdaq-100 în USD −8,24%, efectul cursului EUR/USD −0,56% (aproximativ)
+- Vanguard FTSE All-World (VWCE): 169,72 € (04.11) · zi +1,03% · 7 zile −1,34% · 30 zile −1,91%
+  Mișcare peste prag, fără o cauză cu sursă găsită azi.
+- Xtrackers EUR Overnight (XEON): 150,6900 € (04.11) · zi +0,01% · 7 zile +0,05% · 30 zile +0,20%
+  Randament anualizat pe ultimele 30 de zile: ~2,45%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (05.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,445% (03.11) · zi 0,00 pp · 7 zile +0,01 pp · 30 zile +0,01 pp
+
+
+OPORTUNITĂȚI NOI SAU SCHIMBATE
+- Ministerul Finanțelor · Fidelis EUR 10 ani (emisiunea din noiembrie 2026): 6,60% pe an [dobândă schimbată: 6,30% → 6,60%]
+  titluri de stat · 10 ani · EUR · subscriere până la 13.11.2026
+  Dobândă neimpozabilă; emisiune Fidelis listată la BVB, subscriere 6-13 noiembrie 2026.
+  https://www.wall-street.ro/articol/bursa-si-investitii/fidelis-noiembrie-2026-statul-ingheata-dobanzile-dupa-majorarile-din-octombrie
+- Ministerul Finanțelor · Fidelis EUR 3 ani, tranșă donatori de sânge (emisiunea din noiembrie 2026): 5,50% pe an [dobândă schimbată: 3,90% → 5,50%]
+  titluri de stat · 3 ani · EUR · subscriere până la 13.11.2026
+  Tranșă dedicată donatorilor de sânge; dobândă neimpozabilă; subscriere 6-13 noiembrie 2026.
+  https://www.wall-street.ro/articol/bursa-si-investitii/fidelis-noiembrie-2026-statul-ingheata-dobanzile-dupa-majorarile-din-octombrie
+
+ȘTIRI CARE AU CONTAT
+- Finanţele lansează o nouă emisiune Fidelis la finele acestei săptămâni (bursa.ro)
+  O nouă tranșă Fidelis în euro devine disponibilă, o alternativă pentru cei care țin euro în cont și așteaptă un moment de investiție.
+  https://www.bursa.ro/finantele-lanseaza-o-noua-emisiune-fidelis-la-finele-acestei-saptamani-40192552
+- Ministerul de Finanţe lansează FIDELIS de noiembrie, cu dobânzi neimpozabile de până la 7,95% (economedia.ro)
+  Dobânzile la titlurile de stat pentru populație sunt neimpozabile, un avantaj față de depozitele bancare clasice.
+  https://economedia.ro/?p=302244
+- Is the ECB Done Cutting Interest Rates? (Morningstar)
+  Piețele nu anticipează o nouă reducere a dobânzii BCE la ședința din decembrie, ceea ce ar menține randamentele actuale la cash-ul în euro.
+  https://global.morningstar.com/en-gb/economy/is-ecb-done-cutting-rates-what-expect-december-2026
+- ECB Interest Rate Decision (ForexFundamentals, 17.12.2026)
+  Următoarea decizie BCE este pe 17 decembrie 2026, moment care poate influența dobânda la cash-ul în euro și cursul euro/dolar.
+  https://forexfundamentals.com/economic-calendar/ecb/2026-12-17
+- Dollar declines amidst uncertain Fed policy outlook (RTTNews)
+  Un dolar mai slab susține indirect leul și reduce presiunea asupra cursului euro/leu pe termen scurt.
+  https://www.rttnews.com/3593371/dollar-declines-amidst-uncertain-fed-policy-outlook.aspx
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
