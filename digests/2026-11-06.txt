@@ -1,0 +1,76 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Vineri, 6 noiembrie 2026
+2 oferte noi · 1 dobândă schimbată · 3 mișcări notabile
+
+PE SCURT
+- Bursele americane au scăzut din nou pe 5 noiembrie, pe fondul temerilor privind o bulă a acțiunilor legate de inteligența artificială; SXR8 și SXRV au urmat indicii, nu cursul euro-dolar.
+- A început o nouă ediție Fidelis (6-13 noiembrie), cu dobânzi neimpozabile de până la 6,60% în euro pe 10 ani.
+- BCE pare să fi încheiat ciclul de reduceri de dobândă, piețele luând în calcul chiar creșteri în 2026-2027, ceea ce ar putea susține dobânzile la euro.
+
+CURS VALUTAR
+- EUR/RON: 5,3398 (05.11) · zi −0,08% · 7 zile −0,10% · 30 zile −0,24%
+- USD/RON: 4,7556 (05.11) · zi +0,08% · 7 zile −0,81% · 30 zile −0,13%
+- EUR/USD: 1,1224 (05.11) · zi −0,38% · 7 zile +0,84% · 30 zile −0,40%
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 719,61 € (05.11) · zi −2,29% · 7 zile −3,87% · 30 zile −3,87%
+  7 zile: S&P 500 în USD −3,06%, efectul cursului EUR/USD −0,84% (aproximativ)
+  30 zile: S&P 500 în USD −4,25%, efectul cursului EUR/USD +0,40% (aproximativ)
+  De ce: Scăderea de -2,29% în ziua de 5 noiembrie și de aproape -3,9% pe 7 zile la SXR8 vine din indicele S&P 500 în dolari, nu din cursul euro-dolar: acțiunile tehnologice americane au fost vândute masiv pe fondul temerilor privind o bulă a investițiilor în inteligența artificială, potrivit forex.com. Pe 7 zile cursul euro-dolar a adăugat o scădere minoră, iar pe 30 de zile l-a atenuat puțin pe cel al i…
+    https://www.forex.com/en/news-and-analysis/nasdaq-100-sandp-500-smashed-as-ai-bubble-fears-run-risk-aversion/
+- iShares Nasdaq 100 (SXRV): 1.391,70 € (05.11) · zi −4,03% · 7 zile −8,30% · 30 zile −12,58%
+  7 zile: Nasdaq-100 în USD −7,53%, efectul cursului EUR/USD −0,84% (aproximativ)
+  30 zile: Nasdaq-100 în USD −12,93%, efectul cursului EUR/USD +0,40% (aproximativ)
+  De ce: Scăderea mai accentuată a SXRV (-4,03% în ziua de 5 noiembrie, -8,3% pe 7 zile) reflectă expunerea mare a Nasdaq-100 pe marile companii din tehnologie și AI, cele mai afectate de retragerea investitorilor din acțiuni considerate supraevaluate, potrivit forex.com. Și aici mișcarea vine aproape integral din indicele în dolari, cursul euro-dolar având un rol secundar.
+    https://www.forex.com/en/news-and-analysis/nasdaq-100-sandp-500-smashed-as-ai-bubble-fears-run-risk-aversion/
+- Vanguard FTSE All-World (VWCE): 165,89 € (05.11) · zi −1,82% · 7 zile −3,48% · 30 zile −4,13%
+  De ce: VWCE a scăzut în aceeași corecție globală a acțiunilor: indicii americani, care au ponderea cea mai mare în indicele global, au fost trași în jos de temerile privind o bulă a AI și de un val de concedieri în companiile americane, conform forex.com și oninvest.com.
+    https://www.forex.com/en/news-and-analysis/nasdaq-100-sandp-500-smashed-as-ai-bubble-fears-run-risk-aversion/
+    https://en.oninvest.com/article/us-stocks-fall-amid-growing-worries-over-jobs-and-ai-bubble
+- Xtrackers EUR Overnight (XEON): 150,7100 € (05.11) · zi +0,01% · 7 zile +0,05% · 30 zile +0,21%
+  Randament anualizat pe ultimele 30 de zile: ~2,54%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (06.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,442% (04.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+
+
+OPORTUNITĂȚI NOI SAU SCHIMBATE
+- Exim Banca Românească · Depozit la termen EUR 12 luni: 3,50% pe an [nou]
+  depozit la termen · 1 an · EUR · minim 150 EUR · subscriere până la 31.12.2026
+  Necesită bani noi, fără comision la retragere la scadență, fără reînnoire automată.
+  https://www.economica.net/?p=991475
+- Exim Banca Românească · Depozit Plus EUR 7 luni (clienți noi): 3,10% pe an [nou]
+  depozit la termen · 7 luni · EUR · subscriere până la 27.11.2026
+  Doar pentru clienți noi care deschid contul până la 27 noiembrie 2026.
+  https://www.economica.net/?p=991475
+- Banca Transilvania · Depozit la termen EUR 6 luni: 1,20% pe an [dobândă schimbată: 2,30% → 1,20%]
+  depozit la termen · 6 luni · EUR
+  https://financer.ro/investitii/depozite-bancare/
+
+ȘTIRI CARE AU CONTAT
+- FIDELIS noiembrie 2026: Ce dobânzi neimpozabile sunt în lei și euro și până când pot fi cumpărate titlurile de stat (alba24.ro)
+  Statul oferă în perioada 6-13 noiembrie titluri Fidelis în euro cu dobânzi de până la 6,60% pe 10 ani, o alternativă la cash pentru sumele în euro puse deoparte.
+  https://alba24.ro/fidelis-noiembrie-2026-ce-dobanzi-neimpozabile-sunt-in-lei-si-euro-si-pana-cand-pot-fi-cumparate-titlurile-de-stat-1165311.html
+- Fidelis noiembrie 2026: statul îngheață dobânzile după majorările din octombrie (wall-street.ro)
+  Dobânzile Fidelis rămân la nivelul din octombrie, fără urcări noi, semn că statul nu mai are presiune imediată să le crească pentru a atrage bani.
+  https://www.wall-street.ro/articol/bursa-si-investitii/fidelis-noiembrie-2026-statul-ingheata-dobanzile-dupa-majorarile-din-octombrie
+- Is the ECB Done Cutting Interest Rates? (Morningstar)
+  Analiștii consideră tot mai probabil ca BCE să nu mai reducă dobânda de politică monetară, ceea ce ar putea menține mai mult timp randamentele atractive la depozitele și titlurile în euro.
+  https://global.morningstar.com/en-gb/economy/is-ecb-done-cutting-rates-what-expect-december-2026
+- Traders Now See ECB Hiking Rates in 2026 as Hawkish Bets Grow (Bloomberg)
+  Piețele au început să ia în calcul chiar o creștere a dobânzii BCE, nu doar o pauză, ceea ce ar favoriza în continuare randamentele pentru cei care economisesc în euro.
+  https://www.bloomberg.com/news/articles/2025-12-10/traders-now-see-ecb-hiking-rates-in-2026-as-hawkish-bets-grow
+- Nasdaq 100, S&P 500 Smashed as AI Bubble Fears Run Risk Aversion (Forex.com)
+  Corecția acțiunilor legate de inteligența artificială arată de ce ETF-urile globale (SXR8, SXRV, VWCE) au scăzut, independent de cursul euro-dolar.
+  https://www.forex.com/en/news-and-analysis/nasdaq-100-sandp-500-smashed-as-ai-bubble-fears-run-risk-aversion/
+- US stocks fall amid growing worries over jobs and AI bubble (oninvest.com)
+  Pe lângă temerile legate de AI, un val mare de concedieri în SUA alimentează incertitudinea, relevant pentru oricine cântărește momentul unei investiții în acțiuni globale.
+  https://en.oninvest.com/article/us-stocks-fall-amid-growing-worries-over-jobs-and-ai-bubble
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
