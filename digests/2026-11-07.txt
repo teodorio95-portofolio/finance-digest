@@ -1,0 +1,41 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Sâmbătă, 7 noiembrie 2026
+2 mișcări notabile
+
+PE SCURT
+- EUR/RON 5,3408 lei (+0,02% față de cotația precedentă).
+- ETF-uri în EUR: S&P 500 −0,12%, Nasdaq +0,57% față de cotația precedentă.
+- Azi: 2 mișcări notabile.
+
+CURS VALUTAR
+- EUR/RON: 5,3408 (06.11) · zi +0,02% · 7 zile −0,03% · 30 zile −0,17%
+- USD/RON: 4,7795 (06.11) · zi +0,50% · 7 zile +0,20% · 30 zile −0,01%
+  Mișcare peste prag, fără o cauză cu sursă găsită azi.
+- EUR/USD: 1,1165 (06.11) · zi −0,53% · 7 zile −0,06% · 30 zile −0,11%
+  Mișcare peste prag, fără o cauză cu sursă găsită azi.
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 718,72 € (06.11) · zi −0,12% · 7 zile −1,85% · 30 zile −4,56%
+  7 zile: S&P 500 în USD −1,91%, efectul cursului EUR/USD +0,06% (aproximativ)
+  30 zile: S&P 500 în USD −4,67%, efectul cursului EUR/USD +0,11% (aproximativ)
+- iShares Nasdaq 100 (SXRV): 1.399,70 € (06.11) · zi +0,57% · 7 zile −4,12% · 30 zile −12,62%
+  7 zile: Nasdaq-100 în USD −4,18%, efectul cursului EUR/USD +0,06% (aproximativ)
+  30 zile: Nasdaq-100 în USD −12,71%, efectul cursului EUR/USD +0,11% (aproximativ)
+- Vanguard FTSE All-World (VWCE): 165,74 € (06.11) · zi −0,09% · 7 zile −1,74% · 30 zile −4,43%
+- Xtrackers EUR Overnight (XEON): 150,7000 € (06.11) · zi −0,01% · 7 zile +0,04% · 30 zile +0,19%
+  Randament anualizat pe ultimele 30 de zile: ~2,37%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (07.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,442% (05.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+
+
+OPORTUNITĂȚI: căutarea a eșuat azi (no JSON object in Claude's output)
+
+--
+Explicațiile automate au lipsit azi; cifrele sunt complete.
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
