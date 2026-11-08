@@ -1,0 +1,99 @@
+BANI ÎN EURO · rezumatul săptămânii
+Duminică, 8 noiembrie 2026
+2 oferte noi · 2 dobânzi schimbate · 1 mișcare notabilă
+
+PE SCURT
+- Nasdaq-100 (SXRV) a intrat în corecție în această săptămână, pe vânzări masive la acțiuni tech/AI și cipuri, nu din cauza cursului euro-dolar.
+- Fidelis de noiembrie păstrează dobânzile ridicate din octombrie: până la 7,75% în lei pe 10 ani și 6,60% în euro.
+- BCE ține dobânda de depozit la 2,5%; piețele nu văd o reducere clară la ședința din 17 decembrie.
+
+CURS VALUTAR
+- EUR/RON: 5,3408 (06.11) · zi +0,02% · 7 zile −0,03% · 30 zile −0,17% · 90 zile +1,62%
+- USD/RON: 4,7795 (06.11) · zi +0,50% · 7 zile +0,20% · 30 zile −0,01% · 90 zile +4,85%
+- EUR/USD: 1,1165 (06.11) · zi −0,53% · 7 zile −0,06% · 30 zile −0,11% · 90 zile −3,21%
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 718,72 € (06.11) · zi −0,12% · 7 zile −1,85% · 30 zile −4,56% · 90 zile −0,77%
+  7 zile: S&P 500 în USD −1,91%, efectul cursului EUR/USD +0,06% (aproximativ)
+  30 zile: S&P 500 în USD −4,67%, efectul cursului EUR/USD +0,11% (aproximativ)
+- iShares Nasdaq 100 (SXRV): 1.399,70 € (06.11) · zi +0,57% · 7 zile −4,12% · 30 zile −12,62% · 90 zile −5,40%
+  7 zile: Nasdaq-100 în USD −4,18%, efectul cursului EUR/USD +0,06% (aproximativ)
+  30 zile: Nasdaq-100 în USD −12,71%, efectul cursului EUR/USD +0,11% (aproximativ)
+  De ce: Scăderea de 4,1% a SXRV în euro vine aproape integral din indicele Nasdaq-100 în dolari (-4,2%), nu din curs: acțiunile din tehnologie și cipuri (AMD, Micron, Intel, Microsoft) au fost vândute masiv, iar Nasdaq-100 a intrat oficial în corecție, cu scăderea adâncindu-se după raportul american de joburi din 6 noiembrie. Efectul de curs euro-dolar a fost neglijabil și ușor pozitiv.
+    https://247wallst.com/investing/2026/11/03/the-nasdaq-100-is-now-officially-in-a-correction/
+    https://www.fxempire.com/forecasts/article/nasdaq-100-tech-sector-drops-as-amd-micron-and-microsoft-pressure-us-indices-1561929
+- Vanguard FTSE All-World (VWCE): 165,74 € (06.11) · zi −0,09% · 7 zile −1,74% · 30 zile −4,43% · 90 zile −1,53%
+- Xtrackers EUR Overnight (XEON): 150,7000 € (06.11) · zi −0,01% · 7 zile +0,04% · 30 zile +0,19% · 90 zile +0,58%
+  Randament anualizat pe ultimele 30 de zile: ~2,37%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (08.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp · 90 zile +0,25 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,442% (05.11) · zi – · 7 zile 0,00 pp · 30 zile +0,01 pp · 90 zile +0,26 pp
+
+
+OPORTUNITĂȚI NOI SAU SCHIMBATE
+- Vista Bank · Depozit la termen EUR 12 luni: 2,00% pe an [nou]
+  depozit la termen · 1 an · EUR
+  Bonus de 0,2 puncte procentuale pentru constituire prin Internet/Mobile Banking; fără comision de retragere la scadență.
+  https://vistabank.ro/en/individuals/deposits
+- Ministerul Finanțelor · Fidelis RON 10 ani (emisiunea din noiembrie 2026): 7,75% pe an [nou]
+  titluri de stat · 10 ani · RON · minim 5.000 RON · subscriere până la 13.11.2026
+  Venit neimpozabil; subscriere 6-13 noiembrie 2026.
+  https://www.wall-street.ro/articol/bursa-si-investitii/fidelis-noiembrie-2026-statul-ingheata-dobanzile-dupa-majorarile-din-octombrie
+- Ministerul Finanțelor · Fidelis RON 2 ani, tranșă donatori de sânge (emisiunea din noiembrie 2026): 7,60% pe an [dobândă schimbată: 6,95% → 7,60%]
+  titluri de stat · 2 ani · RON · minim 500 RON · subscriere până la 13.11.2026
+  Rezervat donatorilor de sânge din 1 iunie 2026; venit neimpozabil.
+  https://www.wall-street.ro/articol/bursa-si-investitii/fidelis-noiembrie-2026-statul-ingheata-dobanzile-dupa-majorarile-din-octombrie
+- Ministerul Finanțelor · Fidelis RON 4 ani (emisiunea din noiembrie 2026): 7,15% pe an [dobândă schimbată: 7,35% → 7,15%]
+  titluri de stat · 4 ani · RON · minim 5.000 RON · subscriere până la 13.11.2026
+  Venit neimpozabil; subscriere 6-13 noiembrie 2026.
+  https://www.wall-street.ro/articol/bursa-si-investitii/fidelis-noiembrie-2026-statul-ingheata-dobanzile-dupa-majorarile-din-octombrie
+
+CELE MAI BUNE OFERTE ACTIVE (EUR ÎNTÂI)
+- Ministerul Finanțelor · Fidelis EUR 10 ani (emisiunea din noiembrie 2026): 6,60% pe an · titluri de stat · 10 ani · EUR · minim 1.000 EUR · subscriere până la 13.11.2026
+  https://www.wall-street.ro/articol/bursa-si-investitii/fidelis-noiembrie-2026-statul-ingheata-dobanzile-dupa-majorarile-din-octombrie
+- Ministerul Finanțelor · Fidelis EUR 3 ani, tranșă donatori de sânge (emisiunea din noiembrie 2026): 5,50% pe an · titluri de stat · 3 ani · EUR · minim 100 EUR · subscriere până la 13.11.2026
+  https://www.wall-street.ro/articol/bursa-si-investitii/fidelis-noiembrie-2026-statul-ingheata-dobanzile-dupa-majorarile-din-octombrie
+- Ministerul Finanțelor · Fidelis EUR 5 ani (emisiunea din noiembrie 2026): 5,00% pe an · titluri de stat · 5 ani · EUR · minim 1.000 EUR · subscriere până la 14.11.2026
+  https://economedia.ro/?p=302244
+- Exim Banca Românească · Depozit la termen EUR 12 luni: 3,50% pe an · depozit la termen · 1 an · EUR
+  https://www.economica.net/?p=991475
+- Exim Banca Românească · Depozit Plus EUR 7 luni (clienți noi): 3,10% pe an · depozit la termen · 7 luni · EUR · subscriere până la 27.11.2026
+  https://www.economica.net/?p=991475
+- TechVentures Bank · Depozit la termen EUR 12 luni: 2,65% pe an · depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- Revolut · Instant Access Savings EUR (plan Plus): 2,50% pe an · cont de economii · la vedere · EUR
+  https://www.revolut.com/ro-RO/legal/pre-contractual-information-instant-access-savings-account/
+- Trade Republic · Interest on cash EUR: 2,50% pe an · cont de economii · la vedere · EUR
+  https://www.traderepublic.com/en-de/interest
+- TechVentures Bank · Depozit la termen EUR 6 luni: 2,30% pe an · depozit la termen · 6 luni · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- Patria Bank · Depozit la termen EUR 12 luni: 2,20% pe an · depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+
+ȘTIRI CARE AU CONTAT
+- The Nasdaq 100 Is Now Officially in a Correction (247wallst.com, 03.11.2026)
+  Confirmă contextul scăderii SXRV: Nasdaq-100 a intrat în corecție, relevant pentru cine ține bani în euro și urmărește ETF-urile globale.
+  https://247wallst.com/investing/2026/11/03/the-nasdaq-100-is-now-officially-in-a-correction/
+- Nasdaq 100 tech sector drops as AMD, Micron and Microsoft pressure US indices (FXEmpire)
+  Arată care acțiuni tech au tras indicele în jos, utile pentru a înțelege volatilitatea unui viitor plasament în Nasdaq-100.
+  https://www.fxempire.com/forecasts/article/nasdaq-100-tech-sector-drops-as-amd-micron-and-microsoft-pressure-us-indices-1561929
+- Fidelis noiembrie 2026: statul îngheață dobânzile după majorările din octombrie (Wall-Street.ro)
+  Confirmă dobânzile din noua emisiune Fidelis din tabelul de oferte, utile pentru cine vrea să parcheze lei sau euro în titluri de stat.
+  https://www.wall-street.ro/articol/bursa-si-investitii/fidelis-noiembrie-2026-statul-ingheata-dobanzile-dupa-majorarile-din-octombrie
+- Titluri de stat FIDELIS în noiembrie 2026: Dobânzi de până la 7,75%. Când încep înscrierile și ce sume poți investi (Alba24.ro)
+  Detaliază și tranșele în euro ale Fidelis (până la 6,60% pe 10 ani), opțiune pentru cine nu vrea să schimbe euro în lei.
+  https://alba24.ro/titluri-de-stat-fidelis-in-noiembrie-2026-dobanzi-de-pana-la-775-cand-incep-inscrierile-si-ce-sume-poti-investi-1165547.html
+- Is the ECB Done Cutting Interest Rates? What to Expect in December 2026 (Morningstar)
+  Arată că BCE e probabil să lase dobânda neschimbată pe 17 decembrie, relevant pentru randamentul depozitelor și XEON în euro.
+  https://global.morningstar.com/en-gb/economy/is-ecb-done-cutting-rates-what-expect-december-2026
+- EUR/USD climbs as Fed rate cut expectations pressure US Dollar (FXStreet)
+  Context general privind așteptările de reducere a dobânzii Fed, factor care influențează pe termen mediu cursul euro-dolar.
+  https://www.fxstreet.com/amp/news/eur-usd-climbs-as-fed-rate-cut-expectations-pressure-us-dollar-202512101848
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
