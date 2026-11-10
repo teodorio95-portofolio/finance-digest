@@ -95,9 +95,12 @@ jobs:
           # The CLI prints its own errors (expired token, usage limit, ...) on stdout,
           # which is captured; echo the file when the CLI returns, then keep its exit code.
           status=0
+          # --output-format text keeps only the last message: a subagent call late in the
+          # run makes Claude end on a remark about it instead of the JSON, so Task/Agent
+          # stay disallowed on top of the write tools.
           claude -p "$(cat "$RUNNER_TEMP/discover.md")" \
             --allowedTools "WebSearch,WebFetch" \
-            --disallowedTools "Bash,Edit,Write,NotebookEdit" \
+            --disallowedTools "Bash,Edit,Write,NotebookEdit,Task,Agent" \
             --max-turns 18 --output-format text > "$RUNNER_TEMP/discover.txt" || status=$?
           tail -c 3000 "$RUNNER_TEMP/discover.txt"
           [ -s "$RUNNER_TEMP/discover.txt" ] || echo "::warning::claude wrote nothing (exit $status)"
@@ -129,7 +132,7 @@ jobs:
           status=0
           claude -p "$(cat "$RUNNER_TEMP/explain.md")" \
             --allowedTools "WebSearch,WebFetch" \
-            --disallowedTools "Bash,Edit,Write,NotebookEdit" \
+            --disallowedTools "Bash,Edit,Write,NotebookEdit,Task,Agent" \
             --max-turns 15 --output-format text > "$RUNNER_TEMP/why.json" || status=$?
           tail -c 3000 "$RUNNER_TEMP/why.json"
           [ -s "$RUNNER_TEMP/why.json" ] || echo "::warning::claude wrote nothing (exit $status)"
