@@ -1,0 +1,52 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Marți, 10 noiembrie 2026
+3 mișcări notabile
+
+PE SCURT
+- ETF-urile globale (SXR8, SXRV, VWCE) au urcat puternic pe 9 noiembrie, dar rămân pe minus pe 7 și 30 de zile; nu am găsit o sursă sigură pentru cauza exactă a creșterii zilnice.
+- Emisiunea Fidelis din 6-13 noiembrie oferă dobânzi neimpozabile de până la 6,60% în euro și 7,75% în lei, variantă la îndemână pentru cine așteaptă să investească.
+- BCE a lăsat rata depozitului la 2,50%, fără schimbare, iar piața se așteaptă ca BCE să mai facă o pauză și la ședința din decembrie.
+
+CURS VALUTAR
+- EUR/RON: 5,3426 (09.11) · zi +0,03% · 7 zile +0,04% · 30 zile +0,02%
+- USD/RON: 4,7734 (09.11) · zi −0,13% · 7 zile +0,16% · 30 zile +0,26%
+- EUR/USD: 1,1193 (09.11) · zi +0,25% · 7 zile −0,21% · 30 zile −0,12%
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 724,63 € (09.11) · zi +1,61% · 7 zile −0,14% · 30 zile −3,66%
+  7 zile: S&P 500 în USD −0,35%, efectul cursului EUR/USD +0,21% (aproximativ)
+  30 zile: S&P 500 în USD −3,77%, efectul cursului EUR/USD +0,12% (aproximativ)
+  Mișcare peste prag, fără o cauză cu sursă găsită azi.
+- iShares Nasdaq 100 (SXRV): 1.423,40 € (09.11) · zi +2,48% · 7 zile −0,72% · 30 zile −10,11%
+  7 zile: Nasdaq-100 în USD −0,93%, efectul cursului EUR/USD +0,21% (aproximativ)
+  30 zile: Nasdaq-100 în USD −10,21%, efectul cursului EUR/USD +0,12% (aproximativ)
+  Mișcare peste prag, fără o cauză cu sursă găsită azi.
+- Vanguard FTSE All-World (VWCE): 167,40 € (09.11) · zi +1,87% · 7 zile −0,12% · 30 zile −3,19%
+  Mișcare peste prag, fără o cauză cu sursă găsită azi.
+- Xtrackers EUR Overnight (XEON): 150,7200 € (09.11) · zi +0,01% · 7 zile +0,03% · 30 zile +0,19%
+  Randament anualizat pe ultimele 30 de zile: ~2,29%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (10.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,443% (06.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile +0,01 pp
+
+
+OPORTUNITĂȚI: căutarea a eșuat azi (no JSON object in Claude's output)
+
+ȘTIRI CARE AU CONTAT
+- FIDELIS noiembrie 2026: Titluri de stat cu dobânzi de până la 7,75% în lei și 6,60% în euro, la ultima ediție de toamnă (alba24.ro, 06.11.2026)
+  Oferta Fidelis e deschisă 6-13 noiembrie, cu tranșe în euro neimpozabile, alternativă directă la un depozit în euro.
+  https://alba24.ro/fidelis-noiembrie-2026-titluri-de-stat-cu-dobanzi-de-pana-la-775-in-lei-si-660-in-euro-la-ultima-editie-de-toamna-1166514.html
+- ECB Poised to Hold Rates as Traders Look Ahead to December (Trading Economics)
+  O nouă pauză a BCE în decembrie ar însemna că randamentele în euro (depozite, XEON) rămân apropiate de nivelul actual, fără schimbări bruște.
+  https://tradingeconomics.com/euro-area/interest-rate/news/596136
+- Curs BNR: euro scade, iar dolarul și aurul cresc față de leu (bugetul.ro, 05.11.2026)
+  Confirmă că leul s-a ținut stabil față de euro în săptămâna premergătoare datelor din digest.
+  https://www.bugetul.ro/curs-valutar-bnr-5-noiembrie-2026/
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
