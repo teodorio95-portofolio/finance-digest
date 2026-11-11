@@ -1,0 +1,69 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Miercuri, 11 noiembrie 2026
+3 oferte noi · 1 dobândă schimbată
+
+PE SCURT
+- A început emisiunea Fidelis din 6–13 noiembrie: dobânzile în euro au scăzut față de edițiile anterioare, până la 6,60% pe 7 ani.
+- A apărut o sesiune nouă de Tezaur în lei, cu dobânzi de 6,5–7,5% pe 1–5 ani, mai mari decât cele în euro, dar cu riscul cursului de schimb.
+- BNR avertizează că riscurile asupra cursului leu rămân ridicate, pe fondul deficitelor bugetar și de cont curent.
+
+CURS VALUTAR
+- EUR/RON: 5,3443 (10.11) · zi +0,03% · 7 zile +0,05% · 30 zile +0,05%
+- USD/RON: 4,7617 (10.11) · zi −0,25% · 7 zile −0,30% · 30 zile +0,01%
+- EUR/USD: 1,1214 (10.11) · zi +0,19% · 7 zile +0,31% · 30 zile +0,07%
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 725,97 € (10.11) · zi −0,29% · 7 zile −0,65% · 30 zile −3,48%
+  7 zile: S&P 500 în USD −0,34%, efectul cursului EUR/USD −0,31% (aproximativ)
+  30 zile: S&P 500 în USD −3,41%, efectul cursului EUR/USD −0,07% (aproximativ)
+- iShares Nasdaq 100 (SXRV): 1.425,90 € (10.11) · zi −0,46% · 7 zile −1,55% · 30 zile −9,95%
+  7 zile: Nasdaq-100 în USD −1,24%, efectul cursului EUR/USD −0,31% (aproximativ)
+  30 zile: Nasdaq-100 în USD −9,89%, efectul cursului EUR/USD −0,07% (aproximativ)
+- Vanguard FTSE All-World (VWCE): 167,66 € (10.11) · zi +0,15% · 7 zile −0,20% · 30 zile −3,04%
+- Xtrackers EUR Overnight (XEON): 150,7500 € (10.11) · zi +0,01% · 7 zile +0,05% · 30 zile +0,21%
+  Randament anualizat pe ultimele 30 de zile: ~2,45%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (10.11) · zi – · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,442% (09.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+
+
+OPORTUNITĂȚI NOI SAU SCHIMBATE
+- Ministerul Finanțelor · Fidelis EUR 3 ani (emisiunea din noiembrie 2026): 4,50% pe an [dobândă schimbată: 5,50% → 4,50%]
+  titluri de stat · 3 ani · EUR · minim 1000 EUR · subscriere până la 13.11.2026
+  Venit și câștig de capital neimpozabile, listare la BVB, tranșă standard.
+  https://www.wall-street.ro/articol/bursa-si-investitii/fidelis-noiembrie-2026-statul-ingheata-dobanzile-dupa-majorarile-din-octombrie
+- Ministerul Finanțelor · Tezaur RON 1 an (sesiunea noiembrie-decembrie 2026): 6,50% pe an [nou]
+  titluri de stat · 1 an · RON · subscriere până la 04.12.2026
+  Venit neimpozabil, titluri dematerializate cu valoare nominală de 1 leu.
+  https://startupcafe.ro/titluri-de-stat-tezaur-in-perioada-noiembrie-decembrie-2026-dobanzile-neimpozabile-acordate-romanilor-109851
+- Ministerul Finanțelor · Tezaur RON 3 ani (sesiunea noiembrie-decembrie 2026): 7,00% pe an [nou]
+  titluri de stat · 3 ani · RON · subscriere până la 04.12.2026
+  Venit neimpozabil, titluri dematerializate cu valoare nominală de 1 leu.
+  https://startupcafe.ro/titluri-de-stat-tezaur-in-perioada-noiembrie-decembrie-2026-dobanzile-neimpozabile-acordate-romanilor-109851
+- Ministerul Finanțelor · Tezaur RON 5 ani (sesiunea noiembrie-decembrie 2026): 7,50% pe an [nou]
+  titluri de stat · 5 ani · RON · subscriere până la 04.12.2026
+  Venit neimpozabil, titluri dematerializate cu valoare nominală de 1 leu.
+  https://startupcafe.ro/titluri-de-stat-tezaur-in-perioada-noiembrie-decembrie-2026-dobanzile-neimpozabile-acordate-romanilor-109851
+
+ȘTIRI CARE AU CONTAT
+- FIDELIS noiembrie 2026: Titluri de stat cu dobânzi de până la 7,75% în lei și 6,60% în euro, la ultima ediție de toamnă (alba24.ro)
+  Dobânzile la Fidelis în euro au scăzut față de edițiile precedente, relevant pentru cineva care vrea plasamente sigure în euro.
+  https://alba24.ro/fidelis-noiembrie-2026-titluri-de-stat-cu-dobanzi-de-pana-la-775-in-lei-si-660-in-euro-la-ultima-editie-de-toamna-1166514.html
+- Ministerul Finanțelor derulează în perioada 6–13 noiembrie cea de-a unsprezecea ofertă Fidelis din acest an (bvb.ro, 06.11.2026)
+  Oferta Fidelis, inclusiv tranșe în euro, este deschisă doar până pe 13 noiembrie.
+  https://m.bvb.ro/AboutUs/MediaCenter/PressItem/Ministerul-Finantelor-deruleaza-in-perioada-6-13-noiembrie-cea-de-a-unsprezecea-oferta-pentru-vanzarea-de-titluri-de-stat-Fidelis-din-acest-an/6482
+- BNR atenționează: Riscurile la adresa ratei de schimb a leului rămân ridicate (profit.ro)
+  Presiunile asupra leului rămân ridicate din cauza deficitelor bugetar și de cont curent, context util pentru cineva care ține bani în euro.
+  https://profit.ro/stiri/economie/bnr-atentioneaza-riscurile-la-adresa-ratei-de-schimb-a-leului-raman-ridicate-22459243
+- Nasdaq rebounds as chip stocks rally and Dow slips (investinglive.com)
+  Avansul acțiunilor din sectorul cipurilor a susținut Nasdaq, indicele pe care SXRV îl urmărește în euro.
+  https://investinglive.com/stocks/nasdaq-rebounds-as-chip-stocks-rally-and-dow-slips/
+
+--
+Surse eșuate azi: ecb-dfr.
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
