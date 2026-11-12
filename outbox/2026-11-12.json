@@ -3,7 +3,8 @@
  "stem": "2026-11-12",
  "subject": "Bani în euro 12.11: EUR/RON 5,3460 (+0,03%) · S&P 500 +2,35% · Nasdaq +3,72% · 1 dobândă schimbată",
  "attachments": [],
- "status": "pending",
- "attempts": 0,
- "last_error": null
+ "status": "sent",
+ "attempts": 1,
+ "last_error": null,
+ "sent_at": "2026-11-12T05:37:28+00:00"
 }
