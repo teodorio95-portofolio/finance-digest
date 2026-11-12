@@ -1,0 +1,69 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Joi, 12 noiembrie 2026
+1 dobândă schimbată · 5 mișcări notabile
+
+PE SCURT
+- Acțiunile americane și globale (SXR8, SXRV, VWCE) au urcat puternic, pe revenirea acțiunilor din zona AI (Nvidia, Palantir) după scăderile de săptămâna trecută.
+- Noua emisiune Fidelis RON pe 2 ani oferă 6,6% față de 7,6% la ediția precedentă, deci statul se finanțează mai ieftin pe termen scurt.
+- BCE este văzută ținând dobânzile neschimbate până la finalul lui 2026, deci randamentele cash în euro (XEON, €STR) ar trebui să rămână apropiate de nivelul actual.
+
+CURS VALUTAR
+- EUR/RON: 5,3460 (11.11) · zi +0,03% · 7 zile +0,03% · 30 zile +0,16%
+- USD/RON: 4,7991 (11.11) · zi +0,79% · 7 zile +1,00% · 30 zile +0,58%
+  Mișcare peste prag, fără o cauză cu sursă găsită azi.
+- EUR/USD: 1,1127 (11.11) · zi −0,78% · 7 zile −1,24% · 30 zile −0,48%
+  Mișcare peste prag, fără o cauză cu sursă găsită azi.
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 740,97 € (11.11) · zi +2,35% · 7 zile +0,61% · 30 zile −1,65%
+  7 zile: S&P 500 în USD −0,64%, efectul cursului EUR/USD +1,26% (aproximativ)
+  30 zile: S&P 500 în USD −2,12%, efectul cursului EUR/USD +0,49% (aproximativ)
+  De ce: Creșterea zilnică a SXR8 vine din revenirea acțiunilor americane de tehnologie, cu Nvidia și Palantir în frunte, după scăderile legate de AI din săptămâna precedentă, potrivit Yahoo Finance. Pe 7 zile însă, câștigul în euro a venit mai mult din întărirea dolarului decât din S&P 500 în sine, care a stat aproape pe loc.
+    https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rally-as-nvidia-tesla-google-lead-big-tech-surge-234718847.html
+    https://gvwire.com/2026/11/09/wall-street-rallies-after-last-weeks-ai-rout-nvidia-falls/
+- iShares Nasdaq 100 (SXRV): 1.474,20 € (11.11) · zi +3,72% · 7 zile +1,66% · 30 zile −6,45%
+  7 zile: Nasdaq-100 în USD +0,40%, efectul cursului EUR/USD +1,26% (aproximativ)
+  30 zile: Nasdaq-100 în USD −6,90%, efectul cursului EUR/USD +0,49% (aproximativ)
+  De ce: Nasdaq-100 a urcat puternic odată cu revenirea acțiunilor din zona AI (Nvidia, Palantir) după vânzarea masivă de săptămâna trecută, conform Yahoo Finance. Scăderea pe 30 de zile a SXRV în euro reflectă în principal căderea indicelui în dolari din acea perioadă, doar parțial atenuată de dolarul mai tare.
+    https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rally-as-nvidia-tesla-google-lead-big-tech-surge-234718847.html
+    https://gvwire.com/2026/11/09/wall-street-rallies-after-last-weeks-ai-rout-nvidia-falls/
+- Vanguard FTSE All-World (VWCE): 170,98 € (11.11) · zi +2,30% · 7 zile +1,20% · 30 zile −1,28%
+  De ce: VWCE urmează aceeași revenire a acțiunilor americane de tehnologie, care domină indicele global, după scăderile legate de AI din săptămâna trecută, potrivit Yahoo Finance.
+    https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rally-as-nvidia-tesla-google-lead-big-tech-surge-234718847.html
+- Xtrackers EUR Overnight (XEON): 150,7500 € (10.11, fără cotație nouă) · zi +0,01% · 7 zile +0,05% · 30 zile +0,21%
+  Randament anualizat pe ultimele 30 de zile: ~2,45%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (12.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,442% (10.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+
+
+OPORTUNITĂȚI NOI SAU SCHIMBATE
+- Ministerul Finanțelor · Fidelis RON 2 ani (emisiunea din noiembrie 2026): 6,60% pe an [dobândă schimbată: 7,60% → 6,60%]
+  titluri de stat · 2 ani · RON · minim 5000 RON · subscriere până la 13.11.2026
+  Venit scutit de impozit; tranșă specială de 7,6% pentru donatorii de sânge, în limita plafonului.
+  https://www.wall-street.ro/articol/bursa-si-investitii/fidelis-noiembrie-2026-statul-ingheata-dobanzile-dupa-majorarile-din-octombrie
+
+ȘTIRI CARE AU CONTAT
+- Ministerul Finanțelor derulează în perioada 6-13 noiembrie cea de-a unsprezecea ofertă de titluri de stat Fidelis din acest an (BVB, 06.11.2026)
+  Noua ediție Fidelis RON pe 2 ani plătește 6,6%, sub cei 7,6% din ediția trecută, relevant pentru cine alege între cash și titluri de stat.
+  https://m.bvb.ro/AboutUs/MediaCenter/PressItem/Ministerul-Finantelor-deruleaza-in-perioada-6-13-noiembrie-cea-de-a-unsprezecea-oferta-pentru-vanzarea-de-titluri-de-stat-Fidelis-din-acest-an/6482
+- Editia noiembrie a programului Fidelis atrage subscrieri de 13 miliarde lei (informat.ro, 13.11.2026)
+  Cererea mare arată că titlurile de stat rămân atractive chiar și la dobânzi mai mici decât înainte.
+  https://informat.ro/economie/editia-noiembrie-a-programului-fidelis-atrage-subscrieri-de-13-miliarde-lei-92256
+- Will the ECB Cut Interest Rates in December? (Morningstar)
+  Dacă BCE ține dobânzile neschimbate, randamentul cash-ului în euro (XEON, €STR) nu ar trebui să se mai miște prea mult în scurt timp.
+  https://global.morningstar.com/en-gb/economy/will-ecb-cut-interest-rates-december
+- Stock market today: Nasdaq sees biggest jump since May, S&P 500 soars as Alphabet, Tesla lead tech rally (Yahoo Finance, 11.11.2026)
+  Explică de ce SXR8 și SXRV au urcat puternic astăzi, pe fondul revenirii acțiunilor americane de tehnologie.
+  https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rally-as-nvidia-tesla-google-lead-big-tech-surge-234718847.html
+- Wall Street rallies after last week's AI rout, Nvidia falls (gvwire.com (AP), 09.11.2026)
+  Context pentru scăderile pe 30 de zile ale SXR8/SXRV: o vânzare masivă legată de AI chiar înainte de revenirea curentă.
+  https://gvwire.com/2026/11/09/wall-street-rallies-after-last-weeks-ai-rout-nvidia-falls/
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
