@@ -1,0 +1,69 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Vineri, 13 noiembrie 2026
+1 dobândă schimbată · 1 mișcare notabilă
+
+PE SCURT
+- Nasdaq-100 (SXRV) a urcat ~8,6% în 7 zile, revenind după căderea bruscă de la începutul lunii — mișcarea vine din indice, nu din curs.
+- Dolarul s-a întărit global, euro a scăzut spre 1,1081 USD; leul a rămas stabil față de euro.
+- BCE menține dobânda de depozit la 2,50%; o nouă emisiune Fidelis în euro oferă până la 6,60% pe an, neimpozabil.
+
+CURS VALUTAR
+- EUR/RON: 5,3459 (12.11) · zi 0,00% · 7 zile +0,11% · 30 zile +0,17%
+- USD/RON: 4,8155 (12.11) · zi +0,34% · 7 zile +1,26% · 30 zile +0,85%
+  De ce: Creșterea USD/RON reflectă aceeași întărire globală a dolarului față de euro, nu o mișcare specifică leului — EUR/RON a rămas practic neschimbat în aceeași perioadă.
+    https://www.tradingnews.com/news/eur-slips-to-112220-as-dollar-rebounds-from-dxy-101-20
+- EUR/USD: 1,1081 (12.11) · zi −0,41% · 7 zile −1,27% · 30 zile −0,96%
+  De ce: Euro s-a depreciat ușor față de dolar, pe fondul întăririi generale a dolarului american din ultima săptămână, conform TradingNews.
+    https://www.tradingnews.com/news/eur-slips-to-112220-as-dollar-rebounds-from-dxy-101-20
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 746,28 € (12.11) · zi +0,96% · 7 zile +5,54% · 30 zile −0,86%
+  7 zile: S&P 500 în USD +4,19%, efectul cursului EUR/USD +1,29% (aproximativ)
+  30 zile: S&P 500 în USD −1,81%, efectul cursului EUR/USD +0,97% (aproximativ)
+- iShares Nasdaq 100 (SXRV): 1.480,30 € (12.11) · zi +1,04% · 7 zile +8,59% · 30 zile −5,71%
+  7 zile: Nasdaq-100 în USD +7,21%, efectul cursului EUR/USD +1,29% (aproximativ)
+  30 zile: Nasdaq-100 în USD −6,61%, efectul cursului EUR/USD +0,97% (aproximativ)
+  De ce: Nasdaq-100, indicele din spatele SXRV, a avut cea mai slabă zi din martie 2020 pe 5 noiembrie, apoi a revenit puternic pe 9 noiembrie cu cea mai bună ședință din mai, potrivit 247wallst.com. Recuperarea de 8,6% în euro vine aproape integral din indice, cursul EUR/USD contribuind doar marginal.
+    https://247wallst.com/investing/2026/11/06/tech-stocks-just-had-their-worst-day-since-2020/
+    https://247wallst.com/investing/2026/11/10/the-nasdaq-100-just-had-its-best-day-since-march-without-nvidias-help/
+- Vanguard FTSE All-World (VWCE): 171,62 € (12.11) · zi +0,80% · 7 zile +4,21% · 30 zile −0,64%
+- Xtrackers EUR Overnight (XEON): 150,7700 € (12.11) · zi +0,01% · 7 zile +0,05% · 30 zile +0,20%
+  Randament anualizat pe ultimele 30 de zile: ~2,45%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (13.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,439% (11.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+
+
+OPORTUNITĂȚI NOI SAU SCHIMBATE
+- Ministerul Finanțelor · Fidelis EUR 3 ani (donatori de sânge, emisiunea din noiembrie 2026): 5,50% pe an [dobândă schimbată: 4,50% → 5,50%]
+  titluri de stat · 3 ani · EUR · minim 100 EUR · subscriere până la 13.11.2026
+  Dobândă majorată cu 1 punct procentual față de tranșa standard, rezervată donatorilor de sânge, plafon 20.000 EUR per investitor.
+  https://alba24.ro/fidelis-noiembrie-2026-titluri-de-stat-cu-dobanzi-de-pana-la-775-in-lei-si-660-in-euro-la-ultima-editie-de-toamna-1166514.html
+
+ȘTIRI CARE AU CONTAT
+- ECB holds interest rates steady as energy shock threatens inflation and growth (Cyprus Mail, 29.10.2026)
+  BCE a menținut dobânda de depozit la 2,50%, deci randamentul pe cash în euro (XEON) rămâne apropiat de nivelul actual, fără schimbări iminente.
+  https://cyprus-mail.com/2026/10/29/ecb-holds-interest-rates-steady-as-energy-shock-threatens-inflation-and-growth
+- FIDELIS noiembrie 2026: Titluri de stat cu dobânzi de până la 7,75% în lei și 6,60% în euro, la ultima ediție de toamnă (Alba24)
+  Ediția Fidelis din noiembrie are tranșe în euro cu dobânzi mai mari decât precedentele, relevant pentru cineva care așteaptă cu euro lichid.
+  https://alba24.ro/fidelis-noiembrie-2026-titluri-de-stat-cu-dobanzi-de-pana-la-775-in-lei-si-660-in-euro-la-ultima-editie-de-toamna-1166514.html
+- Ministerul Finanțelor derulează în perioada 6-13 noiembrie cea de-a unsprezecea ofertă pentru vânzarea de titluri de stat Fidelis din acest… (BVB)
+  Subscrierea la emisiunea Fidelis din noiembrie se închide chiar azi, 13 noiembrie, inclusiv tranșele dedicate donatorilor de sânge.
+  https://m.bvb.ro/AboutUs/MediaCenter/PressItem/Ministerul-Finantelor-deruleaza-in-perioada-6-13-noiembrie-cea-de-a-unsprezecea-oferta-pentru-vanzarea-de-titluri-de-stat-Fidelis-din-acest-an/6482
+- Tech Stocks Just Had Their Worst Day Since 2020 (24/7 Wall St., 06.11.2026)
+  Căderea bruscă a acțiunilor tech explică de ce SXRV (Nasdaq-100 în euro) a fost volatil în ultima săptămână.
+  https://247wallst.com/investing/2026/11/06/tech-stocks-just-had-their-worst-day-since-2020/
+- The Nasdaq-100 Just Had Its Best Day Since March Without Nvidia's Help (24/7 Wall St., 10.11.2026)
+  Revenirea rapidă a Nasdaq-100 arată cât de repede se pot schimba randamentele pe ETF-urile tech deținute în euro.
+  https://247wallst.com/investing/2026/11/10/the-nasdaq-100-just-had-its-best-day-since-march-without-nvidias-help/
+- Euro Slips to 1.1220 as Dollar Rebounds From DXY 101.20 (TradingNews, 05.11.2026)
+  Întărirea dolarului afectează indirect randamentul în euro al ETF-urilor americane (SXR8, SXRV) prin componenta de curs valutar.
+  https://www.tradingnews.com/news/eur-slips-to-112220-as-dollar-rebounds-from-dxy-101-20
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
