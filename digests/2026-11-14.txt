@@ -1,0 +1,64 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Sâmbătă, 14 noiembrie 2026
+4 mișcări notabile
+
+PE SCURT
+- Dolarul s-a întărit și bursa americană a scăzut pe fondul speranțelor mai reduse pentru o reducere de dobândă a Fed în decembrie; SXR8, SXRV și VWCE au scăzut în euro.
+- O nouă ediție Fidelis s-a încheiat pe 13 noiembrie, cu dobânzi neimpozabile menținute: până la 7,75% în lei și 6,60% în euro.
+- BCE este văzută ca urmând să lase dobânzile neschimbate în decembrie, deci randamentul cash în euro (XEON) ar trebui să rămână stabil.
+
+CURS VALUTAR
+- EUR/RON: 5,3498 (13.11) · zi +0,07% · 7 zile +0,17% · 30 zile +0,20%
+- USD/RON: 4,8428 (13.11) · zi +0,57% · 7 zile +1,32% · 30 zile +1,51%
+  De ce: Dolarul s-a întărit global pe fondul reducerii șanselor unei scăderi de dobândă a Fed în decembrie, ceea ce a împins în sus și cursul dolar/leu, în timp ce euro/dolar s-a mișcat în aceeași direcție.
+    https://www.nasdaq.com/articles/dollar-rallies-december-fed-rate-cut-expectations-fade
+    https://www.analyticsinsight.net/news/dollar-index-rises-as-markets-reprice-fed-rate-cuts-for-2026
+- EUR/USD: 1,1052 (13.11) · zi −0,26% · 7 zile −1,01% · 30 zile −1,28%
+  De ce: Euro a scăzut față de dolar pe măsură ce piețele au redus șansele unei reduceri de dobândă a Fed în decembrie, ceea ce a susținut moneda americană.
+    https://www.nasdaq.com/articles/dollar-rallies-december-fed-rate-cut-expectations-fade
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 736,44 € (13.11) · zi −1,32% · 7 zile +3,27% · 30 zile −1,01%
+  7 zile: S&P 500 în USD +2,22%, efectul cursului EUR/USD +1,02% (aproximativ)
+  30 zile: S&P 500 în USD −2,28%, efectul cursului EUR/USD +1,29% (aproximativ)
+  De ce: Scăderea vine din bursa americană, nu din curs: Wall Street a scăzut pe fondul reducerii șanselor unei relaxări a Fed în decembrie și al creșterii randamentelor obligațiunilor, care afectează mai ales companiile cu valori mari de piață.
+    https://www.fxempire.com/forecasts/article/nasdaq-tanks-more-than-2-as-traders-dump-tech-on-shifting-fed-forecast-1561076
+- iShares Nasdaq 100 (SXRV): 1.444,60 € (13.11) · zi −2,41% · 7 zile +4,01% · 30 zile −6,02%
+  7 zile: Nasdaq-100 în USD +2,96%, efectul cursului EUR/USD +1,02% (aproximativ)
+  30 zile: Nasdaq-100 în USD −7,22%, efectul cursului EUR/USD +1,29% (aproximativ)
+  De ce: Nasdaq-100 a scăzut mai mult decât S&P 500, companiile din tehnologie fiind cele mai expuse la reducerea șanselor unei scăderi de dobândă a Fed în decembrie și la randamente mai mari ale obligațiunilor.
+    https://www.fxempire.com/forecasts/article/nasdaq-tanks-more-than-2-as-traders-dump-tech-on-shifting-fed-forecast-1561076
+- Vanguard FTSE All-World (VWCE): 169,75 € (13.11) · zi −1,09% · 7 zile +3,30% · 30 zile −0,80%
+  De ce: Scăderea vine din bursele globale, cu componenta americană (cea mai mare pondere din indice) sub presiune din cauza reducerii șanselor unei scăderi de dobândă a Fed în decembrie.
+    https://www.fxempire.com/forecasts/article/nasdaq-tanks-more-than-2-as-traders-dump-tech-on-shifting-fed-forecast-1561076
+- Xtrackers EUR Overnight (XEON): 150,7900 € (13.11) · zi +0,01% · 7 zile +0,05% · 30 zile +0,21%
+  Randament anualizat pe ultimele 30 de zile: ~2,54%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (14.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,443% (12.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+
+
+ȘTIRI CARE AU CONTAT
+- FIDELIS noiembrie 2026: Titluri de stat cu dobânzi de până la 7,75% în lei și 6,60% în euro, la ultima ediție de toamnă (Alba24, 06.11.2026)
+  Ediția s-a încheiat pe 13 noiembrie cu dobânzile din octombrie nemodificate, relevant pentru cine așteaptă să plaseze euro la dobândă fixă fără impozit.
+  https://alba24.ro/fidelis-noiembrie-2026-titluri-de-stat-cu-dobanzi-de-pana-la-775-in-lei-si-660-in-euro-la-ultima-editie-de-toamna-1166514.html
+- ECB Poised to Hold Rates as Traders Look Ahead to December (Trading Economics)
+  BCE este văzută ca urmând să lase dobânzile neschimbate în decembrie, deci randamentul cash în euro (XEON) ar trebui să rămână stabil.
+  https://tradingeconomics.com/euro-area/interest-rate/news/596136
+- Dollar Index Rises as Markets Reprice Fed Rate Cuts for 2026 (AnalyticsInsight)
+  Piețele au redus șansele unei reduceri de dobândă a Fed în decembrie, ceea ce susține dolarul și pune presiune pe euro și indirect pe leu.
+  https://www.analyticsinsight.net/news/dollar-index-rises-as-markets-reprice-fed-rate-cuts-for-2026
+- România mai trece un test al agențiilor de rating. S&P menține țara în categoria recomandată investițiilor (Wall-Street.ro)
+  S&P a confirmat ratingul de țară al României, un semnal de stabilitate pentru cei care economisesc în lei sau euro.
+  https://www.wall-street.ro/articol/economie/sp-mentine-tara-in-categoria-recomandata-investitiilor.html
+- Stocks Sink as Fed Clouds Gather Before Data Storm: Markets Wrap (Bloomberg)
+  Incertitudinea privind următoarea decizie a Fed ține bursele americane sub presiune, afectând și ETF-urile globale deținute în euro.
+  https://news.bloombergtax.com/capital-markets/asian-traders-cautious-as-data-void-clouds-outlook-markets-wrap
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
