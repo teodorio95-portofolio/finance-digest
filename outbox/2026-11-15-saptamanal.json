@@ -3,7 +3,8 @@
  "stem": "2026-11-15-saptamanal",
  "subject": "Bani în euro: săptămâna 09.11–15.11: EUR/RON 5,3498 (+0,17%) · S&P 500 +3,27% · Nasdaq +4,01%",
  "attachments": [],
- "status": "pending",
- "attempts": 0,
- "last_error": null
+ "status": "sent",
+ "attempts": 1,
+ "last_error": null,
+ "sent_at": "2026-11-15T07:06:06+00:00"
 }
