@@ -1,0 +1,83 @@
+BANI ÎN EURO · rezumatul săptămânii
+Duminică, 15 noiembrie 2026
+4 mișcări notabile
+
+PE SCURT
+- Dolarul s-a întărit față de leu și euro, pe fondul scăderii șanselor unei reduceri de dobândă Fed în decembrie.
+- Acțiunile americane (S&P 500, Nasdaq) și-au recuperat scăderea din săptâna precedentă pe revenirea titlurilor tech/AI, ceea ce a împins în sus SXR8, SXRV și VWCE în euro.
+- A apărut o nouă emisiune Fidelis (6-13 noiembrie) cu dobânzi de până la 7,75% în lei și 6,60% în euro, iar BCE a lăsat dobânzile neschimbate.
+
+CURS VALUTAR
+- EUR/RON: 5,3498 (13.11) · zi +0,07% · 7 zile +0,17% · 30 zile +0,20% · 90 zile +2,03%
+- USD/RON: 4,8428 (13.11) · zi +0,57% · 7 zile +1,32% · 30 zile +1,51% · 90 zile +6,70%
+  De ce: Dolarul s-a întărit în raport cu leul în această săptămână pe măsură ce piețele au redus șansele unei reduceri de dobândă a Fed în decembrie, după ce mai mulți oficiali Fed au pledat pentru menținerea dobânzilor și după anularea raportului lunar al pieței muncii din SUA, care a eliminat date-cheie înainte de ședința FOMC din decembrie.
+    https://finance.yahoo.com/news/dollar-rallies-december-fed-rate-203528998.html
+- EUR/USD: 1,1052 (13.11) · zi −0,26% · 7 zile −1,01% · 30 zile −1,28% · 90 zile −4,45%
+  De ce: Euro s-a depreciat față de dolar pe fondul aceleiași evoluții: șansele unei reduceri de dobândă Fed în decembrie au scăzut semnificativ, de la circa 70% la sub 30%, pe comentarii prudente ale oficialilor Fed, ceea ce a susținut dolarul.
+    https://finance.yahoo.com/news/dollar-rallies-december-fed-rate-203528998.html
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 736,44 € (13.11) · zi −1,32% · 7 zile +3,27% · 30 zile −1,01% · 90 zile +1,56%
+  7 zile: S&P 500 în USD +2,22%, efectul cursului EUR/USD +1,02% (aproximativ)
+  30 zile: S&P 500 în USD −2,28%, efectul cursului EUR/USD +1,29% (aproximativ)
+  De ce: Creșterea săptămânală a S&P 500 (prin SXR8, în euro) a venit mai ales din indicele însuși: acțiunile tehnologice și cele legate de inteligența artificială și-au recuperat scăderea din săptâna precedentă, provocată de temeri legate de cheltuielile din AI. Deprecierea euro față de dolar a adăugat un plus, dar mai mic, la randamentul în euro.
+    https://www.adn.com/business-economy/2026/11/11/rebounding-ai-stocks-lift-wall-street/
+- iShares Nasdaq 100 (SXRV): 1.444,60 € (13.11) · zi −2,41% · 7 zile +4,01% · 30 zile −6,02% · 90 zile −3,16%
+  7 zile: Nasdaq-100 în USD +2,96%, efectul cursului EUR/USD +1,02% (aproximativ)
+  30 zile: Nasdaq-100 în USD −7,22%, efectul cursului EUR/USD +1,29% (aproximativ)
+  De ce: Nasdaq-100 (prin SXRV, în euro) a urcat mai mult decât S&P 500 pe aceeași revenire a titlurilor tech/AI, cu un impuls suplimentar din rezultatele peste așteptări ale Cisco; și aici cea mai mare parte a câștigului în euro vine din indicele american, nu din curs.
+    https://www.adn.com/business-economy/2026/11/11/rebounding-ai-stocks-lift-wall-street/
+    https://finance.yahoo.com/news/weekly-stock-market-wrap-cisco-182900590.html
+- Vanguard FTSE All-World (VWCE): 169,75 € (13.11) · zi −1,09% · 7 zile +3,30% · 30 zile −0,80% · 90 zile +0,39%
+  De ce: Acțiunile globale (VWCE) au urmat aceeași revenire condusă de titlurile tehnologice americane, după vânzarea masivă legată de temerile privind cheltuielile în AI din săptâna anterioară.
+    https://www.adn.com/business-economy/2026/11/11/rebounding-ai-stocks-lift-wall-street/
+- Xtrackers EUR Overnight (XEON): 150,7900 € (13.11) · zi +0,01% · 7 zile +0,05% · 30 zile +0,21% · 90 zile +0,59%
+  Randament anualizat pe ultimele 30 de zile: ~2,54%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (15.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp · 90 zile +0,25 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,443% (12.11) · zi – · 7 zile 0,00 pp · 30 zile 0,00 pp · 90 zile +0,26 pp
+
+
+CELE MAI BUNE OFERTE ACTIVE (EUR ÎNTÂI)
+- Exim Banca Românească · Depozit la termen EUR 12 luni (SuperEuro): 3,50% pe an · depozit la termen · 1 an · EUR · minim 150 EUR · subscriere până la 31.12.2026
+  https://www.economica.net/?p=991475
+- Exim Banca Românească · Depozit Plus EUR 7 luni (clienți noi): 3,10% pe an · depozit la termen · 7 luni · EUR · minim 150 EUR · subscriere până la 27.11.2026
+  https://www.economica.net/?p=991475
+- TechVentures Bank · Depozit la termen EUR 12 luni: 2,65% pe an · depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- Revolut · Instant Access Savings EUR (plan Plus): 2,50% pe an · cont de economii · la vedere · EUR
+  https://www.revolut.com/ro-RO/legal/pre-contractual-information-instant-access-savings-account/
+- Trade Republic · Interest on cash EUR: 2,50% pe an · cont de economii · la vedere · EUR
+  https://www.traderepublic.com/en-de/interest
+- TechVentures Bank · Depozit la termen EUR 6 luni: 2,30% pe an · depozit la termen · 6 luni · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- Patria Bank · Depozit la termen EUR 12 luni: 2,20% pe an · depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- Intesa Sanpaolo · Depozit la termen EUR 12 luni: 2,15% pe an · depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- ProCredit Bank · Depozit la termen EUR 12 luni: 2,10% pe an · depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- UniCredit Bank · Depozit la termen EUR 12 luni: 2,10% pe an · depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+
+ȘTIRI CARE AU CONTAT
+- FIDELIS noiembrie 2026: titluri de stat cu dobânzi de până la 7,75% în lei și 6,60% în euro (alba24.ro, 06.11.2026)
+  Nouă emisiune de titluri de stat în lei și euro, cu dobânzi neimpozabile, ca alternativă pentru sumele în euro aflate în depozite.
+  https://alba24.ro/fidelis-noiembrie-2026-titluri-de-stat-cu-dobanzi-de-pana-la-775-in-lei-si-660-in-euro-la-ultima-editie-de-toamna-1166514.html
+- Dollar Rallies as December Fed Rate Cut Expectations Fade (Yahoo Finance)
+  Dolarul mai puternic înseamnă un leu mai slab față de dolar și un euro care cumpără mai puțini dolari, deci ETF-urile americane în euro par mai scumpe la cumpărare.
+  https://finance.yahoo.com/news/dollar-rallies-december-fed-rate-203528998.html
+- Rebounding AI stocks lift Wall Street (ADN.com (AP), 11.11.2026)
+  Revenirea acțiunilor tech/AI explică de ce SXR8 și SXRV au crescut săptămâna aceasta, după o perioadă de scăderi.
+  https://www.adn.com/business-economy/2026/11/11/rebounding-ai-stocks-lift-wall-street/
+- ECB holds interest rates steady as energy shock threatens inflation and growth (Cyprus Mail, 29.10.2026)
+  BCE a lăsat dobânzile neschimbate, deci randamentul XEON și dobânzile la depozitele în euro ar trebui să rămână stabile pe termen scurt.
+  https://cyprus-mail.com/2026/10/29/ecb-holds-interest-rates-steady-as-energy-shock-threatens-inflation-and-growth
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
