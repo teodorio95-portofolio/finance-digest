@@ -1,0 +1,60 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Marți, 17 noiembrie 2026
+1 mișcare notabilă
+
+PE SCURT
+- Dolarul s-a întărit pe fondul șanselor tot mai mici pentru o reducere de dobândă Fed în decembrie, iar euro a scăzut spre 1,16 dolari.
+- Nasdaq-100 (și expunerea SXRV) a scăzut din cauza aceleiași reevaluări privind Fed și a îngrijorărilor legate de evaluările din AI.
+- A apărut o nouă emisiune Fidelis cu dobânzi de până la 6,60% în euro, în timp ce BCE ține dobânzile neschimbate.
+
+CURS VALUTAR
+- EUR/RON: 5,3494 (16.11) · zi −0,01% · 7 zile +0,13% · 30 zile +0,24%
+- USD/RON: 4,8600 (16.11) · zi +0,36% · 7 zile +1,81% · 30 zile +2,47%
+  De ce: Creșterea cursului dolar/leu vine din întărirea generală a dolarului pe piețele internaționale, alimentată de aceleași șanse tot mai mici pentru o reducere de dobândă Fed în decembrie, nu dintr-o mișcare specifică a leului.
+    https://www.fxstreet.com/news/eur-usd-falls-to-near-11600-due-to-fading-fed-rate-cut-bets-202511170106
+- EUR/USD: 1,1014 (16.11) · zi −0,34% · 7 zile −1,60% · 30 zile −2,12%
+  De ce: Euro a scăzut spre 1,16 dolari în jurul datei de 16-17 noiembrie pe fondul scăderii șanselor pentru o reducere de dobândă Fed în decembrie, ceea ce a întărit dolarul.
+    https://www.fxstreet.com/news/eur-usd-falls-to-near-11600-due-to-fading-fed-rate-cut-bets-202511170106
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 734,46 € (16.11) · zi −0,57% · 7 zile +0,88% · 30 zile 0,00%
+  7 zile: S&P 500 în USD −0,73%, efectul cursului EUR/USD +1,63% (aproximativ)
+  30 zile: S&P 500 în USD −2,13%, efectul cursului EUR/USD +2,17% (aproximativ)
+- iShares Nasdaq 100 (SXRV): 1.436,40 € (16.11) · zi −1,13% · 7 zile +0,28% · 30 zile −3,61%
+  7 zile: Nasdaq-100 în USD −1,33%, efectul cursului EUR/USD +1,63% (aproximativ)
+  30 zile: Nasdaq-100 în USD −5,66%, efectul cursului EUR/USD +2,17% (aproximativ)
+  De ce: Nasdaq-100 a scăzut pe 16 noiembrie din cauza îngrijorărilor legate de evaluările companiilor din AI și a semnalelor tot mai puțin optimiste privind o reducere de dobândă Fed în decembrie, care au lovit cel mai tare sectorul tech.
+    https://www.swissinfo.ch/eng/nasdaq-100-wipes-out-%242%2e3-trillion-in-ai-selloff%3a-markets-wrap/92330151
+    https://www.fxempire.com/forecasts/article/nasdaq-100-us-stocks-lift-on-fridays-rate-cut-hopes-as-tech-stocks-remain-fragile-1562831
+- Vanguard FTSE All-World (VWCE): 169,13 € (16.11) · zi −0,56% · 7 zile +1,03% · 30 zile −0,24%
+- Xtrackers EUR Overnight (XEON): 150,7900 € (16.11) · zi +0,01% · 7 zile +0,03% · 30 zile +0,19%
+  Randament anualizat pe ultimele 30 de zile: ~2,29%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (17.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,437% (13.11) · zi −0,01 pp · 7 zile −0,01 pp · 30 zile 0,00 pp
+
+
+ȘTIRI CARE AU CONTAT
+- FIDELIS noiembrie 2026: Titluri de stat cu dobânzi de până la 7,75% în lei și 6,60% în euro, la ultima ediție de toamnă (Alba24)
+  O nouă emisiune Fidelis oferă dobânzi atractive și în euro, o alternativă la depozite pentru cei care așteaptă să investească.
+  https://alba24.ro/fidelis-noiembrie-2026-titluri-de-stat-cu-dobanzi-de-pana-la-775-in-lei-si-660-in-euro-la-ultima-editie-de-toamna-1166514.html
+- Fără surprize pentru românii cu credite în euro: BCE lasă dobânzile pe pauză și în 2026 (Wall-Street.ro)
+  BCE ar urma să mențină dobânda de depozit, deci randamentele cash-ului în euro (XEON) rămân stabile pe termen scurt.
+  https://www.wall-street.ro/articol/banking/fara-surprize-pentru-romanii-cu-credite-in-euro-bce-mentine-dobanzile-in-2026.html
+- Nasdaq 100 wipes out $2.3 trillion in AI selloff: Markets wrap (Swissinfo/Bloomberg)
+  Scăderea acțiunilor tech americane afectează direct expunerea în euro din SXRV.
+  https://www.swissinfo.ch/eng/nasdaq-100-wipes-out-%242%2e3-trillion-in-ai-selloff%3a-markets-wrap/92330151
+- EUR/USD falls to near 1.1600 due to fading Fed rate cut bets (FXStreet, 17.11.2026)
+  Un dolar mai puternic schimbă raportul euro-dolar, dar nu afectează direct cursul euro-leu urmărit de un deținător de euro.
+  https://www.fxstreet.com/news/eur-usd-falls-to-near-11600-due-to-fading-fed-rate-cut-bets-202511170106
+- BNR: Risks to RON exchange rate remain high (StiriPeSurse)
+  Riscurile privind stabilitatea leului rămân ridicate, relevant pentru cineva care ține bani în euro și urmărește cursul.
+  https://www.stiripesurse.ro/bnr-risks-to-ron-exchange-rate-remain-high_3929910
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
