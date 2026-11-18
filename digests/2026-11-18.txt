@@ -1,0 +1,63 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Miercuri, 18 noiembrie 2026
+3 mișcări notabile
+
+PE SCURT
+- Euro a scăzut sub 1,16 dolari, dolarul întărindu-se înaintea datelor din SUA și pe fondul șanselor mai mici pentru o tăiere de dobândă a Fed în decembrie.
+- Vânzările pe acțiunile din sectorul AI (demisia CEO-ului Nvidia, așteptarea rezultatelor Nvidia) au continuat să scadă SXR8, SXRV și, prin expunerea la SUA, și VWCE.
+- Noua ediție de titluri de stat Fidelis din noiembrie a oferit dobânzi de până la 7,75% pe an în lei, o variantă de parcat sumele în așteptare.
+
+CURS VALUTAR
+- EUR/RON: 5,3485 (17.11) · zi −0,02% · 7 zile +0,08% · 30 zile +0,22%
+- USD/RON: 4,8665 (17.11) · zi +0,13% · 7 zile +2,20% · 30 zile +2,60%
+- EUR/USD: 1,0989 (17.11) · zi −0,23% · 7 zile −2,01% · 30 zile −2,35%
+  De ce: Dolarul american s-a întărit pe 17 noiembrie, pe fondul scăderii șanselor unei reduceri de dobândă a Fed în decembrie și înaintea unor date americane despre piața muncii, ceea ce a împins euro sub 1,16 dolari, potrivit FXStreet.
+    https://www.fxstreet.com/news/eur-usd-falls-below-11600-as-dollar-strengthens-ahead-of-us-nfp-202511172154
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 719,13 € (17.11) · zi −1,09% · 7 zile −0,67% · 30 zile −2,09%
+  7 zile: S&P 500 în USD −2,66%, efectul cursului EUR/USD +2,05% (aproximativ)
+  30 zile: S&P 500 în USD −4,39%, efectul cursului EUR/USD +2,40% (aproximativ)
+  De ce: Indicele S&P 500 a continuat să scadă în jurul datei de 17 noiembrie din cauza vânzărilor pe acțiunile legate de inteligența artificială, pe fondul demisiei neașteptate a CEO-ului Nvidia și al nervozității înaintea rezultatelor Nvidia. Pe 7 și 30 de zile, scăderea indicelui în dolari a fost parțial compensată în euro de întărirea dolarului american, nu de o evoluție mai bună a pieței.
+    https://www.thestandard.com.hk/finance/article/348698/Wall-Street-ends-sharply-lower-on-AI-jitters-ahead-of-Nvidia-results-Anthropic-IPO
+    https://www.fxstreet.com/news/eur-usd-falls-below-11600-as-dollar-strengthens-ahead-of-us-nfp-202511172154
+- iShares Nasdaq 100 (SXRV): 1.402,00 € (17.11) · zi −1,19% · 7 zile −1,36% · 30 zile −5,92%
+  7 zile: Nasdaq-100 în USD −3,33%, efectul cursului EUR/USD +2,05% (aproximativ)
+  30 zile: Nasdaq-100 în USD −8,13%, efectul cursului EUR/USD +2,40% (aproximativ)
+  De ce: Nasdaq-100 a fost afectat și mai puternic decât S&P 500 de retragerea investitorilor din acțiunile AI în zilele premergătoare rezultatelor Nvidia. Și aici, scăderea indicelui în dolari pe 7 și 30 de zile a fost doar parțial atenuată în euro de întărirea dolarului american.
+    https://www.thestandard.com.hk/finance/article/348698/Wall-Street-ends-sharply-lower-on-AI-jitters-ahead-of-Nvidia-results-Anthropic-IPO
+    https://www.nasdaq.com/articles/stocks-fall-ahead-nvidia-earnings-and-us-economic-data
+- Vanguard FTSE All-World (VWCE): 165,57 € (17.11) · zi −1,31% · 7 zile −0,93% · 30 zile −2,34%
+  De ce: Scăderea VWCE reflectă aceeași corecție largă de pe bursele americane, generată de îngrijorările privind valorizările din sectorul AI înaintea rezultatelor Nvidia, întrucât indicele global este puternic expus la acțiunile tehnologice americane.
+    https://www.thestandard.com.hk/finance/article/348698/Wall-Street-ends-sharply-lower-on-AI-jitters-ahead-of-Nvidia-results-Anthropic-IPO
+- Xtrackers EUR Overnight (XEON): 150,8100 € (16.11, fără cotație nouă) · zi +0,02% · 7 zile +0,05% · 30 zile +0,21%
+  Randament anualizat pe ultimele 30 de zile: ~2,45%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (18.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,440% (16.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+
+
+ȘTIRI CARE AU CONTAT
+- Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO (The Standard)
+  Vânzările pe acțiunile AI au scăzut valoarea SXR8, SXRV și VWCE în zilele din jurul datei de 17 noiembrie.
+  https://www.thestandard.com.hk/finance/article/348698/Wall-Street-ends-sharply-lower-on-AI-jitters-ahead-of-Nvidia-results-Anthropic-IPO
+- EUR/USD falls below 1.1600 as dollar strengthens ahead of US NFP (FXStreet, 17.11.2026)
+  Un dolar mai puternic înseamnă un euro mai slab, relevant pentru cineva care ar converti euro în lei sau dolari.
+  https://www.fxstreet.com/news/eur-usd-falls-below-11600-as-dollar-strengthens-ahead-of-us-nfp-202511172154
+- Stocks fall ahead of Nvidia earnings and US economic data (Nasdaq)
+  Piețele americane au rămas nervoase înainte de rezultatele Nvidia, cu efect direct asupra SXR8 și SXRV.
+  https://www.nasdaq.com/articles/stocks-fall-ahead-nvidia-earnings-and-us-economic-data
+- Stock market news for Nov 16, 2026 (Zacks, 16.11.2026)
+  Nvidia a condus o nouă scădere a acțiunilor din tehnologie, cu impact asupra indicilor din spatele SXR8 și SXRV.
+  https://www.zacks.com/stock/news/3030162/stock-market-news-for-nov-16-2026
+- Titlurile Fidelis se vând între 6 și 13 noiembrie, cu dobândă de 7,75% pe an în lei pentru varianta pe 10 ani (Financiarul.ro)
+  Noua ediție Fidelis din noiembrie, inclusiv tranșe în euro, este o alternativă pentru sumele puse la o parte în euro.
+  https://financiarul.ro/investitii/titlurile-fidelis-se-vand-intre-6-si-13-noiembrie-cu-dobanda-de-7-75-pe-an-in-lei-pentru-varianta-pe-10-ani/
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
