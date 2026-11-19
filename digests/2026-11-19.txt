@@ -1,0 +1,61 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Joi, 19 noiembrie 2026
+
+PE SCURT
+- Leul este relativ stabil azi, dar BNR semnalează presiune de fond din deficitul de cont curent și cel bugetar.
+- Dolarul s-a întărit pe fondul speculațiilor că Fed ar putea păstra dobânda neschimbată în decembrie, ceea ce a apăsat pe euro.
+- A apărut o nouă ediție Fidelis (euro, dobânzi până la 6,60% pe 10 ani), listată la tranzacționare din 19 noiembrie.
+
+CURS VALUTAR
+- EUR/RON: 5,3459 (18.11) · zi −0,05% · 7 zile 0,00% · 30 zile +0,35%
+  De ce: Mișcarea de azi este minimă, dar leul rămâne sub o presiune de fond: reprezentantul BNR Suciu a semnalat recent presiune pe curs venită din cifrele de deficit de cont curent publicate la mijlocul lunii noiembrie.
+    https://financialintelligence.ro/suciu-bnr-exista-o-presiune-pe-curs-care-vine-din-cifrele-de-deficit-comercial-publicate-recent/
+- USD/RON: 4,8725 (18.11) · zi +0,12% · 7 zile +1,53% · 30 zile +2,54%
+  De ce: Creșterea cursului dolar-leu reflectă în principal întărirea generală a dolarului pe piețele globale, pe fondul speculațiilor că Fed ar putea lăsa dobânda neschimbată la ședința din decembrie, și nu o mișcare specifică a leului.
+    https://www.vtmarkets.com/?p=35163
+- EUR/USD: 1,0968 (18.11) · zi −0,19% · 7 zile −1,43% · 30 zile −2,29%
+  De ce: Euro s-a depreciat în fața dolarului pe fondul speculațiilor pieței că Fed ar putea păstra dobânda neschimbată la ședința din decembrie, potrivit VT Markets.
+    https://www.vtmarkets.com/?p=35163
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 719,67 € (18.11) · zi −0,22% · 7 zile −2,64% · 30 zile −2,66%
+  7 zile: S&P 500 în USD −4,03%, efectul cursului EUR/USD +1,45% (aproximativ)
+  30 zile: S&P 500 în USD −4,89%, efectul cursului EUR/USD +2,34% (aproximativ)
+- iShares Nasdaq 100 (SXRV): 1.412,60 € (18.11) · zi +0,05% · 7 zile −3,58% · 30 zile −6,54%
+  7 zile: Nasdaq-100 în USD −4,96%, efectul cursului EUR/USD +1,45% (aproximativ)
+  30 zile: Nasdaq-100 în USD −8,68%, efectul cursului EUR/USD +2,34% (aproximativ)
+- Vanguard FTSE All-World (VWCE): 165,20 € (18.11) · zi −0,57% · 7 zile −2,97% · 30 zile −2,87%
+- Xtrackers EUR Overnight (XEON): 150,8200 € (17.11) · zi +0,01% · 7 zile +0,05% · 30 zile +0,21%
+  Randament anualizat pe ultimele 30 de zile: ~2,45%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (19.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,441% (17.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+
+
+ȘTIRI CARE AU CONTAT
+- Ministerul Finanțelor derulează a 11-a ofertă Fidelis din acest an (BVB, 06.11.2026)
+  Nouă ediție de titluri de stat Fidelis, cu dobânzi de până la 6,60% în euro pe 10 ani, listată la tranzacționare din 19 noiembrie.
+  https://m.bvb.ro/AboutUs/MediaCenter/PressItem/Ministerul-Finantelor-deruleaza-in-perioada-6-13-noiembrie-cea-de-a-unsprezecea-oferta-pentru-vanzarea-de-titluri-de-stat-Fidelis-din-acest-an/6482
+- Will the ECB Cut Interest Rates in December? (Morningstar)
+  Piețele nu anticipează o nouă reducere de dobândă BCE în decembrie, deci randamentul pe cash în euro ar putea rămâne apropiat de nivelul actual.
+  https://global.morningstar.com/en-gb/economy/will-ecb-cut-interest-rates-december
+- The Euro weakens against the Dollar amid US rate speculation (VT Markets, 18.11.2026)
+  Dolarul s-a întărit pe fondul speculațiilor privind o Fed mai reticentă să reducă dobânda în decembrie, ceea ce apasă indirect și pe leu.
+  https://www.vtmarkets.com/?p=35163
+- Suciu (BNR): Există o presiune pe curs care vine din cifrele de deficit comercial publicate recent (financialintelligence.ro, 14.11.2026)
+  Deficitul de cont curent s-a lărgit cu 41% în trimestrul trei, un factor de presiune pe termen mai lung asupra leului.
+  https://financialintelligence.ro/suciu-bnr-exista-o-presiune-pe-curs-care-vine-din-cifrele-de-deficit-comercial-publicate-recent/
+- Romanian central bank: budget execution "more complex than anticipated" (Romania Insider, 13.11.2026)
+  Deficitul bugetar a ajuns la 3,97% din PIB după primele zece luni, peste nivelul de anul trecut, un risc pentru stabilitatea leului.
+  https://www.romania-insider.com/business/bnr-budget-complex-romania
+- Another wipeout hits Wall Street as Nvidia, other jittery AI stocks swing lower (AP, 17.11.2026)
+  Vânzarea masivă pe acțiunile legate de AI a afectat S&P 500 și Nasdaq, indicii pe care SXR8 și SXRV îi urmăresc în euro.
+  https://www.wdbj7.com/2026/11/17/another-wipeout-hits-wall-street-nvidia-other-jittery-ai-stocks-swing-lower/
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
