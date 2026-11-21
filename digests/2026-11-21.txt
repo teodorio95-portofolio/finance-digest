@@ -1,0 +1,71 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Sâmbătă, 21 noiembrie 2026
+3 mișcări notabile
+
+PE SCURT
+- Acțiunile americane au scăzut a cincea ședință la rând pe 20 noiembrie, pe fondul vânzărilor în cipuri și AI, ceea ce a tras în jos SXR8, SXRV și VWCE.
+- Dolarul s-a întărit pe așteptări de politică mai dură a Fed, euro a atins un minim de peste un an, iar USD/RON a continuat să crească.
+- Emisiunea Fidelis din noiembrie a oferit dobânzi de până la 6,60% în euro, iar BCE este așteptată să păstreze dobânda neschimbată pe 18 decembrie.
+
+CURS VALUTAR
+- EUR/RON: 5,3482 (20.11) · zi +0,07% · 7 zile −0,03% · 30 zile +0,35%
+  De ce: Leul rămâne sub o presiune de fond legată de deficitul comercial, în creștere cu 19% față de anul trecut, a declarat un reprezentant al BNR, potrivit financialintelligence.ro.
+    https://financialintelligence.ro/suciu-bnr-exista-o-presiune-pe-curs-care-vine-din-cifrele-de-deficit-comercial-publicate-recent/
+- USD/RON: 4,8782 (20.11) · zi +0,47% · 7 zile +0,73% · 30 zile +2,72%
+  De ce: Creșterea USD/RON vine din întărirea dolarului la nivel global pe fondul așteptărilor de politică Fed mai dură, aceeași mișcare care a dus euro la un minim de peste un an față de dolar.
+    https://www.mitrade.com/insights/news/live-news/article-1-2262964-20261118
+- EUR/USD: 1,0990 (20.11) · zi −0,02% · 7 zile −0,56% · 30 zile −2,17%
+  De ce: Euro a scăzut la minimul ultimelor aproape 19 luni față de dolar, sub presiunea așteptărilor privind o Fed mai restrictivă în continuare, potrivit Mitrade și FXStreet.
+    https://www.mitrade.com/insights/news/live-news/article-1-2262964-20261118
+    https://www.mitrade.com/insights/news/live-news/article-1-2262124-20261118
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 695,64 € (20.11) · zi −3,40% · 7 zile −5,83% · 30 zile −6,64%
+  7 zile: S&P 500 în USD −6,35%, efectul cursului EUR/USD +0,56% (aproximativ)
+  30 zile: S&P 500 în USD −8,67%, efectul cursului EUR/USD +2,22% (aproximativ)
+  De ce: SXR8 a scăzut odată cu S&P 500, care a încheiat pe 20 noiembrie a cincea ședință consecutivă în scădere (-1,56%), din cauza vânzărilor masive în sectorul cipurilor; mișcarea EUR/USD din ultima săptămână și lună a atenuat, nu a cauzat, scăderea în euro.
+    https://www.thestar.com.my/news/world/2025/11/21/us-stocks-close-lower
+    https://www.business-standard.com/amp/markets/capital-market-news/global-markets-slide-as-tech-stocks-lead-sell-off-dow-sheds-nearly-500-points-125111900312_1.html
+- iShares Nasdaq 100 (SXRV): 1.346,00 € (20.11) · zi −5,72% · 7 zile −7,35% · 30 zile −11,75%
+  7 zile: Nasdaq-100 în USD −7,87%, efectul cursului EUR/USD +0,56% (aproximativ)
+  30 zile: Nasdaq-100 în USD −13,66%, efectul cursului EUR/USD +2,22% (aproximativ)
+  De ce: SXRV a urmat căderea Nasdaq (-2,15% pe 20 noiembrie), a cincea ședință negativă la rând, pe fondul vânzărilor la producătorii de cipuri și al îngrijorărilor legate de Nvidia; componenta de curs EUR/USD a compensat doar parțial scăderea indicelui în euro.
+    https://www.thestar.com.my/news/world/2025/11/21/us-stocks-close-lower
+    https://www.webull.com/news/15935608114835456
+- Vanguard FTSE All-World (VWCE): 159,59 € (20.11) · zi −3,29% · 7 zile −6,17% · 30 zile −6,72%
+  De ce: VWCE a scăzut odată cu piețele globale de acțiuni, afectate de același val de vânzări din tehnologie și cipuri care a tras în jos și indicii americani pe 20 noiembrie.
+    https://www.business-standard.com/amp/markets/capital-market-news/global-markets-slide-as-tech-stocks-lead-sell-off-dow-sheds-nearly-500-points-125111900312_1.html
+- Xtrackers EUR Overnight (XEON): 150,8600 € (19.11, fără cotație nouă) · zi +0,02% · 7 zile +0,06% · 30 zile +0,21%
+  Randament anualizat pe ultimele 30 de zile: ~2,62%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (21.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,441% (19.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+
+
+ȘTIRI CARE AU CONTAT
+- FIDELIS noiembrie 2026: Titluri de stat cu dobânzi de până la 7,75% în lei și 6,60% în euro (alba24.ro)
+  Ultima ediție Fidelis din toamnă a oferit 6,60% în euro pe 10 ani, o variantă de comparat cu depozitele în euro.
+  https://alba24.ro/fidelis-noiembrie-2026-titluri-de-stat-cu-dobanzi-de-pana-la-775-in-lei-si-660-in-euro-la-ultima-editie-de-toamna-1166514.html
+- ECB Poised to Hold Rates as Traders Look Ahead to December (TradingEconomics)
+  Piețele nu anticipează o reducere a dobânzii BCE la ședința din 18 decembrie, deci dobânzile la depozitele în euro ar putea rămâne apropiate de nivelul actual.
+  https://tradingeconomics.com/euro-area/interest-rate/news/596136
+- Euro struggles amid growing expectations of prolonged Fed tightening (Mitrade, 18.11.2026)
+  Un dolar mai puternic înseamnă indirect presiune pe leu prin EUR/USD, chiar dacă BNR ține EUR/RON stabil.
+  https://www.mitrade.com/insights/news/live-news/article-1-2262964-20261118
+- Suciu, BNR: există o presiune pe curs care vine din cifrele de deficit comercial publicate recent (financialintelligence.ro)
+  Deficitul comercial rămâne principalul factor de presiune pe cursul leului, relevant pentru stabilitatea EUR/RON pe termen mediu.
+  https://financialintelligence.ro/suciu-bnr-exista-o-presiune-pe-curs-care-vine-din-cifrele-de-deficit-comercial-publicate-recent/
+- Global Markets Slide as Tech Stocks Lead Sell-Off; Dow Sheds Nearly 500 Points (Business Standard)
+  Explică direct scăderea SXR8, SXRV și VWCE: vânzările din tehnologie au tras în jos indicii americani și globali.
+  https://www.business-standard.com/amp/markets/capital-market-news/global-markets-slide-as-tech-stocks-lead-sell-off-dow-sheds-nearly-500-points-125111900312_1.html
+- Stock Indexes Settle Sharply Lower on Big Tech Drubbing (Webull, 17.11.2026)
+  Ruta cipurilor, legată de Nvidia și de controalele la export, a șters circa 2.000 de miliarde de dolari din valoarea sectorului în câteva săptămâni, context util pentru cine urmărește SXR8/SXRV înainte de a investi.
+  https://www.webull.com/news/15935608114835456
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
