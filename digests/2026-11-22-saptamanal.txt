@@ -1,0 +1,90 @@
+BANI ÎN EURO · rezumatul săptămânii
+Duminică, 22 noiembrie 2026
+3 mișcări notabile
+
+PE SCURT
+- Vânzările masive de pe Wall Street, pornite de demisia CEO-ului Nvidia și de temerile legate de investițiile în AI, au tras S&P 500 și Nasdaq cu 5-7% mai jos în euro în ultima săptămână.
+- Euro s-a depreciat ușor față de dolar pe fondul acestei agitații, ceea ce a atenuat parțial, în euro, pierderea indicilor americani.
+- BCE a păstrat dobânda de depozit la 2,50%, iar ediția Fidelis din noiembrie a oferit în continuare dobânzi de până la 6,60% pe an în euro.
+
+CURS VALUTAR
+- EUR/RON: 5,3482 (20.11) · zi +0,07% · 7 zile −0,03% · 30 zile +0,35% · 90 zile +1,71%
+- USD/RON: 4,8782 (20.11) · zi +0,47% · 7 zile +0,73% · 30 zile +2,72% · 90 zile +8,58%
+  De ce: Creșterea cursului dolar/leu în această săptămână reflectă mai ales întărirea generală a dolarului față de euro, nu un factor specific leului.
+    https://www.fxstreet.com/analysis/eur-usd-price-forecast-near-term-direction-looks-at-us-data-backlog-202511171807
+- EUR/USD: 1,0990 (20.11) · zi −0,02% · 7 zile −0,56% · 30 zile −2,17% · 90 zile −6,06%
+  De ce: Euro s-a depreciat ușor față de dolar în această săptămână, pe fondul unei perioade de consolidare înaintea unor date economice americane întârziate, care ar putea influența direcția perechii.
+    https://www.fxstreet.com/analysis/eur-usd-price-forecast-near-term-direction-looks-at-us-data-backlog-202511171807
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 695,64 € (20.11) · zi −3,40% · 7 zile −5,83% · 30 zile −6,64% · 90 zile −1,59%
+  7 zile: S&P 500 în USD −6,35%, efectul cursului EUR/USD +0,56% (aproximativ)
+  30 zile: S&P 500 în USD −8,67%, efectul cursului EUR/USD +2,22% (aproximativ)
+  De ce: S&P 500 a scăzut puternic în dolari după ce demisia CEO-ului Nvidia și temerile legate de cheltuielile pe infrastructură AI, amplificate de rezultatul alegerilor parțiale din SUA, au provocat o vânzare masivă de acțiuni tech; deprecierea euro față de dolar din aceeași săptămână a atenuat parțial pierderea convertită în euro.
+    https://www.kptv.com/2026/11/17/another-wipeout-hits-wall-street-nvidia-other-jittery-ai-stocks-swing-lower/?outputType=amp
+    https://www.nbcnews.com/business/markets/stock-market-update-ai-losses-rcna242592
+- iShares Nasdaq 100 (SXRV): 1.346,00 € (20.11) · zi −5,72% · 7 zile −7,35% · 30 zile −11,75% · 90 zile −6,46%
+  7 zile: Nasdaq-100 în USD −7,87%, efectul cursului EUR/USD +0,56% (aproximativ)
+  30 zile: Nasdaq-100 în USD −13,66%, efectul cursului EUR/USD +2,22% (aproximativ)
+  De ce: Nasdaq-100, puternic expus la acțiunile AI, a avut o scădere și mai mare decât S&P 500 în aceeași săptămână, pe fondul retragerii CEO-ului Nvidia și al îngrijorărilor privind investițiile în centre de date; și aici deprecierea euro față de dolar a mai redus pierderea exprimată în euro.
+    https://www.kptv.com/2026/11/17/another-wipeout-hits-wall-street-nvidia-other-jittery-ai-stocks-swing-lower/?outputType=amp
+    https://www.nbcnews.com/business/markets/stock-market-update-ai-losses-rcna242592
+- Vanguard FTSE All-World (VWCE): 159,59 € (20.11) · zi −3,29% · 7 zile −6,17% · 30 zile −6,72% · 90 zile −3,73%
+  De ce: Fiind puternic ponderat pe acțiuni americane, indicele global urmărit de VWCE a fost tras în jos de același val de vânzări pe acțiunile legate de AI, declanșat de demisia CEO-ului Nvidia și de îngrijorările privind cheltuielile pe infrastructura AI.
+    https://www.kptv.com/2026/11/17/another-wipeout-hits-wall-street-nvidia-other-jittery-ai-stocks-swing-lower/?outputType=amp
+- Xtrackers EUR Overnight (XEON): 150,8600 € (19.11) · zi +0,02% · 7 zile +0,06% · 30 zile +0,21% · 90 zile +0,60%
+  Randament anualizat pe ultimele 30 de zile: ~2,62%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (22.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp · 90 zile +0,25 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,441% (19.11) · zi – · 7 zile 0,00 pp · 30 zile 0,00 pp · 90 zile +0,25 pp
+
+
+CELE MAI BUNE OFERTE ACTIVE (EUR ÎNTÂI)
+- Exim Banca Românească · Depozit la termen EUR 12 luni (SuperEuro): 3,50% pe an · depozit la termen · 1 an · EUR · minim 150 EUR · subscriere până la 31.12.2026
+  https://www.economica.net/?p=991475
+- Exim Banca Românească · Depozit Plus EUR 7 luni (clienți noi): 3,10% pe an · depozit la termen · 7 luni · EUR · minim 150 EUR · subscriere până la 27.11.2026
+  https://www.economica.net/?p=991475
+- TechVentures Bank · Depozit la termen EUR 12 luni: 2,65% pe an · depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- Revolut · Instant Access Savings EUR (plan Plus): 2,50% pe an · cont de economii · la vedere · EUR
+  https://www.revolut.com/ro-RO/legal/pre-contractual-information-instant-access-savings-account/
+- Trade Republic · Interest on cash EUR: 2,50% pe an · cont de economii · la vedere · EUR
+  https://www.traderepublic.com/en-de/interest
+- TechVentures Bank · Depozit la termen EUR 6 luni: 2,30% pe an · depozit la termen · 6 luni · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- Patria Bank · Depozit la termen EUR 12 luni: 2,20% pe an · depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- Intesa Sanpaolo · Depozit la termen EUR 12 luni: 2,15% pe an · depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- ProCredit Bank · Depozit la termen EUR 12 luni: 2,10% pe an · depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+- UniCredit Bank · Depozit la termen EUR 12 luni: 2,10% pe an · depozit la termen · 1 an · EUR
+  https://financer.ro/investitii/depozite-bancare/
+
+ȘTIRI CARE AU CONTAT
+- Another wipeout hits Wall Street as Nvidia, other jittery AI stocks swing lower (KPTV/AP, 17.11.2026)
+  Explică scăderea din această săptămână a ETF-urilor SXR8, SXRV și VWCE, aflate pe lista de urmărire.
+  https://www.kptv.com/2026/11/17/another-wipeout-hits-wall-street-nvidia-other-jittery-ai-stocks-swing-lower/?outputType=amp
+- AI stocks lost more than $820 billion this week (NBC News, 17.11.2026)
+  Dimensiunea vânzării pe acțiunile AI ajută la înțelegerea amplitudinii scăderii indicilor americani în ultima săptămână.
+  https://www.nbcnews.com/business/markets/stock-market-update-ai-losses-rcna242592
+- ECB Poised to Hold Rates as Traders Look Ahead to December (Trading Economics)
+  Dobânda de depozit BCE rămâne la 2,50%, cu piețele atente la posibile schimbări abia în decembrie, relevant pentru randamentul cash-ului în euro.
+  https://tradingeconomics.com/euro-area/interest-rate/news/596136
+- FIDELIS noiembrie 2026: Titluri de stat cu dobânzi de până la 7,75% în lei și 6,60% în euro, la ultima ediție de toamnă (Alba24, 13.11.2026)
+  Ediția Fidelis din noiembrie a oferit dobânzi de până la 6,60% pe an în euro, o alternativă directă la ETF-uri pentru un deținător de euro.
+  https://alba24.ro/fidelis-noiembrie-2026-titluri-de-stat-cu-dobanzi-de-pana-la-775-in-lei-si-660-in-euro-la-ultima-editie-de-toamna-1166514.html
+- Cele șapte emisiuni Fidelis se tranzacționează la bursă din 19 noiembrie, prețul poate coborî sub 100 de lei sau euro (Financiarul.ro, 19.11.2026)
+  Util pentru cei care deja dețin Fidelis și vor să vândă sau să cumpere pe piața secundară din această săptămână.
+  https://financiarul.ro/investitii/cele-sapte-emisiuni-fidelis-se-tranzactioneaza-la-bursa-din-19-noiembrie-pretul-poate-cobori-sub-100-de-lei-sau-euro/
+- Deficitul bugetar a scăzut la 3,82% din PIB după primele nouă luni din 2026 (SpotMedia)
+  Deficitul bugetar rămâne principalul factor de risc pentru stabilitatea leului, chiar dacă s-a redus față de anul trecut.
+  https://spotmedia.ro/stiri/economie/deficitul-bugetar-a-scazut-la-382-din-pib-dupa-primele-noua-luni-din-2026
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
