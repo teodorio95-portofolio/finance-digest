@@ -1,0 +1,61 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Marți, 24 noiembrie 2026
+3 mișcări notabile
+
+PE SCURT
+- Bursele americane au avut luni cea mai bună ședință din ultimele săptămâni, pe șanse tot mai mari ca Fed să taie dobânda în decembrie și optimism privind AI — se vede în SXR8, SXRV și VWCE.
+- BCE pare să fi încheiat ciclul de reduceri de dobândă; piețele nu mai văd o scădere în decembrie, deci randamentul cash-ului în euro (XEON, €STR) rămâne apropiat de nivelul actual.
+- Emisiunea Fidelis din noiembrie s-a încheiat cu 1,48 miliarde lei plasați, cu tranșe în euro la dobânzi de până la 6,60%.
+
+CURS VALUTAR
+- EUR/RON: 5,3485 (23.11) · zi +0,01% · 7 zile −0,02% · 30 zile −0,02%
+- USD/RON: 4,8753 (23.11) · zi −0,06% · 7 zile +0,31% · 30 zile +2,06%
+- EUR/USD: 1,0939 (23.11) · zi −0,46% · 7 zile −0,68% · 30 zile −2,27%
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 719,54 € (23.11) · zi +5,96% · 7 zile −1,04% · 30 zile −2,10%
+  7 zile: S&P 500 în USD −1,71%, efectul cursului EUR/USD +0,69% (aproximativ)
+  30 zile: S&P 500 în USD −4,33%, efectul cursului EUR/USD +2,32% (aproximativ)
+  De ce: S&P 500 a avut luni cea mai bună ședință din ultimele șase săptămâni, pe fondul creșterii șanselor ca Fed să reducă dobânda în decembrie (aproape 90%, după semnale dovish de la mai mulți oficiali) și al optimismului privind cheltuielile pe AI ale unor companii precum Alphabet și Broadcom. Fiindcă SXR8 reproduce S&P 500 în euro, mișcarea de azi vine din indicele american, nu din curs.
+    https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rally-as-nvidia-tesla-google-lead-big-tech-surge-234718847.html
+    https://www.bloomberg.com/news/articles/2025-11-23/asian-stocks-poised-for-cautiously-upbeat-open-markets-wrap
+- iShares Nasdaq 100 (SXRV): 1.414,50 € (23.11) · zi +8,07% · 7 zile −0,31% · 30 zile −4,84%
+  7 zile: Nasdaq-100 în USD −0,99%, efectul cursului EUR/USD +0,69% (aproximativ)
+  30 zile: Nasdaq-100 în USD −6,99%, efectul cursului EUR/USD +2,32% (aproximativ)
+  De ce: Nasdaq 100 a sărit cel mai mult de la luna mai, condus de Alphabet, Broadcom și Tesla, pe fondul șanselor în creștere pentru o reducere de dobândă a Fed în decembrie. Pentru SXRV, mișcarea vine în principal din indicele american, euro/dolar având o contribuție mică.
+    https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rally-as-nvidia-tesla-google-lead-big-tech-surge-234718847.html
+    https://www.fxempire.com/forecasts/article/sp500-and-nasdaq-100-tech-stocks-lead-early-week-rebound-on-strengthening-fed-forecast-1564078
+- Vanguard FTSE All-World (VWCE): 165,31 € (23.11) · zi +5,03% · 7 zile −1,46% · 30 zile −2,11%
+  De ce: VWCE urmează acțiuni globale, dar ponderea mare a companiilor americane mari face ca avansul de luni al bursei din SUA, susținut de perspectiva unei reduceri de dobândă a Fed și de optimismul privind AI, să se transmită direct în valoarea fondului.
+    https://www.bloomberg.com/news/articles/2025-11-23/asian-stocks-poised-for-cautiously-upbeat-open-markets-wrap
+- Xtrackers EUR Overnight (XEON): 150,8800 € (23.11) · zi +0,01% · 7 zile +0,05% · 30 zile +0,21%
+  Randament anualizat pe ultimele 30 de zile: ~2,45%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (24.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,444% (20.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+
+
+ȘTIRI CARE AU CONTAT
+- Stock market today: Nasdaq sees biggest jump since May, S&P 500 soars as Alphabet, Tesla lead tech rally (Yahoo Finance, 23.11.2026)
+  Explică avansul puternic al bursei americane care se reflectă direct în ETF-urile SXR8 și SXRV deținute în euro.
+  https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rally-as-nvidia-tesla-google-lead-big-tech-surge-234718847.html
+- SP500 And Nasdaq 100 Tech Stocks Lead Early-Week Rebound On Strengthening Fed Forecast (FXEmpire, 23.11.2026)
+  Șansele de aproape 90% pentru o reducere de dobândă Fed în decembrie influențează dolarul și, indirect, cursul euro/dolar.
+  https://www.fxempire.com/forecasts/article/sp500-and-nasdaq-100-tech-stocks-lead-early-week-rebound-on-strengthening-fed-forecast-1564078
+- Will the ECB Cut Interest Rates in December? (Morningstar)
+  Piețele nu mai anticipează o reducere de dobândă BCE în decembrie, ceea ce ține randamentul cash-ului în euro (XEON, €STR) stabil pe termen scurt.
+  https://global.morningstar.com/en-gb/economy/will-ecb-cut-interest-rates-december
+- Românii au plasat 1,48 miliarde de lei în Fidelis. Ce arată rezultatele emisiunii din noiembrie (Bugetul.ro)
+  Arată cererea reală pentru titlurile de stat Fidelis, alternativă la depozitele în euro pentru un economisitor român.
+  https://www.bugetul.ro/romanii-au-plasat-1-48-miliarde-de-lei-in-fidelis-ce-arata-rezultatele-emisiunii-din-noiembrie/
+- FIDELIS noiembrie 2026: Titluri de stat cu dobânzi de până la 7,75% în lei și 6,60% în euro, la ultima ediție de toamnă (Alba24, 06.11.2026)
+  Detaliază dobânzile tranșelor în euro din ultima emisiune Fidelis din acest an, relevante pentru cine compară cu depozitele bancare.
+  https://alba24.ro/fidelis-noiembrie-2026-titluri-de-stat-cu-dobanzi-de-pana-la-775-in-lei-si-660-in-euro-la-ultima-editie-de-toamna-1166514.html
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
