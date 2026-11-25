@@ -1,0 +1,61 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Miercuri, 25 noiembrie 2026
+2 mișcări notabile
+
+PE SCURT
+- SXR8 și SXRV au scăzut din nou pe fondul vânzărilor în acțiunile de cipuri și AI, înainte de rezultatele Nvidia; dolarul mai tare a compensat o parte din pierdere la conversia în euro.
+- Euro rămâne sub 1,10 dolari de câteva săptămâni, iar BCE e văzută ținând dobânda neschimbată până la final de 2026.
+- Ediția Fidelis din noiembrie a oferit dobânzi de până la 6,60%/an în euro; subscrierile au atins 1,48 mld. lei.
+
+CURS VALUTAR
+- EUR/RON: 5,3427 (24.11) · zi −0,11% · 7 zile −0,11% · 30 zile −0,13%
+- USD/RON: 4,8845 (24.11) · zi +0,19% · 7 zile +0,37% · 30 zile +2,25%
+- EUR/USD: 1,0963 (24.11) · zi +0,22% · 7 zile −0,24% · 30 zile −2,05%
+  De ce: Euro rămâne sub pragul de 1,10 dolari de câteva săptămâni, pe fondul unui dolar susținut de un ritm prudent al reducerilor de dobândă ale Fed, conform FXStreet; asta explică și scăderea pe 30 de zile a cursului euro/dolar.
+    https://www.fxstreet.com/news/euro-stuck-under-110-as-weak-us-data-fails-to-slow-the-dollar-202611192225
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 704,94 € (24.11) · zi −1,34% · 7 zile −2,26% · 30 zile −4,09%
+  7 zile: S&P 500 în USD −2,49%, efectul cursului EUR/USD +0,24% (aproximativ)
+  30 zile: S&P 500 în USD −6,06%, efectul cursului EUR/USD +2,10% (aproximativ)
+  De ce: Scăderea de luni vine din indicele S&P 500 (pe care SXR8 îl replică, ca SPY), care a încheiat ședința în minus din cauza vânzărilor în acțiunile din cipuri și infrastructură AI, înainte de rezultatele Nvidia. Pe 7 și 30 de zile, aproape toată pierderea e din indicele în dolari, iar dolarul mai puternic a compensat o parte din ea la conversia în euro.
+    https://www.webull.com/news/15935608114835456
+    https://finance.yahoo.com/news/stock-market-wobbles-tech-sells-170224601.html
+- iShares Nasdaq 100 (SXRV): 1.363,20 € (24.11) · zi −2,99% · 7 zile −3,45% · 30 zile −8,29%
+  7 zile: Nasdaq-100 în USD −3,68%, efectul cursului EUR/USD +0,24% (aproximativ)
+  30 zile: Nasdaq-100 în USD −10,17%, efectul cursului EUR/USD +2,10% (aproximativ)
+  De ce: SXRV, care replică Nasdaq-100 (ca QQQ), a scăzut mai mult decât SXR8 din cauza concentrării mari pe acțiuni tech și AI, puternic afectate luni de retragerile din cipuri și infrastructură AI înainte de rezultatele Nvidia. Pe 7 și 30 de zile, pierderea vine aproape integral din indicele în dolari, dolarul mai tare atenuând-o parțial în euro.
+    https://www.webull.com/news/15935608114835456
+    https://finance.yahoo.com/news/stock-market-wobbles-tech-sells-170224601.html
+- Vanguard FTSE All-World (VWCE): 161,83 € (24.11) · zi −0,73% · 7 zile −2,59% · 30 zile −4,17%
+- Xtrackers EUR Overnight (XEON): 150,8800 € (24.11) · zi −0,01% · 7 zile +0,04% · 30 zile +0,21%
+  Randament anualizat pe ultimele 30 de zile: ~2,37%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (25.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,443% (23.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+
+
+ȘTIRI CARE AU CONTAT
+- Stock Indexes Settle Sharply Lower on Big Tech Drubbing (Webull, 24.11.2026)
+  Vânzările din acțiunile de cipuri și AI au tras indicii americani, și deci SXR8/SXRV, în jos.
+  https://www.webull.com/news/15935608114835456
+- FIDELIS – A fost bătaie pe titlurile de stat din ediția din noiembrie a programului. Ce dobânzi au avut (economica.net, 14.11.2026)
+  Ediția de noiembrie a oferit până la 6,60%/an la titlurile în euro, o alternativă la depozite pentru cine așteaptă să investească.
+  https://www.economica.net/fidelis-a-fost-bataie-pe-titlurile-de-stat-din-editia-din-noiembrie-a-programului-ce-dobanzi-au-avut_888938.html/amp
+- BCE nu va modifica ratele dobânzilor în 2026 (profit.ro)
+  Dacă BCE ține dobânda neschimbată, randamentele la cash-ul în euro (XEON) rămân probabil stabile pe termen scurt.
+  https://profit.ro/povesti-cu-profit/financiar/bce-nu-va-modifica-ratele-dobanzilor-in-2026-22274274
+- Euro stuck under 1.10 as weak US data fails to slow the Dollar (FXStreet, 19.11.2026)
+  Un dolar susținut de politica Fed ține euro sub 1,10, ceea ce a amortizat parțial scăderea ETF-urilor americane convertite în euro.
+  https://www.fxstreet.com/news/euro-stuck-under-110-as-weak-us-data-fails-to-slow-the-dollar-202611192225
+- Romania's public debt cost as per Fidelis issues stays steady but high in November (Romania Insider)
+  Costul ridicat al împrumuturilor statului prin Fidelis arată dobânzi atractive pentru cei care economisesc, dar și presiune pe finanțele publice, relevantă pentru stabilitatea leului.
+  https://www.romania-insider.com/romanias-public-debt-cost-per-fidelis-issues-stays
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
