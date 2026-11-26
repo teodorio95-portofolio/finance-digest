@@ -1,0 +1,73 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Joi, 26 noiembrie 2026
+1 ofertă nouă · 3 mișcări notabile
+
+PE SCURT
+- O nouă rundă de vânzări pe acțiuni de cipuri și AI (Nvidia și alții) a tras în jos S&P 500 și Nasdaq-100, explicând scăderea SXR8, SXRV și VWCE.
+- Euro s-a depreciat ușor față de dolar, pe fondul forței dolarului american; asta a atenuat puțin scăderea ETF-urilor exprimate în euro.
+- Cursul BNR EUR/RON rămâne stabil în jurul a 5,34 lei, iar randamentul cash în euro (XEON) este practic neschimbat.
+
+CURS VALUTAR
+- EUR/RON: 5,3428 (25.11) · zi 0,00% · 7 zile −0,06% · 30 zile −0,07%
+- USD/RON: 4,8817 (25.11) · zi −0,06% · 7 zile +0,19% · 30 zile +2,25%
+  De ce: Mișcarea USD/RON reflectă în bună parte întărirea dolarului față de euro în ultimele zile (date economice din SUA și divergența Fed–BCE, potrivit FXStreet), euro/leu rămânând în schimb relativ stabil.
+    https://www.fxstreet.com/news/euro-stuck-under-110-as-weak-us-data-fails-to-slow-the-dollar-202611192225
+- EUR/USD: 1,0935 (25.11) · zi −0,26% · 7 zile −0,30% · 30 zile −2,26%
+  De ce: Euro a rămas sub presiune față de dolar, 'blocat sub 1,10', pe fondul forței dolarului american, susținută de date economice din SUA și de diferența dintre politica Fed și cea a BCE, potrivit FXStreet.
+    https://www.fxstreet.com/news/euro-stuck-under-110-as-weak-us-data-fails-to-slow-the-dollar-202611192225
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 691,68 € (25.11) · zi −2,50% · 7 zile −4,07% · 30 zile −6,59%
+  7 zile: S&P 500 în USD −4,36%, efectul cursului EUR/USD +0,30% (aproximativ)
+  30 zile: S&P 500 în USD −8,70%, efectul cursului EUR/USD +2,31% (aproximativ)
+  De ce: Scăderea S&P 500, pe care SXR8 îl replică, vine dintr-o nouă rundă de vânzări pe acțiunile de cipuri și infrastructură AI (inclusiv Nvidia), pe fondul îngrijorărilor legate de controalele la export și de ritmul cheltuielilor pe AI, potrivit Webull și AP. O parte din scăderea indicelui în dolari a fost compensată de deprecierea euro față de dolar, care a adăugat randament exprimat în euro.
+    https://www.webull.com/news/15935608114835456
+    https://www.wcax.com/2026/11/17/another-wipeout-hits-wall-street-nvidia-other-jittery-ai-stocks-swing-lower/?outputType=amp
+- iShares Nasdaq 100 (SXRV): 1.317,80 € (25.11) · zi −4,10% · 7 zile −7,23% · 30 zile −12,34%
+  7 zile: Nasdaq-100 în USD −7,51%, efectul cursului EUR/USD +0,30% (aproximativ)
+  30 zile: Nasdaq-100 în USD −14,32%, efectul cursului EUR/USD +2,31% (aproximativ)
+  De ce: Nasdaq-100, pe care SXRV îl replică, a fost lovit mai dur decât S&P 500 fiindcă este puternic expus pe cipuri și companii AI precum Nvidia, într-o corecție legată de scepticismul investitorilor privind rentabilitatea cheltuielilor masive pe infrastructură AI, potrivit Webull, AP și Finance Magnates. Ca și la SXR8, o parte din scădere a fost atenuată în euro de slăbirea monedei europene față de do…
+    https://www.webull.com/news/15935608114835456
+    https://www.wcax.com/2026/11/17/another-wipeout-hits-wall-street-nvidia-other-jittery-ai-stocks-swing-lower/?outputType=amp
+    https://www.financemagnates.com/thought-leadership/ai-is-booming-so-why-is-the-nasdaq-bleeding/
+- Vanguard FTSE All-World (VWCE): 159,15 € (25.11) · zi −2,40% · 7 zile −3,95% · 30 zile −6,15%
+  De ce: VWCE urmează aceeași tendință ca piața americană, care are cea mai mare pondere în indicele global, pe fondul vânzărilor pe acțiunile tech/AI descrise de Webull și Finance Magnates.
+    https://www.webull.com/news/15935608114835456
+    https://www.financemagnates.com/thought-leadership/ai-is-booming-so-why-is-the-nasdaq-bleeding/
+- Xtrackers EUR Overnight (XEON): 150,8900 € (25.11) · zi −0,01% · 7 zile +0,04% · 30 zile +0,19%
+  Randament anualizat pe ultimele 30 de zile: ~2,37%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (25.11) · zi – · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,444% (24.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+
+
+OPORTUNITĂȚI NOI SAU SCHIMBATE
+- Banca Transilvania · Depozit la termen EUR 36 luni: 2,00% pe an [nou]
+  depozit la termen · 3 ani · EUR
+  Dobânda este impozitată cu 10%, reținut la sursă.
+  https://financer.ro/investitii/depozite-bancare/
+
+ȘTIRI CARE AU CONTAT
+- Stock Indexes Settle Sharply Lower on Big Tech Drubbing (Webull, 16.11.2026)
+  Vânzările pe cipuri și acțiuni AI explică scăderea recentă a S&P 500 și Nasdaq-100, care se văd direct în valoarea în euro a SXR8 și SXRV.
+  https://www.webull.com/news/15935608114835456
+- Another wipeout hits Wall Street as Nvidia, other jittery AI stocks swing lower (AP, 17.11.2026)
+  Detaliază corecția continuă a acțiunilor legate de AI, un factor de volatilitate pentru orice sumă deja plasată în SXR8/SXRV.
+  https://www.wcax.com/2026/11/17/another-wipeout-hits-wall-street-nvidia-other-jittery-ai-stocks-swing-lower/?outputType=amp
+- AI Is Booming. So Why Is the Nasdaq Bleeding? (Finance Magnates)
+  Explică faptul că piața cere dovezi de profitabilitate pe investițiile AI, utile pentru a înțelege de ce scăderea nu e doar un episod de o zi.
+  https://www.financemagnates.com/thought-leadership/ai-is-booming-so-why-is-the-nasdaq-bleeding/
+- Euro stuck under 1.10 as weak US data fails to slow the Dollar (FXStreet, 19.11.2026)
+  Un dolar mai forte reduce randamentul în euro al activelor americane, dar atenuează puțin scăderea ETF-urilor UCITS cotate în euro.
+  https://www.fxstreet.com/news/euro-stuck-under-110-as-weak-us-data-fails-to-slow-the-dollar-202611192225
+- Oferta primară de titluri de stat FIDELIS (noiembrie 2026) (BVB, 13.11.2026)
+  Ultima emisiune FIDELIS în euro (subscriere 6-13 noiembrie) a oferit 4,5-6,6% pe an, un reper pentru compararea cu depozitele bancare în euro.
+  https://m.bvb.ro/offers/gbonds/GovRomaniaIPO_GBonds_2026_november.aspx
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
