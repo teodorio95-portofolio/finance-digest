@@ -1,0 +1,60 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Vineri, 27 noiembrie 2026
+
+PE SCURT
+- Dolarul s-a depreciat pe fondul pariurilor tot mai mari pe o reducere de dobândă Fed în decembrie, ceea ce a tras în jos și USD/RON.
+- Bursele americane au crescut a patra zi la rând, susținute de tech și de speranțele de relaxare monetară Fed – pozitiv pentru SXR8/SXRV.
+- BCE a lăsat dobânda de depozit la 2,50%; Fidelis din noiembrie a oferit 6,60% în euro pe 10 ani, peste dobânzile de 3–3,5% la depozitele bancare în euro.
+
+CURS VALUTAR
+- EUR/RON: 5,3431 (26.11) · zi +0,01% · 7 zile −0,02% · 30 zile −0,10%
+- USD/RON: 4,8682 (26.11) · zi −0,28% · 7 zile +0,27% · 30 zile +1,47%
+  De ce: Scăderea USD/RON a reflectat slăbirea dolarului la nivel global, pe fondul anticipațiilor unei reduceri de dobândă a Fed în decembrie, conform FXStreet.
+    https://www.fxstreet.com/news/eur-usd-advances-on-risk-appetite-fed-monetary-easing-hopes-202511260847
+- EUR/USD: 1,0975 (26.11) · zi +0,37% · 7 zile −0,15% · 30 zile −1,57%
+  De ce: Euro a crescut față de dolar pe fondul unor date economice americane mai slabe decât anticipat (cereri de șomaj) și al întăririi pariurilor pe o reducere de dobândă a Fed în decembrie, conform FXStreet.
+    https://www.fxstreet.com/news/eur-usd-advances-on-risk-appetite-fed-monetary-easing-hopes-202511260847
+    https://www.fxstreet.com/news/eur-usd-edges-toward-116-as-falling-claims-fail-to-shake-dovish-mood-202511262245
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 712,09 € (26.11) · zi +0,37% · 7 zile +1,00% · 30 zile −4,73%
+  7 zile: S&P 500 în USD +0,85%, efectul cursului EUR/USD +0,15% (aproximativ)
+  30 zile: S&P 500 în USD −6,22%, efectul cursului EUR/USD +1,59% (aproximativ)
+- iShares Nasdaq 100 (SXRV): 1.373,10 € (26.11) · zi +0,31% · 7 zile −0,95% · 30 zile −10,13%
+  7 zile: Nasdaq-100 în USD −1,11%, efectul cursului EUR/USD +0,15% (aproximativ)
+  30 zile: Nasdaq-100 în USD −11,54%, efectul cursului EUR/USD +1,59% (aproximativ)
+- Vanguard FTSE All-World (VWCE): 163,51 € (26.11) · zi +0,70% · 7 zile +0,52% · 30 zile −4,46%
+- Xtrackers EUR Overnight (XEON): 150,9300 € (26.11) · zi +0,01% · 7 zile +0,06% · 30 zile +0,21%
+  Randament anualizat pe ultimele 30 de zile: ~2,62%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (27.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,444% (25.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+
+
+ȘTIRI CARE AU CONTAT
+- Stock market today: Dow, S&P 500, Nasdaq rally for 3rd day as Fed rate cut hopes grow, Apple and Alphabet notch records (Yahoo Finance, 26.11.2026)
+  Avansul bursier american din ultimele zile, susținut de speranțe de relaxare Fed, se reflectă direct în valoarea SXR8 și SXRV.
+  https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rally-for-3rd-day-as-fed-rate-cut-hopes-grow-apple-and-alphabet-notch-records-210019302.html
+- Is the ECB Done Cutting Interest Rates? What to Expect in December 2026 (Morningstar, 27.11.2026)
+  Analiștii sunt împărțiți privind o mișcare BCE în decembrie, lucru relevant pentru randamentul viitor al XEON și al depozitelor în euro.
+  https://global.morningstar.com/en-gb/economy/is-ecb-done-cutting-rates-what-expect-december-2026
+- Românii au plasat 1,48 miliarde de lei în Fidelis. Ce arată rezultatele emisiunii din noiembrie (bugetul.ro, 13.11.2026)
+  Ediția Fidelis din noiembrie a oferit 6,60% în euro pe 10 ani, o alternativă la depozitele bancare pentru cei care economisesc în euro.
+  https://www.bugetul.ro/romanii-au-plasat-1-48-miliarde-de-lei-in-fidelis-ce-arata-rezultatele-emisiunii-din-noiembrie/
+- FIDELIS noiembrie 2026: Titluri de stat cu dobânzi de până la 7,75% în lei și 6,60% în euro, la ultima ediție de toamnă (alba24.ro, 06.11.2026)
+  Detaliile ofertei Fidelis de toamnă ajută la compararea randamentului în euro față de depozitele bancare curente.
+  https://alba24.ro/fidelis-noiembrie-2026-titluri-de-stat-cu-dobanzi-de-pana-la-775-in-lei-si-660-in-euro-la-ultima-editie-de-toamna-1166514.html
+- Exim Banca Românească – Dobândă de 3,5% la depozitele în euro (economica.net)
+  O dobândă de 3,5% la depozitele în euro oferă un reper pentru randamentul alternativ la păstrarea banilor în cont curent.
+  https://www.economica.net/?p=991475
+- O bancă din România crește dobânzile la depozite până la 6,7% pe an (wall-street.ro)
+  Majorarea dobânzilor la depozitele în lei la o bancă locală arată presiunea băncilor pentru atragere de depozite, context util pentru comparație cu oferta în euro.
+  https://www.wall-street.ro/articol/credite-si-depozite-bancare/o-banca-din-romania-creste-dobanzile-la-depozite-pana-la-67-pe-an.html
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
