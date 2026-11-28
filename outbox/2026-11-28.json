@@ -3,7 +3,8 @@
  "stem": "2026-11-28",
  "subject": "Bani în euro 28.11: EUR/RON 5,3434 (+0,01%) · S&P 500 +0,85% · Nasdaq +1,51%",
  "attachments": [],
- "status": "pending",
- "attempts": 0,
- "last_error": null
+ "status": "sent",
+ "attempts": 1,
+ "last_error": null,
+ "sent_at": "2026-11-28T05:36:46+00:00"
 }
