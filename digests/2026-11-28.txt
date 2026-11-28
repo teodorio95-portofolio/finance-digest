@@ -1,0 +1,61 @@
+BANI ÎN EURO · curs, ETF-uri, dobânzi
+Sâmbătă, 28 noiembrie 2026
+2 mișcări notabile
+
+PE SCURT
+- Piețele americane au încheiat vineri, 27 noiembrie (Black Friday), a cincea sesiune consecutivă în creștere, ceea ce a împins SXRV și VWCE mai sus în euro.
+- BCE a păstrat dobânda de depozit la 2,50% din septembrie; mai multe analize spun că ciclul de reduceri s-ar fi încheiat, deci randamentele în euro ar putea rămâne stabile pe termen scurt.
+- Ediția Fidelis din noiembrie s-a încheiat cu dobânzi de până la 7,75% în lei și 6,60% în euro și cerere de 1,48 mld. lei.
+
+CURS VALUTAR
+- EUR/RON: 5,3434 (27.11) · zi +0,01% · 7 zile −0,09% · 30 zile −0,11%
+- USD/RON: 4,8743 (27.11) · zi +0,13% · 7 zile −0,08% · 30 zile +1,36%
+- EUR/USD: 1,0957 (27.11) · zi −0,16% · 7 zile −0,30% · 30 zile −1,58%
+
+
+ETF-URI (UCITS în EUR; SPY și QQQ nu se vând retailului din UE, SXR8 și SXRV urmăresc aceiași indici)
+- iShares Core S&P 500 (SXR8): 718,15 € (27.11) · zi +0,85% · 7 zile +5,75% · 30 zile −4,33%
+  7 zile: S&P 500 în USD +5,43%, efectul cursului EUR/USD +0,30% (aproximativ)
+  30 zile: S&P 500 în USD −5,84%, efectul cursului EUR/USD +1,61% (aproximativ)
+- iShares Nasdaq 100 (SXRV): 1.393,80 € (27.11) · zi +1,51% · 7 zile +6,48% · 30 zile −9,41%
+  7 zile: Nasdaq-100 în USD +6,16%, efectul cursului EUR/USD +0,30% (aproximativ)
+  30 zile: Nasdaq-100 în USD −10,84%, efectul cursului EUR/USD +1,61% (aproximativ)
+  De ce: Avansul de vineri, 27 noiembrie, a venit din piața americană: acțiunile din SUA au bifat a cincea sesiune consecutivă de creștere de Black Friday, cu tehnologia în frunte, potrivit Kiplinger. Pe ultima săptămână, cea mai mare parte a câștigului SXRV a venit din indicele Nasdaq-100 însuși, nu din cursul euro-dolar.
+    https://www.kiplinger.com/investing/stocks/stocks-extend-win-streak-on-black-friday-stock-market-today
+- Vanguard FTSE All-World (VWCE): 165,37 € (27.11) · zi +1,14% · 7 zile +5,07% · 30 zile −3,87%
+  De ce: Creșterea VWCE reflectă aceeași revenire a piețelor americane de pe 27 noiembrie (S&P 500 +0,5%, Dow +0,6%, Nasdaq +0,7%), indici cu pondere mare în compoziția fondului global, potrivit Kiplinger și Trading Economics.
+    https://www.kiplinger.com/investing/stocks/stocks-extend-win-streak-on-black-friday-stock-market-today
+    https://tradingeconomics.com/united-states/stock-market/news/505924
+- Xtrackers EUR Overnight (XEON): 150,9500 € (27.11) · zi +0,01% · 7 zile +0,06% · 30 zile +0,22%
+  Randament anualizat pe ultimele 30 de zile: ~2,70%
+
+
+DOBÂNZI DE REFERINȚĂ ÎN EUR
+- Rata facilității de depozit BCE: 2,50% (28.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile 0,00 pp
+  Ultima schimbare: 16.09.2026, de la 2,25% la 2,50%
+- €STR (dobânda overnight în EUR): 2,445% (26.11) · zi 0,00 pp · 7 zile 0,00 pp · 30 zile +0,01 pp
+
+
+ȘTIRI CARE AU CONTAT
+- FIDELIS noiembrie 2026: Titluri de stat cu dobânzi de până la 7,75% în lei și 6,60% în euro, la ultima ediție de toamnă (alba24.ro)
+  Confirmă dobânzile maxime din ediția de toamnă Fidelis, un reper pentru randamentele disponibile în lei și euro la statul român.
+  https://alba24.ro/fidelis-noiembrie-2026-titluri-de-stat-cu-dobanzi-de-pana-la-775-in-lei-si-660-in-euro-la-ultima-editie-de-toamna-1166514.html
+- Românii au plasat 1,48 miliarde de lei în Fidelis. Ce arată rezultatele emisiunii din noiembrie (bugetul.ro)
+  Arată cât de mare a fost cererea pentru titlurile de stat în ediția din noiembrie, utilă pentru a compara cu oferte viitoare.
+  https://www.bugetul.ro/romanii-au-plasat-1-48-miliarde-de-lei-in-fidelis-ce-arata-rezultatele-emisiunii-din-noiembrie/
+- ECB Poised to Hold Rates as Traders Look Ahead to December (Trading Economics)
+  Semnalează că BCE ar putea păstra dobânda de depozit la 2,50% cel puțin până la finalul anului, deci randamentele la economiile în euro nu ar trebui să scadă brusc în perioada următoare.
+  https://tradingeconomics.com/euro-area/interest-rate/news/596136
+- EUR/USD: ECB Likely Done Easing – BBH (FXStreet, 21.11.2026)
+  Un alt semnal că ciclul de reduceri de dobândă al BCE s-ar fi încheiat, relevant pentru cineva care urmărește unde se stabilizează randamentele în euro înainte să investească.
+  https://www.fxstreet.com/news/eur-usd-ecb-likely-done-easing-bbh-202511211136
+- Stocks Extend Win Streak on Black Friday: Stock Market Today (Kiplinger, 27.11.2026)
+  Explică avansul din 27 noiembrie al acțiunilor americane, care se reflectă direct în valoarea SXR8, SXRV și VWCE în euro.
+  https://www.kiplinger.com/investing/stocks/stocks-extend-win-streak-on-black-friday-stock-market-today
+- Euro Stuck Under 1.10 as Weak US Data Fails to Slow the Dollar (FXStreet, 19.11.2026)
+  Arată presiunea datelor economice americane asupra cursului euro-dolar, un factor care influențează indirect cursul euro-leu.
+  https://www.fxstreet.com/news/euro-stuck-under-110-as-weak-us-data-fails-to-slow-the-dollar-202611192225
+
+--
+Informativ, nu este consultanță de investiții. Verifică la sursă înainte să decizi.
+Generat automat de finance-digest: https://github.com/teodorio95-portofolio/finance-digest/tree/data/digests
